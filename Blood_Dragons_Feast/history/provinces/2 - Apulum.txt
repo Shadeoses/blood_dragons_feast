@@ -1,0 +1,18 @@
+# c_apulum
+
+# County Title
+title = c_apulum
+
+# Settlements
+max_settlements = 4
+
+b_apulum = castle
+b_2b = city
+b_2c = temple
+#b_2d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

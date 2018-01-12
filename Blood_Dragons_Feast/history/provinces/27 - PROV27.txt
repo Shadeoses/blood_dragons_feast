@@ -1,0 +1,18 @@
+# c_prov27
+
+# County Title
+title = c_prov27
+
+# Settlements
+max_settlements = 4
+
+b_27a = castle
+b_27b = city
+b_27c = temple
+#b_27d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

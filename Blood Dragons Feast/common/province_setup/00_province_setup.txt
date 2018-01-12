@@ -1,8 +1,0 @@
-1 = {
-   title=c_cairun
-   max_settlements=2
-}
-2 = {
-   title=c_apulum
-   max_settlements=2
-}

@@ -1,0 +1,16 @@
+#IMPERIA
+technology = {
+	titles = {
+		d_imperia
+	}
+	1150 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	1500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

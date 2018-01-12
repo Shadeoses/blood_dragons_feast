@@ -1,0 +1,18 @@
+# c_cairun
+
+# County Title
+title = c_cairun
+
+# Settlements
+max_settlements = 4
+
+b_cairun = castle
+b_1b = city
+b_1c = temple
+#b_1d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

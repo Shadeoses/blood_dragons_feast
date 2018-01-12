@@ -1,0 +1,10 @@
+bm_fate_of_england = {
+	name = "BM_FATE_OF_ENGLAND"
+	desc = "BM_FATE_OF_ENGLAND_DESC"
+	date = 1255.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_3
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+
+}
