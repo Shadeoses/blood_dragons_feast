@@ -1,0 +1,6 @@
+#	NO WINTER = {
+#		# IMPERIA / Imperia
+#		1 2 
+#		# NO KINGDOM
+#		1500 1501 1502 
+#	}
