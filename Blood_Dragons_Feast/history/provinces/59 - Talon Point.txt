@@ -1,0 +1,18 @@
+# c_talon_point
+
+# County Title
+title = c_talon_point
+
+# Settlements
+max_settlements = 4
+
+b_38a_2 = castle
+b_38b_2 = city
+b_38c_2 = temple
+#b_38d_2 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

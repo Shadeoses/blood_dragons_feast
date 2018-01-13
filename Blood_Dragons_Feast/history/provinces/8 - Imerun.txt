@@ -1,0 +1,18 @@
+# c_imerun
+
+# County Title
+title = c_imerun
+
+# Settlements
+max_settlements = 4
+
+b_8a = castle
+b_8b = city
+b_8c = temple
+#b_8d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

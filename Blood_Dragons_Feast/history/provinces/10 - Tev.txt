@@ -1,0 +1,18 @@
+# c_tev
+
+# County Title
+title = c_tev
+
+# Settlements
+max_settlements = 4
+
+b_10a = castle
+b_10b = city
+b_10c = temple
+#b_10d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

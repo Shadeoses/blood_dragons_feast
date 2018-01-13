@@ -1,0 +1,18 @@
+# c_lumeron
+
+# County Title
+title = c_lumeron
+
+# Settlements
+max_settlements = 4
+
+b_41a_2 = castle
+b_41b_2 = city
+b_41c_2 = temple
+#b_41d_2 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

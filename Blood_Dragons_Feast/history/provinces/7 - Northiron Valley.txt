@@ -1,0 +1,18 @@
+# c_northiron_valley
+
+# County Title
+title = c_northiron_valley
+
+# Settlements
+max_settlements = 4
+
+b_7a = castle
+b_7b = city
+b_7c = temple
+#b_7d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_jacobaland
+
+# County Title
+title = c_jacobaland
+
+# Settlements
+max_settlements = 4
+
+b_25a = castle
+b_25b = city
+b_25c = temple
+#b_25d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

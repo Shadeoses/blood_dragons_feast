@@ -1,0 +1,18 @@
+# c_varenu
+
+# County Title
+title = c_varenu
+
+# Settlements
+max_settlements = 4
+
+b_19a = castle
+b_19b = city
+b_19c = temple
+#b_19d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

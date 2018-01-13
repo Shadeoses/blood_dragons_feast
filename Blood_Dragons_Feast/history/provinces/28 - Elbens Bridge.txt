@@ -1,0 +1,18 @@
+# c_elbens_bridge
+
+# County Title
+title = c_elbens_bridge
+
+# Settlements
+max_settlements = 4
+
+b_28a = castle
+b_28b = city
+b_28c = temple
+#b_28d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

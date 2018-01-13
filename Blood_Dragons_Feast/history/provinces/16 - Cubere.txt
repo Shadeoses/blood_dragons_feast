@@ -1,0 +1,18 @@
+# c_cubere
+
+# County Title
+title = c_cubere
+
+# Settlements
+max_settlements = 4
+
+b_16a = castle
+b_16b = city
+b_16c = temple
+#b_16d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

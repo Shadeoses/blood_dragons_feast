@@ -1,0 +1,18 @@
+# c_ragtown
+
+# County Title
+title = c_ragtown
+
+# Settlements
+max_settlements = 4
+
+b_13a = castle
+b_13b = city
+b_13c = temple
+#b_13d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

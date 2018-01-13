@@ -1,0 +1,18 @@
+# c_toskar_virum
+
+# County Title
+title = c_toskar_virum
+
+# Settlements
+max_settlements = 4
+
+b_41a = castle
+b_41b = city
+b_41c = temple
+#b_41d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_dinera
+
+# County Title
+title = c_dinera
+
+# Settlements
+max_settlements = 4
+
+b_30a = castle
+b_30b = city
+b_30c = temple
+#b_30d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_gervennin
+
+# County Title
+title = c_gervennin
+
+# Settlements
+max_settlements = 4
+
+b_31a = castle
+b_31b = city
+b_31c = temple
+#b_31d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_lake_raskath
+
+# County Title
+title = c_lake_raskath
+
+# Settlements
+max_settlements = 4
+
+b_45a = castle
+b_45b = city
+b_45c = temple
+#b_45d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

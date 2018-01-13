@@ -1,0 +1,18 @@
+# c_hopper_gorge
+
+# County Title
+title = c_hopper_gorge
+
+# Settlements
+max_settlements = 4
+
+b_46a = castle
+b_46b = city
+b_46c = temple
+#b_46d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

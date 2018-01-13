@@ -1,0 +1,18 @@
+# c_randeren
+
+# County Title
+title = c_randeren
+
+# Settlements
+max_settlements = 4
+
+b_49a = castle
+b_49b = city
+b_49c = temple
+#b_49d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

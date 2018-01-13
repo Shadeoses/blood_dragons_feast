@@ -1,0 +1,18 @@
+# c_west_press
+
+# County Title
+title = c_west_press
+
+# Settlements
+max_settlements = 4
+
+b_47a = castle
+b_47b = city
+b_47c = temple
+#b_47d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

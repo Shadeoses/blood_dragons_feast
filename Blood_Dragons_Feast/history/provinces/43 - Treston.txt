@@ -1,0 +1,18 @@
+# c_treston
+
+# County Title
+title = c_treston
+
+# Settlements
+max_settlements = 4
+
+b_43a = castle
+b_43b = city
+b_43c = temple
+#b_43d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

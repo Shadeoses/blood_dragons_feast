@@ -1,0 +1,18 @@
+# c_demarion_keep
+
+# County Title
+title = c_demarion_keep
+
+# Settlements
+max_settlements = 4
+
+b_4a = castle
+b_4b = city
+b_4c = temple
+#b_4d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

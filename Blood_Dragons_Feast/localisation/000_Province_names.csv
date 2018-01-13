@@ -1,43 +1,62 @@
 PROV1;Cairun;Cairun;Cairun;;;;;;;;;x
 PROV2;Apulum;Apulum;Apulum;;;;;;;;;x
-PROV3;PROV3;PROV3;PROV3;;;;;;;;;x
-PROV4;PROV4;PROV4;PROV4;;;;;;;;;x
-PROV5;PROV5;PROV5;PROV5;;;;;;;;;x
-PROV6;PROV6;PROV6;PROV6;;;;;;;;;x
-PROV7;PROV7;PROV7;PROV7;;;;;;;;;x
-PROV8;PROV8;PROV8;PROV8;;;;;;;;;x
-PROV9;PROV9;PROV9;PROV9;;;;;;;;;x
-PROV10;PROV10;PROV10;PROV10;;;;;;;;;x
-PROV11;PROV11;PROV11;PROV11;;;;;;;;;x
-PROV12;PROV12;PROV12;PROV12;;;;;;;;;x
-PROV13;PROV13;PROV13;PROV13;;;;;;;;;x
-PROV15;PROV15;PROV15;PROV15;;;;;;;;;x
-PROV16;PROV16;PROV16;PROV16;;;;;;;;;x
-PROV17;PROV17;PROV17;PROV17;;;;;;;;;x
-PROV18;PROV18;PROV18;PROV18;;;;;;;;;x
-PROV19;PROV19;PROV19;PROV19;;;;;;;;;x
-PROV20;PROV20;PROV20;PROV20;;;;;;;;;x
-PROV21;PROV21;PROV21;PROV21;;;;;;;;;x
-PROV22;PROV22;PROV22;PROV22;;;;;;;;;x
-PROV23;PROV23;PROV23;PROV23;;;;;;;;;x
-PROV24;PROV24;PROV24;PROV24;;;;;;;;;x
-PROV25;PROV25;PROV25;PROV25;;;;;;;;;x
-PROV26;PROV26;PROV26;PROV26;;;;;;;;;x
-PROV27;PROV27;PROV27;PROV27;;;;;;;;;x
-PROV28;PROV28;PROV28;PROV28;;;;;;;;;x
-PROV29;PROV29;PROV29;PROV29;;;;;;;;;x
-PROV30;PROV30;PROV30;PROV30;;;;;;;;;x
-PROV31;PROV31;PROV31;PROV31;;;;;;;;;x
-PROV32;PROV32;PROV32;PROV32;;;;;;;;;x
-PROV33;PROV33;PROV33;PROV33;;;;;;;;;x
-PROV34;PROV34;PROV34;PROV34;;;;;;;;;x
-PROV35;PROV35;PROV35;PROV35;;;;;;;;;x
-PROV36;PROV36;PROV36;PROV36;;;;;;;;;x
-PROV37;PROV37;PROV37;PROV37;;;;;;;;;x
-PROV38;PROV38;PROV38;PROV38;;;;;;;;;x
-PROV39;PROV39;PROV39;PROV39;;;;;;;;;x
-PROV40;PROV40;PROV40;PROV40;;;;;;;;;x
-PROV41;PROV41;PROV41;PROV41;;;;;;;;;x
+PROV3;Maux Andros;Maux Andros;Maux Andros;;;;;;;;;x
+PROV4;Demarion Keep;Demarion Keep;Demarion Keep;;;;;;;;;x
+PROV5;Nurom;Nurom;Nurom;;;;;;;;;x
+PROV6;Lastum;Lastum;Lastum;;;;;;;;;x
+PROV7;Northiron Valley;Northiron Valley;Northiron Valley;;;;;;;;;x
+PROV8;Imerun;Imerun;Imerun;;;;;;;;;x
+PROV9;Stov;Stov;Stov;;;;;;;;;x
+PROV10;Tev;Tev;Tev;;;;;;;;;x
+PROV11;Relothigh;Relothigh;Relothigh;;;;;;;;;x
+PROV12;Turos;Turos;Turos;;;;;;;;;x
+PROV13;Ragtown;Ragtown;Ragtown;;;;;;;;;x
+PROV14;Uvea;Uvea;Uvea;;;;;;;;;x
+PROV15;Kivaas;Kivaas;Kivaas;;;;;;;;;x
+PROV16;Cubere;Cubere;Cubere;;;;;;;;;x
+PROV17;Light’s Home;Light’s Home;Light’s Home;;;;;;;;;x
+PROV18;Aurbus Templas;Aurbus Templas;Aurbus Templas;;;;;;;;;x
+PROV19;Varenu;Varenu;Varenu;;;;;;;;;x
+PROV20;Solus;Solus;Solus;;;;;;;;;x
+PROV21;Orvrost;Orvrost;Orvrost;;;;;;;;;x
+PROV22;Aurion;Aurion;Aurion;;;;;;;;;x
+PROV23;Losum;Losum;Losum;;;;;;;;;x
+PROV24;Damien Hills;Damien Hills;Damien Hills;;;;;;;;;x
+PROV25;Jacobaland;Jacobaland;Jacobaland;;;;;;;;;x
+PROV26;Estden;Estden;Estden;;;;;;;;;x
+PROV27;Endost;Endost;Endost;;;;;;;;;x
+PROV28;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;;;;;;;;x
+PROV29;Hustuum;Hustuum;Hustuum;;;;;;;;;x
+PROV30;Dinera;Dinera;Dinera;;;;;;;;;x
+PROV31;Gervennin;Gervennin;Gervennin;;;;;;;;;x
+PROV32;Noneyr;Noneyr;Noneyr;;;;;;;;;x
+PROV33;Voyagis;Voyagis;Voyagis;;;;;;;;;x
+PROV34;Bay of Gulim;Bay of Gulim;Bay of Gulim;;;;;;;;;x
+PROV35;Orith;Orith;Orith;;;;;;;;;x
+PROV36;Karlarn;Karlarn;Karlarn;;;;;;;;;x
+PROV37;Onyx Coast;Onyx Coast;Onyx Coast;;;;;;;;;x
+PROV38;The Iceron Lands;The Iceron Lands;The Iceron Lands;;;;;;;;;x
+PROV39;Archeron;Archeron;Archeron;;;;;;;;;x
+PROV40;Rifheld;Rifheld;Rifheld;;;;;;;;;x
+PROV41;Toskar-Virum;Toskar-Virum;Toskar-Virum;;;;;;;;;x
+PROV42;Red Bridge;Red Bridge;Red Bridge;;;;;;;;;x
+PROV43;Treston;Treston;Treston;;;;;;;;;x
+PROV44;Brightarth;Brightarth;Brightarth;;;;;;;;;x
+PROV45;Lake Raskath;Lake Raskath;Lake Raskath;;;;;;;;;x
+PROV46;Hopper Gorge;Hopper Gorge;Hopper Gorge;;;;;;;;;x
+PROV47;West Press;West Press;West Press;;;;;;;;;x
+PROV48;Oldbones;Oldbones;Oldbones;;;;;;;;;x
+PROV49;Randeren;Randeren;Randeren;;;;;;;;;x
+PROV50;Oryon;Oryon;Oryon;;;;;;;;;x
+PROV51;Caivus;Caivus;Caivus;;;;;;;;;x
+PROV52;Lurnor;Lurnor;Lurnor;;;;;;;;;x
+PROV53;Locklend;Locklend;Locklend;;;;;;;;;x
+PROV54;Fort Jurim;Fort Jurim;Fort Jurim;;;;;;;;;x
+PROV55;Landykon;Landykon;Landykon;;;;;;;;;x
+PROV56;Sitharghis;Sitharghis;Sitharghis;;;;;;;;;x
+PROV57;Lumeron;Lumeron;Lumeron;;;;;;;;;x
+PROV58;Survelis;Survelis;Survelis;;;;;;;;;x
+PROV59;Talon Point;Talon Point;Talon Point;;;;;;;;;x
 PROV1500;Sea of Broken Wails;Sea of Broken Wails;Sea of Broken Wails;;;;;;;;;x
 PROV1501;Sea of Broken Wails;Sea of Broken Wails;Sea of Broken Wails;;;;;;;;;x
 PROV1502;Sea of Broken Wails;Sea of Broken Wails;Sea of Broken Wails;;;;;;;;;x

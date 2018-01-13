@@ -1,0 +1,18 @@
+# c_voyagis
+
+# County Title
+title = c_voyagis
+
+# Settlements
+max_settlements = 4
+
+b_33a_2 = castle
+b_33b_2 = city
+b_33c_2 = temple
+#b_33d_2 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

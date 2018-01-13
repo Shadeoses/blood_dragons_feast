@@ -1,0 +1,18 @@
+# c_survelis
+
+# County Title
+title = c_survelis
+
+# Settlements
+max_settlements = 4
+
+b_39a_2 = castle
+b_39b_2 = city
+b_39c_2 = temple
+#b_39d_2 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_oldbones
+
+# County Title
+title = c_oldbones
+
+# Settlements
+max_settlements = 4
+
+b_48a = castle
+b_48b = city
+b_48c = temple
+#b_48d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

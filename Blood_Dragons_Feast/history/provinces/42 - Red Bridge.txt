@@ -1,0 +1,18 @@
+# c_red_bridge
+
+# County Title
+title = c_red_bridge
+
+# Settlements
+max_settlements = 4
+
+b_42a = castle
+b_42b = city
+b_42c = temple
+#b_42d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

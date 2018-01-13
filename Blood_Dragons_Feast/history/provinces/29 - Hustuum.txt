@@ -1,0 +1,18 @@
+# c_hustuum
+
+# County Title
+title = c_hustuum
+
+# Settlements
+max_settlements = 4
+
+b_29a = castle
+b_29b = city
+b_29c = temple
+#b_29d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

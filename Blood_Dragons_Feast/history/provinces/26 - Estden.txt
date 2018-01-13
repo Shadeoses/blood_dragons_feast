@@ -1,0 +1,18 @@
+# c_estden
+
+# County Title
+title = c_estden
+
+# Settlements
+max_settlements = 4
+
+b_26a = castle
+b_26b = city
+b_26c = temple
+#b_26d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_orith
+
+# County Title
+title = c_orith
+
+# Settlements
+max_settlements = 4
+
+b_35a = castle
+b_35b = city
+b_35c = temple
+#b_35d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

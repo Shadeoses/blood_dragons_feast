@@ -1,0 +1,18 @@
+# c_lurnor
+
+# County Title
+title = c_lurnor
+
+# Settlements
+max_settlements = 4
+
+b_40a = castle
+b_40b = city
+b_40c = temple
+#b_40d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

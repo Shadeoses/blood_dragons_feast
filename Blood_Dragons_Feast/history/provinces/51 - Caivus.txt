@@ -1,0 +1,18 @@
+# c_caivus
+
+# County Title
+title = c_caivus
+
+# Settlements
+max_settlements = 4
+
+b_36a = castle
+b_36b = city
+b_36c = temple
+#b_36d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_maux_andros
+
+# County Title
+title = c_maux_andros
+
+# Settlements
+max_settlements = 4
+
+b_3a = castle
+b_3b = city
+b_3c = temple
+#b_3d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

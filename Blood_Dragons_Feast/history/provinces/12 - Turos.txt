@@ -1,0 +1,18 @@
+# c_turos
+
+# County Title
+title = c_turos
+
+# Settlements
+max_settlements = 4
+
+b_12a = castle
+b_12b = city
+b_12c = temple
+#b_12d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

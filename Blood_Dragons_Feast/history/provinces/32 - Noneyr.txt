@@ -1,0 +1,18 @@
+# c_noneyr
+
+# County Title
+title = c_noneyr
+
+# Settlements
+max_settlements = 4
+
+b_32a = castle
+b_32b = city
+b_32c = temple
+#b_32d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

@@ -1,0 +1,18 @@
+# c_bay_of_gulim
+
+# County Title
+title = c_bay_of_gulim
+
+# Settlements
+max_settlements = 4
+
+b_33a = castle
+b_33b = city
+b_33c = temple
+#b_33d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

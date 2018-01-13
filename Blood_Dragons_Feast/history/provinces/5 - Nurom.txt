@@ -1,0 +1,18 @@
+# c_nurom
+
+# County Title
+title = c_nurom
+
+# Settlements
+max_settlements = 4
+
+b_5a = castle
+b_5b = city
+b_5c = temple
+#b_5d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

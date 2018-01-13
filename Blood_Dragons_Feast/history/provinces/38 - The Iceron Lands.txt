@@ -1,0 +1,18 @@
+# c_the_iceron_lands
+
+# County Title
+title = c_the_iceron_lands
+
+# Settlements
+max_settlements = 4
+
+b_38a = castle
+b_38b = city
+b_38c = temple
+#b_38d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

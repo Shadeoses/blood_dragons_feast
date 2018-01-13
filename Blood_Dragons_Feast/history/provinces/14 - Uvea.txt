@@ -1,0 +1,18 @@
+# c_uvea
+
+# County Title
+title = c_uvea
+
+# Settlements
+max_settlements = 4
+
+b_14a = castle
+b_14b = city
+b_14c = temple
+#b_14d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

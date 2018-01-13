@@ -1,0 +1,18 @@
+# c_orvrost
+
+# County Title
+title = c_orvrost
+
+# Settlements
+max_settlements = 4
+
+b_21a = castle
+b_21b = city
+b_21c = temple
+#b_21d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

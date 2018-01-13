@@ -1,0 +1,18 @@
+# c_brightarth
+
+# County Title
+title = c_brightarth
+
+# Settlements
+max_settlements = 4
+
+b_44a = castle
+b_44b = city
+b_44c = temple
+#b_44d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

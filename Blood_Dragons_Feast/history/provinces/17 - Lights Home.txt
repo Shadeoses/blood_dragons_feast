@@ -1,0 +1,18 @@
+# c_lights_home
+
+# County Title
+title = c_lights_home
+
+# Settlements
+max_settlements = 4
+
+b_17a = castle
+b_17b = city
+b_17c = temple
+#b_17d = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History
