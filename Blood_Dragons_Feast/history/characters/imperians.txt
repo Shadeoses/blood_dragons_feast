@@ -1,3 +1,37 @@
-###ÄNSI
-
-
+1={
+	name=Emmett
+	dynasty=1
+	culture=imperian
+	religion=catholic
+	martial=4
+	diplomacy=3 
+	stewardship=6 
+	intrigue=6
+	learning=5
+	trait=skilled_tactician
+	trait=lustful
+	trait=weak
+	trait=kind
+	trait=cynical
+	1232.1.1={ birth=yes }
+	1302.1.1={ death=yes }
+}
+2={
+	name=Lereniv
+	dynasty=2
+	culture=imperian
+	religion=catholic
+	martial=10
+	diplomacy=5
+	intrigue=2
+	stewardship=8
+	learning=9
+	trait=fortune_builder
+	trait=stubborn
+	trait=temperate
+	trait=ruthless
+	trait=zealous
+	trait=arbitrary
+	1218.1.1={ birth=yes }
+	1288.1.1={ death=yes }
+}
