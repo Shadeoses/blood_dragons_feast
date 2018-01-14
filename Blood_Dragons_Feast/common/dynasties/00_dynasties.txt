@@ -1,0 +1,12 @@
+1=
+{
+	used_for_random=no
+	name="Alsonz"
+	culture="imperian"
+}
+2=
+{
+	used_for_random=no
+	name="Herenovulus"
+	culture="imperian"
+}
