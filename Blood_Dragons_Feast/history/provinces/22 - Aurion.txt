@@ -6,10 +6,10 @@ title = c_aurion
 # Settlements
 max_settlements = 4
 
-b_22a = castle
-b_22b = city
-b_22c = temple
-#b_22d = castle
+b_aurion = castle
+b_aurion_2 = city
+b_aurion_3 = temple
+#b_aurion_4 = castle
 
 # Misc
 culture = catholic

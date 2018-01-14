@@ -9,38 +9,58 @@ c_aurion;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
 c_aurion_adj;Aurionian;;aurioner;;;;;;;;;;;x
 c_bay_of_gulim;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
 c_bay_of_gulim_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+c_bleeding_sea;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+c_bleeding_sea_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
 c_brightarth;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
 c_brightarth_adj;Brightarthian;;brightarther;;;;;;;;;;;x
 c_cairun;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
 c_cairun_adj;Cairunian;;cairuner;;;;;;;;;;;x
 c_caivus;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
 c_caivus_adj;Caivusian;;caivuser;;;;;;;;;;;x
+c_clifrok;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+c_clifrok_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+c_coffiton;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+c_coffiton_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+c_cold_heartlands;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+c_cold_heartlands_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
 c_cubere;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
 c_cubere_adj;Cuberean;;cuberer;;;;;;;;;;;x
+c_dairun;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+c_dairun_adj;Dairunian;;dairuner;;;;;;;;;;;x
 c_damien_hills;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
 c_damien_hills_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
 c_demarion_keep;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
 c_demarion_keep_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
 c_dinera;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
 c_dinera_adj;Dineran;;dinerer;;;;;;;;;;;x
+c_east_garrilev;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+c_east_garrilev_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
 c_elbens_bridge;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
 c_elbens_bridge_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
 c_endost;Endost;Endost;Endost;;Endost;;;;;;;;;x
 c_endost_adj;Endostian;;endoster;;;;;;;;;;;x
 c_estden;Estden;Estden;Estden;;Estden;;;;;;;;;x
 c_estden_adj;Estdenian;;estdener;;;;;;;;;;;x
+c_fletcherling;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+c_fletcherling_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
 c_fort_jurim;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
 c_fort_jurim_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
 c_gervennin;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
 c_gervennin_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
 c_hopper_gorge;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
 c_hopper_gorge_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+c_hostar;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+c_hostar_adj;Hostarian;;hostarer;;;;;;;;;;;x
 c_hustuum;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
 c_hustuum_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
 c_imerun;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
 c_imerun_adj;Imerunian;;imeruner;;;;;;;;;;;x
 c_jacobaland;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
 c_jacobaland_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+c_jalnoral;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+c_jalnoral_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+c_jarados;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+c_jarados_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
 c_karlarn;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
 c_karlarn_adj;Karlarnian;;karlarner;;;;;;;;;;;x
 c_kivaas;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
@@ -53,6 +73,8 @@ c_lastum;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
 c_lastum_adj;Lastumian;;lastumer;;;;;;;;;;;x
 c_lights_home;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
 c_lights_home_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+c_little_draconia;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+c_little_draconia_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
 c_locklend;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
 c_locklend_adj;Locklendian;;locklender;;;;;;;;;;;x
 c_losum;Losum;Losum;Losum;;Losum;;;;;;;;;x
@@ -63,6 +85,8 @@ c_lurnor;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
 c_lurnor_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
 c_maux_andros;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
 c_maux_andros_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+c_neuxgate;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+c_neuxgate_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
 c_noneyr;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
 c_noneyr_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
 c_northiron_valley;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
@@ -71,6 +95,8 @@ c_nurom;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
 c_nurom_adj;Nuromian;;nuromer;;;;;;;;;;;x
 c_oldbones;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
 c_oldbones_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+c_oldvisht;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+c_oldvisht_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
 c_onyx_coast;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
 c_onyx_coast_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
 c_orith;Orith;Orith;Orith;;Orith;;;;;;;;;x
@@ -79,6 +105,8 @@ c_orvrost;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
 c_orvrost_adj;Orvrostian;;orvroster;;;;;;;;;;;x
 c_oryon;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
 c_oryon_adj;Oryonian;;oryoner;;;;;;;;;;;x
+c_ragast_hall;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+c_ragast_hall_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
 c_ragtown;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
 c_ragtown_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
 c_randeren;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
@@ -91,10 +119,16 @@ c_rifheld;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
 c_rifheld_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
 c_sitharghis;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
 c_sitharghis_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+c_smoking_forest;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+c_smoking_forest_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
 c_solus;Solus;Solus;Solus;;Solus;;;;;;;;;x
 c_solus_adj;Solusian;;soluser;;;;;;;;;;;x
+c_south_ederler;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+c_south_ederler_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
 c_stov;Stov;Stov;Stov;;Stov;;;;;;;;;x
 c_stov_adj;Stovian;;stover;;;;;;;;;;;x
+c_sundered_plains;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+c_sundered_plains_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
 c_survelis;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
 c_survelis_adj;Survelisian;;surveliser;;;;;;;;;;;x
 c_talon_point;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
@@ -103,6 +137,8 @@ c_tev;Tev;Tev;Tev;;Tev;;;;;;;;;x
 c_tev_adj;Tevian;;tever;;;;;;;;;;;x
 c_the_iceron_lands;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
 c_the_iceron_lands_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+c_the_pearl_gate;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+c_the_pearl_gate_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
 c_toskar_virum;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
 c_toskar_virum_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
 c_treston;Treston;Treston;Treston;;Treston;;;;;;;;;x
@@ -115,5 +151,9 @@ c_varenu;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
 c_varenu_adj;Varenian;;varener;;;;;;;;;;;x
 c_voyagis;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
 c_voyagis_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+c_west_garrilev;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+c_west_garrilev_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
 c_west_press;West Press;West Press;West Press;;West Press;;;;;;;;;x
 c_west_press_adj;West Pressian;;West Presser;;;;;;;;;;;x
+c_yarens_foe;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+c_yarens_foe_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x

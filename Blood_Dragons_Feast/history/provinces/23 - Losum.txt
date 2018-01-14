@@ -6,10 +6,10 @@ title = c_losum
 # Settlements
 max_settlements = 4
 
-b_23a = castle
-b_23b = city
-b_23c = temple
-#b_23d = castle
+b_losum = castle
+b_losum_2 = city
+b_losum_3 = temple
+#b_losum_4 = castle
 
 # Misc
 culture = catholic

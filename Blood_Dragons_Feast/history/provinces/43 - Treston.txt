@@ -6,10 +6,10 @@ title = c_treston
 # Settlements
 max_settlements = 4
 
-b_43a = castle
-b_43b = city
-b_43c = temple
-#b_43d = castle
+b_treston = castle
+b_treston_2 = city
+b_treston_3 = temple
+#b_treston_4 = castle
 
 # Misc
 culture = catholic

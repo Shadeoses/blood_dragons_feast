@@ -6,10 +6,10 @@ title = c_lights_home
 # Settlements
 max_settlements = 4
 
-b_17a = castle
-b_17b = city
-b_17c = temple
-#b_17d = castle
+b_lights_home = castle
+b_lights_home_2 = city
+b_lights_home_3 = temple
+#b_lights_home_4 = castle
 
 # Misc
 culture = catholic

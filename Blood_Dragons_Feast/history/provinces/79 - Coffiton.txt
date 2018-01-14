@@ -1,0 +1,18 @@
+# c_coffiton
+
+# County Title
+title = c_coffiton
+
+# Settlements
+max_settlements = 4
+
+b_coffiton = castle
+b_coffiton_2 = city
+b_coffiton_3 = temple
+#b_coffiton_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

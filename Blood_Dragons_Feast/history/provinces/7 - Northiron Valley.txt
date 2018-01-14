@@ -6,10 +6,10 @@ title = c_northiron_valley
 # Settlements
 max_settlements = 4
 
-b_7a = castle
-b_7b = city
-b_7c = temple
-#b_7d = castle
+b_northiron_valley = castle
+b_northiron_valley_2 = city
+b_northiron_valley_3 = temple
+#b_northiron_valley_4 = castle
 
 # Misc
 culture = catholic

@@ -6,10 +6,10 @@ title = c_gervennin
 # Settlements
 max_settlements = 4
 
-b_31a = castle
-b_31b = city
-b_31c = temple
-#b_31d = castle
+b_gervennin = castle
+b_gervennin_2 = city
+b_gervennin_3 = temple
+#b_gervennin_4 = castle
 
 # Misc
 culture = catholic

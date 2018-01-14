@@ -6,10 +6,10 @@ title = c_toskar_virum
 # Settlements
 max_settlements = 4
 
-b_41a = castle
-b_41b = city
-b_41c = temple
-#b_41d = castle
+b_toskar_virum = castle
+b_toskar_virum_2 = city
+b_toskar_virum_3 = temple
+#b_toskar_virum_4 = castle
 
 # Misc
 culture = catholic

@@ -1,0 +1,18 @@
+# c_west_garrilev
+
+# County Title
+title = c_west_garrilev
+
+# Settlements
+max_settlements = 4
+
+b_west_garrilev = castle
+b_west_garrilev_2 = city
+b_west_garrilev_3 = temple
+#b_west_garrilev_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

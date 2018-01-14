@@ -1,0 +1,18 @@
+# c_dairun
+
+# County Title
+title = c_dairun
+
+# Settlements
+max_settlements = 4
+
+b_dairun = castle
+b_dairun_2 = city
+b_dairun_3 = temple
+#b_dairun_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

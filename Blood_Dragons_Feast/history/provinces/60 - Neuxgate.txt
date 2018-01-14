@@ -1,0 +1,18 @@
+# c_neuxgate
+
+# County Title
+title = c_neuxgate
+
+# Settlements
+max_settlements = 4
+
+b_neuxgate = castle
+b_neuxgate_2 = city
+b_neuxgate_3 = temple
+#b_neuxgate_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

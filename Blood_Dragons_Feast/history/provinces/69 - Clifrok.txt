@@ -1,0 +1,18 @@
+# c_clifrok
+
+# County Title
+title = c_clifrok
+
+# Settlements
+max_settlements = 4
+
+b_clifrok = castle
+b_clifrok_2 = city
+b_clifrok_3 = temple
+#b_clifrok_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

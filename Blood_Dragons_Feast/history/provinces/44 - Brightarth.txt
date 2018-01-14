@@ -6,10 +6,10 @@ title = c_brightarth
 # Settlements
 max_settlements = 4
 
-b_44a = castle
-b_44b = city
-b_44c = temple
-#b_44d = castle
+b_brightarth = castle
+b_brightarth_2 = city
+b_brightarth_3 = temple
+#b_brightarth_4 = castle
 
 # Misc
 culture = catholic

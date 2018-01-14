@@ -6,10 +6,10 @@ title = c_bay_of_gulim
 # Settlements
 max_settlements = 4
 
-b_33a = castle
-b_33b = city
-b_33c = temple
-#b_33d = castle
+b_bay_of_gulim = castle
+b_bay_of_gulim_2 = city
+b_bay_of_gulim_3 = temple
+#b_bay_of_gulim_4 = castle
 
 # Misc
 culture = catholic

@@ -1,0 +1,18 @@
+# c_south_ederler
+
+# County Title
+title = c_south_ederler
+
+# Settlements
+max_settlements = 4
+
+b_south_ederler = castle
+b_south_ederler_2 = city
+b_south_ederler_3 = temple
+#b_south_ederler_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

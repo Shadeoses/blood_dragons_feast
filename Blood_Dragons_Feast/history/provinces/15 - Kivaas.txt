@@ -6,10 +6,10 @@ title = c_kivaas
 # Settlements
 max_settlements = 4
 
-b_15a = castle
-b_15b = city
-b_15c = temple
-#b_15d = castle
+b_kivaas = castle
+b_kivaas_2 = city
+b_kivaas_3 = temple
+#b_kivaas_4 = castle
 
 # Misc
 culture = catholic

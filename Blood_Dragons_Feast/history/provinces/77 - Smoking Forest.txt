@@ -1,0 +1,18 @@
+# c_smoking_forest
+
+# County Title
+title = c_smoking_forest
+
+# Settlements
+max_settlements = 4
+
+b_smoking_forest = castle
+b_smoking_forest_2 = city
+b_smoking_forest_3 = temple
+#b_smoking_forest_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

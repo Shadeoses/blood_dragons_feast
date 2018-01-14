@@ -6,10 +6,10 @@ title = c_onyx_coast
 # Settlements
 max_settlements = 4
 
-b_35a_2 = castle
-b_35b_2 = city
-b_35c_2 = temple
-#b_35d_2 = castle
+b_onyx_coast = castle
+b_onyx_coast_2 = city
+b_onyx_coast_3 = temple
+#b_onyx_coast_4 = castle
 
 # Misc
 culture = catholic

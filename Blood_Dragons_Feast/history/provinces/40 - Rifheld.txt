@@ -6,10 +6,10 @@ title = c_rifheld
 # Settlements
 max_settlements = 4
 
-b_40a_2 = castle
-b_40b_2 = city
-b_40c_2 = temple
-#b_40d_2 = castle
+b_rifheld = castle
+b_rifheld_2 = city
+b_rifheld_3 = temple
+#b_rifheld_4 = castle
 
 # Misc
 culture = catholic

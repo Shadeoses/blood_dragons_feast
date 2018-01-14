@@ -6,10 +6,10 @@ title = c_fort_jurim
 # Settlements
 max_settlements = 4
 
-b_37a_2 = castle
-b_37b_2 = city
-b_37c_2 = temple
-#b_37d_2 = castle
+b_fort_jurim = castle
+b_fort_jurim_2 = city
+b_fort_jurim_3 = temple
+#b_fort_jurim_4 = castle
 
 # Misc
 culture = catholic

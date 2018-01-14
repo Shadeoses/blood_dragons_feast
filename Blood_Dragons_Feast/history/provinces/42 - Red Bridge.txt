@@ -6,10 +6,10 @@ title = c_red_bridge
 # Settlements
 max_settlements = 4
 
-b_42a = castle
-b_42b = city
-b_42c = temple
-#b_42d = castle
+b_red_bridge = castle
+b_red_bridge_2 = city
+b_red_bridge_3 = temple
+#b_red_bridge_4 = castle
 
 # Misc
 culture = catholic

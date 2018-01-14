@@ -6,10 +6,10 @@ title = c_cubere
 # Settlements
 max_settlements = 4
 
-b_16a = castle
-b_16b = city
-b_16c = temple
-#b_16d = castle
+b_cubere = castle
+b_cubere_2 = city
+b_cubere_3 = temple
+#b_cubere_4 = castle
 
 # Misc
 culture = catholic

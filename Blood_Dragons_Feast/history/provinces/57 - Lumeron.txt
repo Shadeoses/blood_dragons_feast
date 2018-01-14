@@ -6,10 +6,10 @@ title = c_lumeron
 # Settlements
 max_settlements = 4
 
-b_41a_2 = castle
-b_41b_2 = city
-b_41c_2 = temple
-#b_41d_2 = castle
+b_lumeron = castle
+b_lumeron_2 = city
+b_lumeron_3 = temple
+#b_lumeron_4 = castle
 
 # Misc
 culture = catholic

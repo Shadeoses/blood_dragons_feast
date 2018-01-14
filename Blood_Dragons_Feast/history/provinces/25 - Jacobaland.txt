@@ -6,10 +6,10 @@ title = c_jacobaland
 # Settlements
 max_settlements = 4
 
-b_25a = castle
-b_25b = city
-b_25c = temple
-#b_25d = castle
+b_jacobaland = castle
+b_jacobaland_2 = city
+b_jacobaland_3 = temple
+#b_jacobaland_4 = castle
 
 # Misc
 culture = catholic

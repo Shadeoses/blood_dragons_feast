@@ -6,10 +6,10 @@ title = c_dinera
 # Settlements
 max_settlements = 4
 
-b_30a = castle
-b_30b = city
-b_30c = temple
-#b_30d = castle
+b_dinera = castle
+b_dinera_2 = city
+b_dinera_3 = temple
+#b_dinera_4 = castle
 
 # Misc
 culture = catholic

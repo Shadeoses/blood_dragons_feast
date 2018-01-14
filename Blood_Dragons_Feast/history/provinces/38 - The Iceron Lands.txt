@@ -6,10 +6,10 @@ title = c_the_iceron_lands
 # Settlements
 max_settlements = 4
 
-b_38a = castle
-b_38b = city
-b_38c = temple
-#b_38d = castle
+b_the_iceron_lands = castle
+b_the_iceron_lands_2 = city
+b_the_iceron_lands_3 = temple
+#b_the_iceron_lands_4 = castle
 
 # Misc
 culture = catholic

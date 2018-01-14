@@ -6,10 +6,10 @@ title = c_west_press
 # Settlements
 max_settlements = 4
 
-b_47a = castle
-b_47b = city
-b_47c = temple
-#b_47d = castle
+b_west_press = castle
+b_west_press_2 = city
+b_west_press_3 = temple
+#b_west_press_4 = castle
 
 # Misc
 culture = catholic

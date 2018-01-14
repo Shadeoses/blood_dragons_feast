@@ -1,0 +1,18 @@
+# c_fletcherling
+
+# County Title
+title = c_fletcherling
+
+# Settlements
+max_settlements = 4
+
+b_fletcherling = castle
+b_fletcherling_2 = city
+b_fletcherling_3 = temple
+#b_fletcherling_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

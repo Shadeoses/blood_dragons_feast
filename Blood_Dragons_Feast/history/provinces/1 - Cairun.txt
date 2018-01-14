@@ -7,9 +7,9 @@ title = c_cairun
 max_settlements = 4
 
 b_cairun = castle
-b_1b = city
-b_1c = temple
-#b_1d = castle
+b_cairun_2 = city
+b_cairun_3 = temple
+#b_cairun_4 = castle
 
 # Misc
 culture = catholic

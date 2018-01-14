@@ -1,0 +1,18 @@
+# c_hostar
+
+# County Title
+title = c_hostar
+
+# Settlements
+max_settlements = 4
+
+b_hostar = castle
+b_hostar_2 = city
+b_hostar_3 = temple
+#b_hostar_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

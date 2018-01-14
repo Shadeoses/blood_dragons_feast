@@ -1,827 +1,1107 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-b_10a;10a;10a;10a;;10a;;;;;;;;;x
-b_10a_adj;10an;;10er;;;;;;;;;;;x
-b_10b;10b;10b;10b;;10b;;;;;;;;;x
-b_10b_adj;10bian;;10ber;;;;;;;;;;;x
-b_10c;10c;10c;10c;;10c;;;;;;;;;x
-b_10c_adj;10cian;;10cer;;;;;;;;;;;x
-b_10d;10d;10d;10d;;10d;;;;;;;;;x
-b_10d_adj;10dian;;10der;;;;;;;;;;;x
-b_10e;10e;10e;10e;;10e;;;;;;;;;x
-b_10e_adj;10ean;;10er;;;;;;;;;;;x
-b_10f;10f;10f;10f;;10f;;;;;;;;;x
-b_10f_adj;10fian;;10fer;;;;;;;;;;;x
-b_10g;10g;10g;10g;;10g;;;;;;;;;x
-b_10g_adj;10gian;;10ger;;;;;;;;;;;x
-b_11a;11a;11a;11a;;11a;;;;;;;;;x
-b_11a_adj;11an;;11er;;;;;;;;;;;x
-b_11b;11b;11b;11b;;11b;;;;;;;;;x
-b_11b_adj;11bian;;11ber;;;;;;;;;;;x
-b_11c;11c;11c;11c;;11c;;;;;;;;;x
-b_11c_adj;11cian;;11cer;;;;;;;;;;;x
-b_11d;11d;11d;11d;;11d;;;;;;;;;x
-b_11d_adj;11dian;;11der;;;;;;;;;;;x
-b_11e;11e;11e;11e;;11e;;;;;;;;;x
-b_11e_adj;11ean;;11er;;;;;;;;;;;x
-b_11f;11f;11f;11f;;11f;;;;;;;;;x
-b_11f_adj;11fian;;11fer;;;;;;;;;;;x
-b_11g;11g;11g;11g;;11g;;;;;;;;;x
-b_11g_adj;11gian;;11ger;;;;;;;;;;;x
-b_12a;12a;12a;12a;;12a;;;;;;;;;x
-b_12a_adj;12an;;12er;;;;;;;;;;;x
-b_12b;12b;12b;12b;;12b;;;;;;;;;x
-b_12b_adj;12bian;;12ber;;;;;;;;;;;x
-b_12c;12c;12c;12c;;12c;;;;;;;;;x
-b_12c_adj;12cian;;12cer;;;;;;;;;;;x
-b_12d;12d;12d;12d;;12d;;;;;;;;;x
-b_12d_adj;12dian;;12der;;;;;;;;;;;x
-b_12e;12e;12e;12e;;12e;;;;;;;;;x
-b_12e_adj;12ean;;12er;;;;;;;;;;;x
-b_12f;12f;12f;12f;;12f;;;;;;;;;x
-b_12f_adj;12fian;;12fer;;;;;;;;;;;x
-b_12g;12g;12g;12g;;12g;;;;;;;;;x
-b_12g_adj;12gian;;12ger;;;;;;;;;;;x
-b_13a;13a;13a;13a;;13a;;;;;;;;;x
-b_13a_adj;13an;;13er;;;;;;;;;;;x
-b_13b;13b;13b;13b;;13b;;;;;;;;;x
-b_13b_adj;13bian;;13ber;;;;;;;;;;;x
-b_13c;13c;13c;13c;;13c;;;;;;;;;x
-b_13c_adj;13cian;;13cer;;;;;;;;;;;x
-b_13d;13d;13d;13d;;13d;;;;;;;;;x
-b_13d_adj;13dian;;13der;;;;;;;;;;;x
-b_13e;13e;13e;13e;;13e;;;;;;;;;x
-b_13e_adj;13ean;;13er;;;;;;;;;;;x
-b_13f;13f;13f;13f;;13f;;;;;;;;;x
-b_13f_adj;13fian;;13fer;;;;;;;;;;;x
-b_13g;13g;13g;13g;;13g;;;;;;;;;x
-b_13g_adj;13gian;;13ger;;;;;;;;;;;x
-b_14a;14a;14a;14a;;14a;;;;;;;;;x
-b_14a_adj;14an;;14er;;;;;;;;;;;x
-b_14b;14b;14b;14b;;14b;;;;;;;;;x
-b_14b_adj;14bian;;14ber;;;;;;;;;;;x
-b_14c;14c;14c;14c;;14c;;;;;;;;;x
-b_14c_adj;14cian;;14cer;;;;;;;;;;;x
-b_14d;14d;14d;14d;;14d;;;;;;;;;x
-b_14d_adj;14dian;;14der;;;;;;;;;;;x
-b_14e;14e;14e;14e;;14e;;;;;;;;;x
-b_14e_adj;14ean;;14er;;;;;;;;;;;x
-b_14f;14f;14f;14f;;14f;;;;;;;;;x
-b_14f_adj;14fian;;14fer;;;;;;;;;;;x
-b_14g;14g;14g;14g;;14g;;;;;;;;;x
-b_14g_adj;14gian;;14ger;;;;;;;;;;;x
-b_15a;15a;15a;15a;;15a;;;;;;;;;x
-b_15a_adj;15an;;15er;;;;;;;;;;;x
-b_15b;15b;15b;15b;;15b;;;;;;;;;x
-b_15b_adj;15bian;;15ber;;;;;;;;;;;x
-b_15c;15c;15c;15c;;15c;;;;;;;;;x
-b_15c_adj;15cian;;15cer;;;;;;;;;;;x
-b_15d;15d;15d;15d;;15d;;;;;;;;;x
-b_15d_adj;15dian;;15der;;;;;;;;;;;x
-b_15e;15e;15e;15e;;15e;;;;;;;;;x
-b_15e_adj;15ean;;15er;;;;;;;;;;;x
-b_15f;15f;15f;15f;;15f;;;;;;;;;x
-b_15f_adj;15fian;;15fer;;;;;;;;;;;x
-b_15g;15g;15g;15g;;15g;;;;;;;;;x
-b_15g_adj;15gian;;15ger;;;;;;;;;;;x
-b_16a;16a;16a;16a;;16a;;;;;;;;;x
-b_16a_adj;16an;;16er;;;;;;;;;;;x
-b_16b;16b;16b;16b;;16b;;;;;;;;;x
-b_16b_adj;16bian;;16ber;;;;;;;;;;;x
-b_16c;16c;16c;16c;;16c;;;;;;;;;x
-b_16c_adj;16cian;;16cer;;;;;;;;;;;x
-b_16d;16d;16d;16d;;16d;;;;;;;;;x
-b_16d_adj;16dian;;16der;;;;;;;;;;;x
-b_16e;16e;16e;16e;;16e;;;;;;;;;x
-b_16e_adj;16ean;;16er;;;;;;;;;;;x
-b_16f;16f;16f;16f;;16f;;;;;;;;;x
-b_16f_adj;16fian;;16fer;;;;;;;;;;;x
-b_16g;16g;16g;16g;;16g;;;;;;;;;x
-b_16g_adj;16gian;;16ger;;;;;;;;;;;x
-b_17a;17a;17a;17a;;17a;;;;;;;;;x
-b_17a_adj;17an;;17er;;;;;;;;;;;x
-b_17b;17b;17b;17b;;17b;;;;;;;;;x
-b_17b_adj;17bian;;17ber;;;;;;;;;;;x
-b_17c;17c;17c;17c;;17c;;;;;;;;;x
-b_17c_adj;17cian;;17cer;;;;;;;;;;;x
-b_17d;17d;17d;17d;;17d;;;;;;;;;x
-b_17d_adj;17dian;;17der;;;;;;;;;;;x
-b_17e;17e;17e;17e;;17e;;;;;;;;;x
-b_17e_adj;17ean;;17er;;;;;;;;;;;x
-b_17f;17f;17f;17f;;17f;;;;;;;;;x
-b_17f_adj;17fian;;17fer;;;;;;;;;;;x
-b_17g;17g;17g;17g;;17g;;;;;;;;;x
-b_17g_adj;17gian;;17ger;;;;;;;;;;;x
-b_18a;18a;18a;18a;;18a;;;;;;;;;x
-b_18a_adj;18an;;18er;;;;;;;;;;;x
-b_18b;18b;18b;18b;;18b;;;;;;;;;x
-b_18b_adj;18bian;;18ber;;;;;;;;;;;x
-b_18c;18c;18c;18c;;18c;;;;;;;;;x
-b_18c_adj;18cian;;18cer;;;;;;;;;;;x
-b_18d;18d;18d;18d;;18d;;;;;;;;;x
-b_18d_adj;18dian;;18der;;;;;;;;;;;x
-b_18e;18e;18e;18e;;18e;;;;;;;;;x
-b_18e_adj;18ean;;18er;;;;;;;;;;;x
-b_18f;18f;18f;18f;;18f;;;;;;;;;x
-b_18f_adj;18fian;;18fer;;;;;;;;;;;x
-b_18g;18g;18g;18g;;18g;;;;;;;;;x
-b_18g_adj;18gian;;18ger;;;;;;;;;;;x
-b_19a;19a;19a;19a;;19a;;;;;;;;;x
-b_19a_adj;19an;;19er;;;;;;;;;;;x
-b_19b;19b;19b;19b;;19b;;;;;;;;;x
-b_19b_adj;19bian;;19ber;;;;;;;;;;;x
-b_19c;19c;19c;19c;;19c;;;;;;;;;x
-b_19c_adj;19cian;;19cer;;;;;;;;;;;x
-b_19d;19d;19d;19d;;19d;;;;;;;;;x
-b_19d_adj;19dian;;19der;;;;;;;;;;;x
-b_19e;19e;19e;19e;;19e;;;;;;;;;x
-b_19e_adj;19ean;;19er;;;;;;;;;;;x
-b_19f;19f;19f;19f;;19f;;;;;;;;;x
-b_19f_adj;19fian;;19fer;;;;;;;;;;;x
-b_19g;19g;19g;19g;;19g;;;;;;;;;x
-b_19g_adj;19gian;;19ger;;;;;;;;;;;x
-b_1b;1b;1b;1b;;1b;;;;;;;;;x
-b_1b_adj;1bian;;1ber;;;;;;;;;;;x
-b_1c;1c;1c;1c;;1c;;;;;;;;;x
-b_1c_adj;1cian;;1cer;;;;;;;;;;;x
-b_1d;1d;1d;1d;;1d;;;;;;;;;x
-b_1d_adj;1dian;;1der;;;;;;;;;;;x
-b_1e;1e;1e;1e;;1e;;;;;;;;;x
-b_1e_adj;1ean;;1er;;;;;;;;;;;x
-b_1f;1f;1f;1f;;1f;;;;;;;;;x
-b_1f_adj;1fian;;1fer;;;;;;;;;;;x
-b_1g;1g;1g;1g;;1g;;;;;;;;;x
-b_1g_adj;1gian;;1ger;;;;;;;;;;;x
-b_20a;20a;20a;20a;;20a;;;;;;;;;x
-b_20a_adj;20an;;20er;;;;;;;;;;;x
-b_20b;20b;20b;20b;;20b;;;;;;;;;x
-b_20b_adj;20bian;;20ber;;;;;;;;;;;x
-b_20c;20c;20c;20c;;20c;;;;;;;;;x
-b_20c_adj;20cian;;20cer;;;;;;;;;;;x
-b_20d;20d;20d;20d;;20d;;;;;;;;;x
-b_20d_adj;20dian;;20der;;;;;;;;;;;x
-b_20e;20e;20e;20e;;20e;;;;;;;;;x
-b_20e_adj;20ean;;20er;;;;;;;;;;;x
-b_20f;20f;20f;20f;;20f;;;;;;;;;x
-b_20f_adj;20fian;;20fer;;;;;;;;;;;x
-b_20g;20g;20g;20g;;20g;;;;;;;;;x
-b_20g_adj;20gian;;20ger;;;;;;;;;;;x
-b_21a;21a;21a;21a;;21a;;;;;;;;;x
-b_21a_adj;21an;;21er;;;;;;;;;;;x
-b_21b;21b;21b;21b;;21b;;;;;;;;;x
-b_21b_adj;21bian;;21ber;;;;;;;;;;;x
-b_21c;21c;21c;21c;;21c;;;;;;;;;x
-b_21c_adj;21cian;;21cer;;;;;;;;;;;x
-b_21d;21d;21d;21d;;21d;;;;;;;;;x
-b_21d_adj;21dian;;21der;;;;;;;;;;;x
-b_21e;21e;21e;21e;;21e;;;;;;;;;x
-b_21e_adj;21ean;;21er;;;;;;;;;;;x
-b_21f;21f;21f;21f;;21f;;;;;;;;;x
-b_21f_adj;21fian;;21fer;;;;;;;;;;;x
-b_21g;21g;21g;21g;;21g;;;;;;;;;x
-b_21g_adj;21gian;;21ger;;;;;;;;;;;x
-b_22a;22a;22a;22a;;22a;;;;;;;;;x
-b_22a_adj;22an;;22er;;;;;;;;;;;x
-b_22b;22b;22b;22b;;22b;;;;;;;;;x
-b_22b_adj;22bian;;22ber;;;;;;;;;;;x
-b_22c;22c;22c;22c;;22c;;;;;;;;;x
-b_22c_adj;22cian;;22cer;;;;;;;;;;;x
-b_22d;22d;22d;22d;;22d;;;;;;;;;x
-b_22d_adj;22dian;;22der;;;;;;;;;;;x
-b_22e;22e;22e;22e;;22e;;;;;;;;;x
-b_22e_adj;22ean;;22er;;;;;;;;;;;x
-b_22f;22f;22f;22f;;22f;;;;;;;;;x
-b_22f_adj;22fian;;22fer;;;;;;;;;;;x
-b_22g;22g;22g;22g;;22g;;;;;;;;;x
-b_22g_adj;22gian;;22ger;;;;;;;;;;;x
-b_23a;23a;23a;23a;;23a;;;;;;;;;x
-b_23a_adj;23an;;23er;;;;;;;;;;;x
-b_23b;23b;23b;23b;;23b;;;;;;;;;x
-b_23b_adj;23bian;;23ber;;;;;;;;;;;x
-b_23c;23c;23c;23c;;23c;;;;;;;;;x
-b_23c_adj;23cian;;23cer;;;;;;;;;;;x
-b_23d;23d;23d;23d;;23d;;;;;;;;;x
-b_23d_adj;23dian;;23der;;;;;;;;;;;x
-b_23e;23e;23e;23e;;23e;;;;;;;;;x
-b_23e_adj;23ean;;23er;;;;;;;;;;;x
-b_23f;23f;23f;23f;;23f;;;;;;;;;x
-b_23f_adj;23fian;;23fer;;;;;;;;;;;x
-b_23g;23g;23g;23g;;23g;;;;;;;;;x
-b_23g_adj;23gian;;23ger;;;;;;;;;;;x
-b_24a;24a;24a;24a;;24a;;;;;;;;;x
-b_24a_adj;24an;;24er;;;;;;;;;;;x
-b_24b;24b;24b;24b;;24b;;;;;;;;;x
-b_24b_adj;24bian;;24ber;;;;;;;;;;;x
-b_24c;24c;24c;24c;;24c;;;;;;;;;x
-b_24c_adj;24cian;;24cer;;;;;;;;;;;x
-b_24d;24d;24d;24d;;24d;;;;;;;;;x
-b_24d_adj;24dian;;24der;;;;;;;;;;;x
-b_24e;24e;24e;24e;;24e;;;;;;;;;x
-b_24e_adj;24ean;;24er;;;;;;;;;;;x
-b_24f;24f;24f;24f;;24f;;;;;;;;;x
-b_24f_adj;24fian;;24fer;;;;;;;;;;;x
-b_24g;24g;24g;24g;;24g;;;;;;;;;x
-b_24g_adj;24gian;;24ger;;;;;;;;;;;x
-b_25a;25a;25a;25a;;25a;;;;;;;;;x
-b_25a_adj;25an;;25er;;;;;;;;;;;x
-b_25b;25b;25b;25b;;25b;;;;;;;;;x
-b_25b_adj;25bian;;25ber;;;;;;;;;;;x
-b_25c;25c;25c;25c;;25c;;;;;;;;;x
-b_25c_adj;25cian;;25cer;;;;;;;;;;;x
-b_25d;25d;25d;25d;;25d;;;;;;;;;x
-b_25d_adj;25dian;;25der;;;;;;;;;;;x
-b_25e;25e;25e;25e;;25e;;;;;;;;;x
-b_25e_adj;25ean;;25er;;;;;;;;;;;x
-b_25f;25f;25f;25f;;25f;;;;;;;;;x
-b_25f_adj;25fian;;25fer;;;;;;;;;;;x
-b_25g;25g;25g;25g;;25g;;;;;;;;;x
-b_25g_adj;25gian;;25ger;;;;;;;;;;;x
-b_26a;26a;26a;26a;;26a;;;;;;;;;x
-b_26a_adj;26an;;26er;;;;;;;;;;;x
-b_26b;26b;26b;26b;;26b;;;;;;;;;x
-b_26b_adj;26bian;;26ber;;;;;;;;;;;x
-b_26c;26c;26c;26c;;26c;;;;;;;;;x
-b_26c_adj;26cian;;26cer;;;;;;;;;;;x
-b_26d;26d;26d;26d;;26d;;;;;;;;;x
-b_26d_adj;26dian;;26der;;;;;;;;;;;x
-b_26e;26e;26e;26e;;26e;;;;;;;;;x
-b_26e_adj;26ean;;26er;;;;;;;;;;;x
-b_26f;26f;26f;26f;;26f;;;;;;;;;x
-b_26f_adj;26fian;;26fer;;;;;;;;;;;x
-b_26g;26g;26g;26g;;26g;;;;;;;;;x
-b_26g_adj;26gian;;26ger;;;;;;;;;;;x
-b_27a;27a;27a;27a;;27a;;;;;;;;;x
-b_27a_adj;27an;;27er;;;;;;;;;;;x
-b_27b;27b;27b;27b;;27b;;;;;;;;;x
-b_27b_adj;27bian;;27ber;;;;;;;;;;;x
-b_27c;27c;27c;27c;;27c;;;;;;;;;x
-b_27c_adj;27cian;;27cer;;;;;;;;;;;x
-b_27d;27d;27d;27d;;27d;;;;;;;;;x
-b_27d_adj;27dian;;27der;;;;;;;;;;;x
-b_27e;27e;27e;27e;;27e;;;;;;;;;x
-b_27e_adj;27ean;;27er;;;;;;;;;;;x
-b_27f;27f;27f;27f;;27f;;;;;;;;;x
-b_27f_adj;27fian;;27fer;;;;;;;;;;;x
-b_27g;27g;27g;27g;;27g;;;;;;;;;x
-b_27g_adj;27gian;;27ger;;;;;;;;;;;x
-b_28a;28a;28a;28a;;28a;;;;;;;;;x
-b_28a_adj;28an;;28er;;;;;;;;;;;x
-b_28b;28b;28b;28b;;28b;;;;;;;;;x
-b_28b_adj;28bian;;28ber;;;;;;;;;;;x
-b_28c;28c;28c;28c;;28c;;;;;;;;;x
-b_28c_adj;28cian;;28cer;;;;;;;;;;;x
-b_28d;28d;28d;28d;;28d;;;;;;;;;x
-b_28d_adj;28dian;;28der;;;;;;;;;;;x
-b_28e;28e;28e;28e;;28e;;;;;;;;;x
-b_28e_adj;28ean;;28er;;;;;;;;;;;x
-b_28f;28f;28f;28f;;28f;;;;;;;;;x
-b_28f_adj;28fian;;28fer;;;;;;;;;;;x
-b_28g;28g;28g;28g;;28g;;;;;;;;;x
-b_28g_adj;28gian;;28ger;;;;;;;;;;;x
-b_29a;29a;29a;29a;;29a;;;;;;;;;x
-b_29a_adj;29an;;29er;;;;;;;;;;;x
-b_29b;29b;29b;29b;;29b;;;;;;;;;x
-b_29b_adj;29bian;;29ber;;;;;;;;;;;x
-b_29c;29c;29c;29c;;29c;;;;;;;;;x
-b_29c_adj;29cian;;29cer;;;;;;;;;;;x
-b_29d;29d;29d;29d;;29d;;;;;;;;;x
-b_29d_adj;29dian;;29der;;;;;;;;;;;x
-b_29e;29e;29e;29e;;29e;;;;;;;;;x
-b_29e_adj;29ean;;29er;;;;;;;;;;;x
-b_29f;29f;29f;29f;;29f;;;;;;;;;x
-b_29f_adj;29fian;;29fer;;;;;;;;;;;x
-b_29g;29g;29g;29g;;29g;;;;;;;;;x
-b_29g_adj;29gian;;29ger;;;;;;;;;;;x
-b_2b;2b;2b;2b;;2b;;;;;;;;;x
-b_2b_adj;2bian;;2ber;;;;;;;;;;;x
-b_2c;2c;2c;2c;;2c;;;;;;;;;x
-b_2c_adj;2cian;;2cer;;;;;;;;;;;x
-b_2d;2d;2d;2d;;2d;;;;;;;;;x
-b_2d_adj;2dian;;2der;;;;;;;;;;;x
-b_2e;2e;2e;2e;;2e;;;;;;;;;x
-b_2e_adj;2ean;;2er;;;;;;;;;;;x
-b_2f;2f;2f;2f;;2f;;;;;;;;;x
-b_2f_adj;2fian;;2fer;;;;;;;;;;;x
-b_2g;2g;2g;2g;;2g;;;;;;;;;x
-b_2g_adj;2gian;;2ger;;;;;;;;;;;x
-b_30a;30a;30a;30a;;30a;;;;;;;;;x
-b_30a_adj;30an;;30er;;;;;;;;;;;x
-b_30b;30b;30b;30b;;30b;;;;;;;;;x
-b_30b_adj;30bian;;30ber;;;;;;;;;;;x
-b_30c;30c;30c;30c;;30c;;;;;;;;;x
-b_30c_adj;30cian;;30cer;;;;;;;;;;;x
-b_30d;30d;30d;30d;;30d;;;;;;;;;x
-b_30d_adj;30dian;;30der;;;;;;;;;;;x
-b_30e;30e;30e;30e;;30e;;;;;;;;;x
-b_30e_adj;30ean;;30er;;;;;;;;;;;x
-b_30f;30f;30f;30f;;30f;;;;;;;;;x
-b_30f_adj;30fian;;30fer;;;;;;;;;;;x
-b_30g;30g;30g;30g;;30g;;;;;;;;;x
-b_30g_adj;30gian;;30ger;;;;;;;;;;;x
-b_31a;31a;31a;31a;;31a;;;;;;;;;x
-b_31a_adj;31an;;31er;;;;;;;;;;;x
-b_31b;31b;31b;31b;;31b;;;;;;;;;x
-b_31b_adj;31bian;;31ber;;;;;;;;;;;x
-b_31c;31c;31c;31c;;31c;;;;;;;;;x
-b_31c_adj;31cian;;31cer;;;;;;;;;;;x
-b_31d;31d;31d;31d;;31d;;;;;;;;;x
-b_31d_adj;31dian;;31der;;;;;;;;;;;x
-b_31e;31e;31e;31e;;31e;;;;;;;;;x
-b_31e_adj;31ean;;31er;;;;;;;;;;;x
-b_31f;31f;31f;31f;;31f;;;;;;;;;x
-b_31f_adj;31fian;;31fer;;;;;;;;;;;x
-b_31g;31g;31g;31g;;31g;;;;;;;;;x
-b_31g_adj;31gian;;31ger;;;;;;;;;;;x
-b_32a;32a;32a;32a;;32a;;;;;;;;;x
-b_32a_adj;32an;;32er;;;;;;;;;;;x
-b_32a_2;32a;32a;32a;;32a;;;;;;;;;x
-b_32a_2_adj;32an;;32er;;;;;;;;;;;x
-b_32b;32b;32b;32b;;32b;;;;;;;;;x
-b_32b_adj;32bian;;32ber;;;;;;;;;;;x
-b_32b_2;32b;32b;32b;;32b;;;;;;;;;x
-b_32b_2_adj;32bian;;32ber;;;;;;;;;;;x
-b_32c;32c;32c;32c;;32c;;;;;;;;;x
-b_32c_adj;32cian;;32cer;;;;;;;;;;;x
-b_32c_2;32c;32c;32c;;32c;;;;;;;;;x
-b_32c_2_adj;32cian;;32cer;;;;;;;;;;;x
-b_32d;32d;32d;32d;;32d;;;;;;;;;x
-b_32d_adj;32dian;;32der;;;;;;;;;;;x
-b_32d_2;32d;32d;32d;;32d;;;;;;;;;x
-b_32d_2_adj;32dian;;32der;;;;;;;;;;;x
-b_32e;32e;32e;32e;;32e;;;;;;;;;x
-b_32e_adj;32ean;;32er;;;;;;;;;;;x
-b_32e_2;32e;32e;32e;;32e;;;;;;;;;x
-b_32e_2_adj;32ean;;32er;;;;;;;;;;;x
-b_32f;32f;32f;32f;;32f;;;;;;;;;x
-b_32f_adj;32fian;;32fer;;;;;;;;;;;x
-b_32f_2;32f;32f;32f;;32f;;;;;;;;;x
-b_32f_2_adj;32fian;;32fer;;;;;;;;;;;x
-b_32g;32g;32g;32g;;32g;;;;;;;;;x
-b_32g_adj;32gian;;32ger;;;;;;;;;;;x
-b_32g_2;32g;32g;32g;;32g;;;;;;;;;x
-b_32g_2_adj;32gian;;32ger;;;;;;;;;;;x
-b_33a;33a;33a;33a;;33a;;;;;;;;;x
-b_33a_adj;33an;;33er;;;;;;;;;;;x
-b_33a_2;33a;33a;33a;;33a;;;;;;;;;x
-b_33a_2_adj;33an;;33er;;;;;;;;;;;x
-b_33b;33b;33b;33b;;33b;;;;;;;;;x
-b_33b_adj;33bian;;33ber;;;;;;;;;;;x
-b_33b_2;33b;33b;33b;;33b;;;;;;;;;x
-b_33b_2_adj;33bian;;33ber;;;;;;;;;;;x
-b_33c;33c;33c;33c;;33c;;;;;;;;;x
-b_33c_adj;33cian;;33cer;;;;;;;;;;;x
-b_33c_2;33c;33c;33c;;33c;;;;;;;;;x
-b_33c_2_adj;33cian;;33cer;;;;;;;;;;;x
-b_33d;33d;33d;33d;;33d;;;;;;;;;x
-b_33d_adj;33dian;;33der;;;;;;;;;;;x
-b_33d_2;33d;33d;33d;;33d;;;;;;;;;x
-b_33d_2_adj;33dian;;33der;;;;;;;;;;;x
-b_33e;33e;33e;33e;;33e;;;;;;;;;x
-b_33e_adj;33ean;;33er;;;;;;;;;;;x
-b_33e_2;33e;33e;33e;;33e;;;;;;;;;x
-b_33e_2_adj;33ean;;33er;;;;;;;;;;;x
-b_33f;33f;33f;33f;;33f;;;;;;;;;x
-b_33f_adj;33fian;;33fer;;;;;;;;;;;x
-b_33f_2;33f;33f;33f;;33f;;;;;;;;;x
-b_33f_2_adj;33fian;;33fer;;;;;;;;;;;x
-b_33g;33g;33g;33g;;33g;;;;;;;;;x
-b_33g_adj;33gian;;33ger;;;;;;;;;;;x
-b_33g_2;33g;33g;33g;;33g;;;;;;;;;x
-b_33g_2_adj;33gian;;33ger;;;;;;;;;;;x
-b_34a;34a;34a;34a;;34a;;;;;;;;;x
-b_34a_adj;34an;;34er;;;;;;;;;;;x
-b_34a_2;34a;34a;34a;;34a;;;;;;;;;x
-b_34a_2_adj;34an;;34er;;;;;;;;;;;x
-b_34b;34b;34b;34b;;34b;;;;;;;;;x
-b_34b_adj;34bian;;34ber;;;;;;;;;;;x
-b_34b_2;34b;34b;34b;;34b;;;;;;;;;x
-b_34b_2_adj;34bian;;34ber;;;;;;;;;;;x
-b_34c;34c;34c;34c;;34c;;;;;;;;;x
-b_34c_adj;34cian;;34cer;;;;;;;;;;;x
-b_34c_2;34c;34c;34c;;34c;;;;;;;;;x
-b_34c_2_adj;34cian;;34cer;;;;;;;;;;;x
-b_34d;34d;34d;34d;;34d;;;;;;;;;x
-b_34d_adj;34dian;;34der;;;;;;;;;;;x
-b_34d_2;34d;34d;34d;;34d;;;;;;;;;x
-b_34d_2_adj;34dian;;34der;;;;;;;;;;;x
-b_34e;34e;34e;34e;;34e;;;;;;;;;x
-b_34e_adj;34ean;;34er;;;;;;;;;;;x
-b_34e_2;34e;34e;34e;;34e;;;;;;;;;x
-b_34e_2_adj;34ean;;34er;;;;;;;;;;;x
-b_34f;34f;34f;34f;;34f;;;;;;;;;x
-b_34f_adj;34fian;;34fer;;;;;;;;;;;x
-b_34f_2;34f;34f;34f;;34f;;;;;;;;;x
-b_34f_2_adj;34fian;;34fer;;;;;;;;;;;x
-b_34g;34g;34g;34g;;34g;;;;;;;;;x
-b_34g_adj;34gian;;34ger;;;;;;;;;;;x
-b_34g_2;34g;34g;34g;;34g;;;;;;;;;x
-b_34g_2_adj;34gian;;34ger;;;;;;;;;;;x
-b_35a;35a;35a;35a;;35a;;;;;;;;;x
-b_35a_adj;35an;;35er;;;;;;;;;;;x
-b_35a_2;35a;35a;35a;;35a;;;;;;;;;x
-b_35a_2_adj;35an;;35er;;;;;;;;;;;x
-b_35b;35b;35b;35b;;35b;;;;;;;;;x
-b_35b_adj;35bian;;35ber;;;;;;;;;;;x
-b_35b_2;35b;35b;35b;;35b;;;;;;;;;x
-b_35b_2_adj;35bian;;35ber;;;;;;;;;;;x
-b_35c;35c;35c;35c;;35c;;;;;;;;;x
-b_35c_adj;35cian;;35cer;;;;;;;;;;;x
-b_35c_2;35c;35c;35c;;35c;;;;;;;;;x
-b_35c_2_adj;35cian;;35cer;;;;;;;;;;;x
-b_35d;35d;35d;35d;;35d;;;;;;;;;x
-b_35d_adj;35dian;;35der;;;;;;;;;;;x
-b_35d_2;35d;35d;35d;;35d;;;;;;;;;x
-b_35d_2_adj;35dian;;35der;;;;;;;;;;;x
-b_35e;35e;35e;35e;;35e;;;;;;;;;x
-b_35e_adj;35ean;;35er;;;;;;;;;;;x
-b_35e_2;35e;35e;35e;;35e;;;;;;;;;x
-b_35e_2_adj;35ean;;35er;;;;;;;;;;;x
-b_35f;35f;35f;35f;;35f;;;;;;;;;x
-b_35f_adj;35fian;;35fer;;;;;;;;;;;x
-b_35f_2;35f;35f;35f;;35f;;;;;;;;;x
-b_35f_2_adj;35fian;;35fer;;;;;;;;;;;x
-b_35g;35g;35g;35g;;35g;;;;;;;;;x
-b_35g_adj;35gian;;35ger;;;;;;;;;;;x
-b_35g_2;35g;35g;35g;;35g;;;;;;;;;x
-b_35g_2_adj;35gian;;35ger;;;;;;;;;;;x
-b_36a;36a;36a;36a;;36a;;;;;;;;;x
-b_36a_adj;36an;;36er;;;;;;;;;;;x
-b_36a_2;36a;36a;36a;;36a;;;;;;;;;x
-b_36a_2_adj;36an;;36er;;;;;;;;;;;x
-b_36b;36b;36b;36b;;36b;;;;;;;;;x
-b_36b_adj;36bian;;36ber;;;;;;;;;;;x
-b_36b_2;36b;36b;36b;;36b;;;;;;;;;x
-b_36b_2_adj;36bian;;36ber;;;;;;;;;;;x
-b_36c;36c;36c;36c;;36c;;;;;;;;;x
-b_36c_adj;36cian;;36cer;;;;;;;;;;;x
-b_36c_2;36c;36c;36c;;36c;;;;;;;;;x
-b_36c_2_adj;36cian;;36cer;;;;;;;;;;;x
-b_36d;36d;36d;36d;;36d;;;;;;;;;x
-b_36d_adj;36dian;;36der;;;;;;;;;;;x
-b_36d_2;36d;36d;36d;;36d;;;;;;;;;x
-b_36d_2_adj;36dian;;36der;;;;;;;;;;;x
-b_36e;36e;36e;36e;;36e;;;;;;;;;x
-b_36e_adj;36ean;;36er;;;;;;;;;;;x
-b_36e_2;36e;36e;36e;;36e;;;;;;;;;x
-b_36e_2_adj;36ean;;36er;;;;;;;;;;;x
-b_36f;36f;36f;36f;;36f;;;;;;;;;x
-b_36f_adj;36fian;;36fer;;;;;;;;;;;x
-b_36f_2;36f;36f;36f;;36f;;;;;;;;;x
-b_36f_2_adj;36fian;;36fer;;;;;;;;;;;x
-b_36g;36g;36g;36g;;36g;;;;;;;;;x
-b_36g_adj;36gian;;36ger;;;;;;;;;;;x
-b_36g_2;36g;36g;36g;;36g;;;;;;;;;x
-b_36g_2_adj;36gian;;36ger;;;;;;;;;;;x
-b_37a;37a;37a;37a;;37a;;;;;;;;;x
-b_37a_adj;37an;;37er;;;;;;;;;;;x
-b_37a_2;37a;37a;37a;;37a;;;;;;;;;x
-b_37a_2_adj;37an;;37er;;;;;;;;;;;x
-b_37b;37b;37b;37b;;37b;;;;;;;;;x
-b_37b_adj;37bian;;37ber;;;;;;;;;;;x
-b_37b_2;37b;37b;37b;;37b;;;;;;;;;x
-b_37b_2_adj;37bian;;37ber;;;;;;;;;;;x
-b_37c;37c;37c;37c;;37c;;;;;;;;;x
-b_37c_adj;37cian;;37cer;;;;;;;;;;;x
-b_37c_2;37c;37c;37c;;37c;;;;;;;;;x
-b_37c_2_adj;37cian;;37cer;;;;;;;;;;;x
-b_37d;37d;37d;37d;;37d;;;;;;;;;x
-b_37d_adj;37dian;;37der;;;;;;;;;;;x
-b_37d_2;37d;37d;37d;;37d;;;;;;;;;x
-b_37d_2_adj;37dian;;37der;;;;;;;;;;;x
-b_37e;37e;37e;37e;;37e;;;;;;;;;x
-b_37e_adj;37ean;;37er;;;;;;;;;;;x
-b_37e_2;37e;37e;37e;;37e;;;;;;;;;x
-b_37e_2_adj;37ean;;37er;;;;;;;;;;;x
-b_37f;37f;37f;37f;;37f;;;;;;;;;x
-b_37f_adj;37fian;;37fer;;;;;;;;;;;x
-b_37f_2;37f;37f;37f;;37f;;;;;;;;;x
-b_37f_2_adj;37fian;;37fer;;;;;;;;;;;x
-b_37g;37g;37g;37g;;37g;;;;;;;;;x
-b_37g_adj;37gian;;37ger;;;;;;;;;;;x
-b_37g_2;37g;37g;37g;;37g;;;;;;;;;x
-b_37g_2_adj;37gian;;37ger;;;;;;;;;;;x
-b_38a;38a;38a;38a;;38a;;;;;;;;;x
-b_38a_adj;38an;;38er;;;;;;;;;;;x
-b_38a_2;38a;38a;38a;;38a;;;;;;;;;x
-b_38a_2_adj;38an;;38er;;;;;;;;;;;x
-b_38b;38b;38b;38b;;38b;;;;;;;;;x
-b_38b_adj;38bian;;38ber;;;;;;;;;;;x
-b_38b_2;38b;38b;38b;;38b;;;;;;;;;x
-b_38b_2_adj;38bian;;38ber;;;;;;;;;;;x
-b_38c;38c;38c;38c;;38c;;;;;;;;;x
-b_38c_adj;38cian;;38cer;;;;;;;;;;;x
-b_38c_2;38c;38c;38c;;38c;;;;;;;;;x
-b_38c_2_adj;38cian;;38cer;;;;;;;;;;;x
-b_38d;38d;38d;38d;;38d;;;;;;;;;x
-b_38d_adj;38dian;;38der;;;;;;;;;;;x
-b_38d_2;38d;38d;38d;;38d;;;;;;;;;x
-b_38d_2_adj;38dian;;38der;;;;;;;;;;;x
-b_38e;38e;38e;38e;;38e;;;;;;;;;x
-b_38e_adj;38ean;;38er;;;;;;;;;;;x
-b_38e_2;38e;38e;38e;;38e;;;;;;;;;x
-b_38e_2_adj;38ean;;38er;;;;;;;;;;;x
-b_38f;38f;38f;38f;;38f;;;;;;;;;x
-b_38f_adj;38fian;;38fer;;;;;;;;;;;x
-b_38f_2;38f;38f;38f;;38f;;;;;;;;;x
-b_38f_2_adj;38fian;;38fer;;;;;;;;;;;x
-b_38g;38g;38g;38g;;38g;;;;;;;;;x
-b_38g_adj;38gian;;38ger;;;;;;;;;;;x
-b_38g_2;38g;38g;38g;;38g;;;;;;;;;x
-b_38g_2_adj;38gian;;38ger;;;;;;;;;;;x
-b_39a;39a;39a;39a;;39a;;;;;;;;;x
-b_39a_adj;39an;;39er;;;;;;;;;;;x
-b_39a_2;39a;39a;39a;;39a;;;;;;;;;x
-b_39a_2_adj;39an;;39er;;;;;;;;;;;x
-b_39b;39b;39b;39b;;39b;;;;;;;;;x
-b_39b_adj;39bian;;39ber;;;;;;;;;;;x
-b_39b_2;39b;39b;39b;;39b;;;;;;;;;x
-b_39b_2_adj;39bian;;39ber;;;;;;;;;;;x
-b_39c;39c;39c;39c;;39c;;;;;;;;;x
-b_39c_adj;39cian;;39cer;;;;;;;;;;;x
-b_39c_2;39c;39c;39c;;39c;;;;;;;;;x
-b_39c_2_adj;39cian;;39cer;;;;;;;;;;;x
-b_39d;39d;39d;39d;;39d;;;;;;;;;x
-b_39d_adj;39dian;;39der;;;;;;;;;;;x
-b_39d_2;39d;39d;39d;;39d;;;;;;;;;x
-b_39d_2_adj;39dian;;39der;;;;;;;;;;;x
-b_39e;39e;39e;39e;;39e;;;;;;;;;x
-b_39e_adj;39ean;;39er;;;;;;;;;;;x
-b_39e_2;39e;39e;39e;;39e;;;;;;;;;x
-b_39e_2_adj;39ean;;39er;;;;;;;;;;;x
-b_39f;39f;39f;39f;;39f;;;;;;;;;x
-b_39f_adj;39fian;;39fer;;;;;;;;;;;x
-b_39f_2;39f;39f;39f;;39f;;;;;;;;;x
-b_39f_2_adj;39fian;;39fer;;;;;;;;;;;x
-b_39g;39g;39g;39g;;39g;;;;;;;;;x
-b_39g_adj;39gian;;39ger;;;;;;;;;;;x
-b_39g_2;39g;39g;39g;;39g;;;;;;;;;x
-b_39g_2_adj;39gian;;39ger;;;;;;;;;;;x
-b_3a;3a;3a;3a;;3a;;;;;;;;;x
-b_3a_adj;3an;;3er;;;;;;;;;;;x
-b_3b;3b;3b;3b;;3b;;;;;;;;;x
-b_3b_adj;3bian;;3ber;;;;;;;;;;;x
-b_3c;3c;3c;3c;;3c;;;;;;;;;x
-b_3c_adj;3cian;;3cer;;;;;;;;;;;x
-b_3d;3d;3d;3d;;3d;;;;;;;;;x
-b_3d_adj;3dian;;3der;;;;;;;;;;;x
-b_3e;3e;3e;3e;;3e;;;;;;;;;x
-b_3e_adj;3ean;;3er;;;;;;;;;;;x
-b_3f;3f;3f;3f;;3f;;;;;;;;;x
-b_3f_adj;3fian;;3fer;;;;;;;;;;;x
-b_3g;3g;3g;3g;;3g;;;;;;;;;x
-b_3g_adj;3gian;;3ger;;;;;;;;;;;x
-b_40a;40a;40a;40a;;40a;;;;;;;;;x
-b_40a_adj;40an;;40er;;;;;;;;;;;x
-b_40a_2;40a;40a;40a;;40a;;;;;;;;;x
-b_40a_2_adj;40an;;40er;;;;;;;;;;;x
-b_40b;40b;40b;40b;;40b;;;;;;;;;x
-b_40b_adj;40bian;;40ber;;;;;;;;;;;x
-b_40b_2;40b;40b;40b;;40b;;;;;;;;;x
-b_40b_2_adj;40bian;;40ber;;;;;;;;;;;x
-b_40c;40c;40c;40c;;40c;;;;;;;;;x
-b_40c_adj;40cian;;40cer;;;;;;;;;;;x
-b_40c_2;40c;40c;40c;;40c;;;;;;;;;x
-b_40c_2_adj;40cian;;40cer;;;;;;;;;;;x
-b_40d;40d;40d;40d;;40d;;;;;;;;;x
-b_40d_adj;40dian;;40der;;;;;;;;;;;x
-b_40d_2;40d;40d;40d;;40d;;;;;;;;;x
-b_40d_2_adj;40dian;;40der;;;;;;;;;;;x
-b_40e;40e;40e;40e;;40e;;;;;;;;;x
-b_40e_adj;40ean;;40er;;;;;;;;;;;x
-b_40e_2;40e;40e;40e;;40e;;;;;;;;;x
-b_40e_2_adj;40ean;;40er;;;;;;;;;;;x
-b_40f;40f;40f;40f;;40f;;;;;;;;;x
-b_40f_adj;40fian;;40fer;;;;;;;;;;;x
-b_40f_2;40f;40f;40f;;40f;;;;;;;;;x
-b_40f_2_adj;40fian;;40fer;;;;;;;;;;;x
-b_40g;40g;40g;40g;;40g;;;;;;;;;x
-b_40g_adj;40gian;;40ger;;;;;;;;;;;x
-b_40g_2;40g;40g;40g;;40g;;;;;;;;;x
-b_40g_2_adj;40gian;;40ger;;;;;;;;;;;x
-b_41a;41a;41a;41a;;41a;;;;;;;;;x
-b_41a_adj;41an;;41er;;;;;;;;;;;x
-b_41a_2;41a;41a;41a;;41a;;;;;;;;;x
-b_41a_2_adj;41an;;41er;;;;;;;;;;;x
-b_41b;41b;41b;41b;;41b;;;;;;;;;x
-b_41b_adj;41bian;;41ber;;;;;;;;;;;x
-b_41b_2;41b;41b;41b;;41b;;;;;;;;;x
-b_41b_2_adj;41bian;;41ber;;;;;;;;;;;x
-b_41c;41c;41c;41c;;41c;;;;;;;;;x
-b_41c_adj;41cian;;41cer;;;;;;;;;;;x
-b_41c_2;41c;41c;41c;;41c;;;;;;;;;x
-b_41c_2_adj;41cian;;41cer;;;;;;;;;;;x
-b_41d;41d;41d;41d;;41d;;;;;;;;;x
-b_41d_adj;41dian;;41der;;;;;;;;;;;x
-b_41d_2;41d;41d;41d;;41d;;;;;;;;;x
-b_41d_2_adj;41dian;;41der;;;;;;;;;;;x
-b_41e;41e;41e;41e;;41e;;;;;;;;;x
-b_41e_adj;41ean;;41er;;;;;;;;;;;x
-b_41e_2;41e;41e;41e;;41e;;;;;;;;;x
-b_41e_2_adj;41ean;;41er;;;;;;;;;;;x
-b_41f;41f;41f;41f;;41f;;;;;;;;;x
-b_41f_adj;41fian;;41fer;;;;;;;;;;;x
-b_41f_2;41f;41f;41f;;41f;;;;;;;;;x
-b_41f_2_adj;41fian;;41fer;;;;;;;;;;;x
-b_41g;41g;41g;41g;;41g;;;;;;;;;x
-b_41g_adj;41gian;;41ger;;;;;;;;;;;x
-b_41g_2;41g;41g;41g;;41g;;;;;;;;;x
-b_41g_2_adj;41gian;;41ger;;;;;;;;;;;x
-b_42a;42a;42a;42a;;42a;;;;;;;;;x
-b_42a_adj;42an;;42er;;;;;;;;;;;x
-b_42b;42b;42b;42b;;42b;;;;;;;;;x
-b_42b_adj;42bian;;42ber;;;;;;;;;;;x
-b_42c;42c;42c;42c;;42c;;;;;;;;;x
-b_42c_adj;42cian;;42cer;;;;;;;;;;;x
-b_42d;42d;42d;42d;;42d;;;;;;;;;x
-b_42d_adj;42dian;;42der;;;;;;;;;;;x
-b_42e;42e;42e;42e;;42e;;;;;;;;;x
-b_42e_adj;42ean;;42er;;;;;;;;;;;x
-b_42f;42f;42f;42f;;42f;;;;;;;;;x
-b_42f_adj;42fian;;42fer;;;;;;;;;;;x
-b_42g;42g;42g;42g;;42g;;;;;;;;;x
-b_42g_adj;42gian;;42ger;;;;;;;;;;;x
-b_43a;43a;43a;43a;;43a;;;;;;;;;x
-b_43a_adj;43an;;43er;;;;;;;;;;;x
-b_43b;43b;43b;43b;;43b;;;;;;;;;x
-b_43b_adj;43bian;;43ber;;;;;;;;;;;x
-b_43c;43c;43c;43c;;43c;;;;;;;;;x
-b_43c_adj;43cian;;43cer;;;;;;;;;;;x
-b_43d;43d;43d;43d;;43d;;;;;;;;;x
-b_43d_adj;43dian;;43der;;;;;;;;;;;x
-b_43e;43e;43e;43e;;43e;;;;;;;;;x
-b_43e_adj;43ean;;43er;;;;;;;;;;;x
-b_43f;43f;43f;43f;;43f;;;;;;;;;x
-b_43f_adj;43fian;;43fer;;;;;;;;;;;x
-b_43g;43g;43g;43g;;43g;;;;;;;;;x
-b_43g_adj;43gian;;43ger;;;;;;;;;;;x
-b_44a;44a;44a;44a;;44a;;;;;;;;;x
-b_44a_adj;44an;;44er;;;;;;;;;;;x
-b_44b;44b;44b;44b;;44b;;;;;;;;;x
-b_44b_adj;44bian;;44ber;;;;;;;;;;;x
-b_44c;44c;44c;44c;;44c;;;;;;;;;x
-b_44c_adj;44cian;;44cer;;;;;;;;;;;x
-b_44d;44d;44d;44d;;44d;;;;;;;;;x
-b_44d_adj;44dian;;44der;;;;;;;;;;;x
-b_44e;44e;44e;44e;;44e;;;;;;;;;x
-b_44e_adj;44ean;;44er;;;;;;;;;;;x
-b_44f;44f;44f;44f;;44f;;;;;;;;;x
-b_44f_adj;44fian;;44fer;;;;;;;;;;;x
-b_44g;44g;44g;44g;;44g;;;;;;;;;x
-b_44g_adj;44gian;;44ger;;;;;;;;;;;x
-b_45a;45a;45a;45a;;45a;;;;;;;;;x
-b_45a_adj;45an;;45er;;;;;;;;;;;x
-b_45b;45b;45b;45b;;45b;;;;;;;;;x
-b_45b_adj;45bian;;45ber;;;;;;;;;;;x
-b_45c;45c;45c;45c;;45c;;;;;;;;;x
-b_45c_adj;45cian;;45cer;;;;;;;;;;;x
-b_45d;45d;45d;45d;;45d;;;;;;;;;x
-b_45d_adj;45dian;;45der;;;;;;;;;;;x
-b_45e;45e;45e;45e;;45e;;;;;;;;;x
-b_45e_adj;45ean;;45er;;;;;;;;;;;x
-b_45f;45f;45f;45f;;45f;;;;;;;;;x
-b_45f_adj;45fian;;45fer;;;;;;;;;;;x
-b_45g;45g;45g;45g;;45g;;;;;;;;;x
-b_45g_adj;45gian;;45ger;;;;;;;;;;;x
-b_46a;46a;46a;46a;;46a;;;;;;;;;x
-b_46a_adj;46an;;46er;;;;;;;;;;;x
-b_46b;46b;46b;46b;;46b;;;;;;;;;x
-b_46b_adj;46bian;;46ber;;;;;;;;;;;x
-b_46c;46c;46c;46c;;46c;;;;;;;;;x
-b_46c_adj;46cian;;46cer;;;;;;;;;;;x
-b_46d;46d;46d;46d;;46d;;;;;;;;;x
-b_46d_adj;46dian;;46der;;;;;;;;;;;x
-b_46e;46e;46e;46e;;46e;;;;;;;;;x
-b_46e_adj;46ean;;46er;;;;;;;;;;;x
-b_46f;46f;46f;46f;;46f;;;;;;;;;x
-b_46f_adj;46fian;;46fer;;;;;;;;;;;x
-b_46g;46g;46g;46g;;46g;;;;;;;;;x
-b_46g_adj;46gian;;46ger;;;;;;;;;;;x
-b_47a;47a;47a;47a;;47a;;;;;;;;;x
-b_47a_adj;47an;;47er;;;;;;;;;;;x
-b_47b;47b;47b;47b;;47b;;;;;;;;;x
-b_47b_adj;47bian;;47ber;;;;;;;;;;;x
-b_47c;47c;47c;47c;;47c;;;;;;;;;x
-b_47c_adj;47cian;;47cer;;;;;;;;;;;x
-b_47d;47d;47d;47d;;47d;;;;;;;;;x
-b_47d_adj;47dian;;47der;;;;;;;;;;;x
-b_47e;47e;47e;47e;;47e;;;;;;;;;x
-b_47e_adj;47ean;;47er;;;;;;;;;;;x
-b_47f;47f;47f;47f;;47f;;;;;;;;;x
-b_47f_adj;47fian;;47fer;;;;;;;;;;;x
-b_47g;47g;47g;47g;;47g;;;;;;;;;x
-b_47g_adj;47gian;;47ger;;;;;;;;;;;x
-b_48a;48a;48a;48a;;48a;;;;;;;;;x
-b_48a_adj;48an;;48er;;;;;;;;;;;x
-b_48b;48b;48b;48b;;48b;;;;;;;;;x
-b_48b_adj;48bian;;48ber;;;;;;;;;;;x
-b_48c;48c;48c;48c;;48c;;;;;;;;;x
-b_48c_adj;48cian;;48cer;;;;;;;;;;;x
-b_48d;48d;48d;48d;;48d;;;;;;;;;x
-b_48d_adj;48dian;;48der;;;;;;;;;;;x
-b_48e;48e;48e;48e;;48e;;;;;;;;;x
-b_48e_adj;48ean;;48er;;;;;;;;;;;x
-b_48f;48f;48f;48f;;48f;;;;;;;;;x
-b_48f_adj;48fian;;48fer;;;;;;;;;;;x
-b_48g;48g;48g;48g;;48g;;;;;;;;;x
-b_48g_adj;48gian;;48ger;;;;;;;;;;;x
-b_49a;49a;49a;49a;;49a;;;;;;;;;x
-b_49a_adj;49an;;49er;;;;;;;;;;;x
-b_49b;49b;49b;49b;;49b;;;;;;;;;x
-b_49b_adj;49bian;;49ber;;;;;;;;;;;x
-b_49c;49c;49c;49c;;49c;;;;;;;;;x
-b_49c_adj;49cian;;49cer;;;;;;;;;;;x
-b_49d;49d;49d;49d;;49d;;;;;;;;;x
-b_49d_adj;49dian;;49der;;;;;;;;;;;x
-b_49e;49e;49e;49e;;49e;;;;;;;;;x
-b_49e_adj;49ean;;49er;;;;;;;;;;;x
-b_49f;49f;49f;49f;;49f;;;;;;;;;x
-b_49f_adj;49fian;;49fer;;;;;;;;;;;x
-b_49g;49g;49g;49g;;49g;;;;;;;;;x
-b_49g_adj;49gian;;49ger;;;;;;;;;;;x
-b_4a;4a;4a;4a;;4a;;;;;;;;;x
-b_4a_adj;4an;;4er;;;;;;;;;;;x
-b_4b;4b;4b;4b;;4b;;;;;;;;;x
-b_4b_adj;4bian;;4ber;;;;;;;;;;;x
-b_4c;4c;4c;4c;;4c;;;;;;;;;x
-b_4c_adj;4cian;;4cer;;;;;;;;;;;x
-b_4d;4d;4d;4d;;4d;;;;;;;;;x
-b_4d_adj;4dian;;4der;;;;;;;;;;;x
-b_4e;4e;4e;4e;;4e;;;;;;;;;x
-b_4e_adj;4ean;;4er;;;;;;;;;;;x
-b_4f;4f;4f;4f;;4f;;;;;;;;;x
-b_4f_adj;4fian;;4fer;;;;;;;;;;;x
-b_4g;4g;4g;4g;;4g;;;;;;;;;x
-b_4g_adj;4gian;;4ger;;;;;;;;;;;x
-b_5a;5a;5a;5a;;5a;;;;;;;;;x
-b_5a_adj;5an;;5er;;;;;;;;;;;x
-b_5b;5b;5b;5b;;5b;;;;;;;;;x
-b_5b_adj;5bian;;5ber;;;;;;;;;;;x
-b_5c;5c;5c;5c;;5c;;;;;;;;;x
-b_5c_adj;5cian;;5cer;;;;;;;;;;;x
-b_5d;5d;5d;5d;;5d;;;;;;;;;x
-b_5d_adj;5dian;;5der;;;;;;;;;;;x
-b_5e;5e;5e;5e;;5e;;;;;;;;;x
-b_5e_adj;5ean;;5er;;;;;;;;;;;x
-b_5f;5f;5f;5f;;5f;;;;;;;;;x
-b_5f_adj;5fian;;5fer;;;;;;;;;;;x
-b_5g;5g;5g;5g;;5g;;;;;;;;;x
-b_5g_adj;5gian;;5ger;;;;;;;;;;;x
-b_6a;6a;6a;6a;;6a;;;;;;;;;x
-b_6a_adj;6an;;6er;;;;;;;;;;;x
-b_6b;6b;6b;6b;;6b;;;;;;;;;x
-b_6b_adj;6bian;;6ber;;;;;;;;;;;x
-b_6c;6c;6c;6c;;6c;;;;;;;;;x
-b_6c_adj;6cian;;6cer;;;;;;;;;;;x
-b_6d;6d;6d;6d;;6d;;;;;;;;;x
-b_6d_adj;6dian;;6der;;;;;;;;;;;x
-b_6e;6e;6e;6e;;6e;;;;;;;;;x
-b_6e_adj;6ean;;6er;;;;;;;;;;;x
-b_6f;6f;6f;6f;;6f;;;;;;;;;x
-b_6f_adj;6fian;;6fer;;;;;;;;;;;x
-b_6g;6g;6g;6g;;6g;;;;;;;;;x
-b_6g_adj;6gian;;6ger;;;;;;;;;;;x
-b_7a;7a;7a;7a;;7a;;;;;;;;;x
-b_7a_adj;7an;;7er;;;;;;;;;;;x
-b_7b;7b;7b;7b;;7b;;;;;;;;;x
-b_7b_adj;7bian;;7ber;;;;;;;;;;;x
-b_7c;7c;7c;7c;;7c;;;;;;;;;x
-b_7c_adj;7cian;;7cer;;;;;;;;;;;x
-b_7d;7d;7d;7d;;7d;;;;;;;;;x
-b_7d_adj;7dian;;7der;;;;;;;;;;;x
-b_7e;7e;7e;7e;;7e;;;;;;;;;x
-b_7e_adj;7ean;;7er;;;;;;;;;;;x
-b_7f;7f;7f;7f;;7f;;;;;;;;;x
-b_7f_adj;7fian;;7fer;;;;;;;;;;;x
-b_7g;7g;7g;7g;;7g;;;;;;;;;x
-b_7g_adj;7gian;;7ger;;;;;;;;;;;x
-b_8a;8a;8a;8a;;8a;;;;;;;;;x
-b_8a_adj;8an;;8er;;;;;;;;;;;x
-b_8b;8b;8b;8b;;8b;;;;;;;;;x
-b_8b_adj;8bian;;8ber;;;;;;;;;;;x
-b_8c;8c;8c;8c;;8c;;;;;;;;;x
-b_8c_adj;8cian;;8cer;;;;;;;;;;;x
-b_8d;8d;8d;8d;;8d;;;;;;;;;x
-b_8d_adj;8dian;;8der;;;;;;;;;;;x
-b_8e;8e;8e;8e;;8e;;;;;;;;;x
-b_8e_adj;8ean;;8er;;;;;;;;;;;x
-b_8f;8f;8f;8f;;8f;;;;;;;;;x
-b_8f_adj;8fian;;8fer;;;;;;;;;;;x
-b_8g;8g;8g;8g;;8g;;;;;;;;;x
-b_8g_adj;8gian;;8ger;;;;;;;;;;;x
-b_9a;9a;9a;9a;;9a;;;;;;;;;x
-b_9a_adj;9an;;9er;;;;;;;;;;;x
-b_9b;9b;9b;9b;;9b;;;;;;;;;x
-b_9b_adj;9bian;;9ber;;;;;;;;;;;x
-b_9c;9c;9c;9c;;9c;;;;;;;;;x
-b_9c_adj;9cian;;9cer;;;;;;;;;;;x
-b_9d;9d;9d;9d;;9d;;;;;;;;;x
-b_9d_adj;9dian;;9der;;;;;;;;;;;x
-b_9e;9e;9e;9e;;9e;;;;;;;;;x
-b_9e_adj;9ean;;9er;;;;;;;;;;;x
-b_9f;9f;9f;9f;;9f;;;;;;;;;x
-b_9f_adj;9fian;;9fer;;;;;;;;;;;x
-b_9g;9g;9g;9g;;9g;;;;;;;;;x
-b_9g_adj;9gian;;9ger;;;;;;;;;;;x
 b_apulum;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
 b_apulum_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_apulum_2;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
+b_apulum_2_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_apulum_3;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
+b_apulum_3_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_apulum_4;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
+b_apulum_4_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_apulum_5;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
+b_apulum_5_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_apulum_6;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
+b_apulum_6_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_apulum_7;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
+b_apulum_7_adj;Apulumian;;apulumer;;;;;;;;;;;x
+b_archeron;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_archeron_2;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_2_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_archeron_3;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_3_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_archeron_4;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_4_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_archeron_5;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_5_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_archeron_6;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_6_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_archeron_7;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
+b_archeron_7_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_aurbus_templas;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurbus_templas_2;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_2_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurbus_templas_3;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_3_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurbus_templas_4;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_4_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurbus_templas_5;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_5_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurbus_templas_6;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_6_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurbus_templas_7;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
+b_aurbus_templas_7_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
+b_aurion;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_aurion_2;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_2_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_aurion_3;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_3_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_aurion_4;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_4_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_aurion_5;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_5_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_aurion_6;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_6_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_aurion_7;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
+b_aurion_7_adj;Aurionian;;aurioner;;;;;;;;;;;x
+b_bay_of_gulim;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bay_of_gulim_2;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_2_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bay_of_gulim_3;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_3_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bay_of_gulim_4;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_4_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bay_of_gulim_5;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_5_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bay_of_gulim_6;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_6_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bay_of_gulim_7;Bay of Gulim;Bay of Gulim;Bay of Gulim;;Bay of Gulim;;;;;;;;;x
+b_bay_of_gulim_7_adj;Bay of Gulimian;;Bay of Gulimer;;;;;;;;;;;x
+b_bleeding_sea;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_bleeding_sea_2;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_2_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_bleeding_sea_3;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_3_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_bleeding_sea_4;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_4_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_bleeding_sea_5;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_5_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_bleeding_sea_6;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_6_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_bleeding_sea_7;Bleeding Sea;Bleeding Sea;Bleeding Sea;;Bleeding Sea;;;;;;;;;x
+b_bleeding_sea_7_adj;Bleeding Sean;;Bleeding Ser;;;;;;;;;;;x
+b_brightarth;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_adj;Brightarthian;;brightarther;;;;;;;;;;;x
+b_brightarth_2;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_2_adj;Brightarthian;;brightarther;;;;;;;;;;;x
+b_brightarth_3;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_3_adj;Brightarthian;;brightarther;;;;;;;;;;;x
+b_brightarth_4;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_4_adj;Brightarthian;;brightarther;;;;;;;;;;;x
+b_brightarth_5;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_5_adj;Brightarthian;;brightarther;;;;;;;;;;;x
+b_brightarth_6;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_6_adj;Brightarthian;;brightarther;;;;;;;;;;;x
+b_brightarth_7;Brightarth;Brightarth;Brightarth;;Brightarth;;;;;;;;;x
+b_brightarth_7_adj;Brightarthian;;brightarther;;;;;;;;;;;x
 b_cairun;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
 b_cairun_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_cairun_2;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
+b_cairun_2_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_cairun_3;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
+b_cairun_3_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_cairun_4;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
+b_cairun_4_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_cairun_5;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
+b_cairun_5_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_cairun_6;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
+b_cairun_6_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_cairun_7;Cairun;Cairun;Cairun;;Cairun;;;;;;;;;x
+b_cairun_7_adj;Cairunian;;cairuner;;;;;;;;;;;x
+b_caivus;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_caivus_2;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_2_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_caivus_3;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_3_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_caivus_4;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_4_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_caivus_5;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_5_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_caivus_6;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_6_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_caivus_7;Caivus;Caivus;Caivus;;Caivus;;;;;;;;;x
+b_caivus_7_adj;Caivusian;;caivuser;;;;;;;;;;;x
+b_clifrok;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_clifrok_2;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_2_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_clifrok_3;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_3_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_clifrok_4;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_4_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_clifrok_5;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_5_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_clifrok_6;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_6_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_clifrok_7;Clifrok;Clifrok;Clifrok;;Clifrok;;;;;;;;;x
+b_clifrok_7_adj;Clifrokian;;clifroker;;;;;;;;;;;x
+b_coffiton;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_coffiton_2;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_2_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_coffiton_3;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_3_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_coffiton_4;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_4_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_coffiton_5;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_5_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_coffiton_6;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_6_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_coffiton_7;Coffiton;Coffiton;Coffiton;;Coffiton;;;;;;;;;x
+b_coffiton_7_adj;Coffitonian;;coffitoner;;;;;;;;;;;x
+b_cold_heartlands;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cold_heartlands_2;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_2_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cold_heartlands_3;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_3_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cold_heartlands_4;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_4_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cold_heartlands_5;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_5_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cold_heartlands_6;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_6_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cold_heartlands_7;Cold Heartlands;Cold Heartlands;Cold Heartlands;;Cold Heartlands;;;;;;;;;x
+b_cold_heartlands_7_adj;Cold Heartlandsian;;Cold Heartlandser;;;;;;;;;;;x
+b_cubere;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_cubere_2;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_2_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_cubere_3;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_3_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_cubere_4;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_4_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_cubere_5;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_5_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_cubere_6;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_6_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_cubere_7;Cubere;Cubere;Cubere;;Cubere;;;;;;;;;x
+b_cubere_7_adj;Cuberean;;cuberer;;;;;;;;;;;x
+b_dairun;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_dairun_2;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_2_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_dairun_3;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_3_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_dairun_4;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_4_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_dairun_5;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_5_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_dairun_6;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_6_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_dairun_7;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+b_dairun_7_adj;Dairunian;;dairuner;;;;;;;;;;;x
+b_damien_hills;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_damien_hills_2;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_2_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_damien_hills_3;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_3_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_damien_hills_4;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_4_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_damien_hills_5;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_5_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_damien_hills_6;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_6_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_damien_hills_7;Damien Hills;Damien Hills;Damien Hills;;Damien Hills;;;;;;;;;x
+b_damien_hills_7_adj;Damien Hillsian;;Damien Hillser;;;;;;;;;;;x
+b_demarion_keep;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_demarion_keep_2;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_2_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_demarion_keep_3;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_3_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_demarion_keep_4;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_4_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_demarion_keep_5;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_5_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_demarion_keep_6;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_6_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_demarion_keep_7;Demarion Keep;Demarion Keep;Demarion Keep;;Demarion Keep;;;;;;;;;x
+b_demarion_keep_7_adj;Demarion Keepian;;Demarion Keeper;;;;;;;;;;;x
+b_dinera;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_dinera_2;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_2_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_dinera_3;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_3_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_dinera_4;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_4_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_dinera_5;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_5_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_dinera_6;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_6_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_dinera_7;Dinera;Dinera;Dinera;;Dinera;;;;;;;;;x
+b_dinera_7_adj;Dineran;;dinerer;;;;;;;;;;;x
+b_east_garrilev;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_east_garrilev_2;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_2_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_east_garrilev_3;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_3_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_east_garrilev_4;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_4_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_east_garrilev_5;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_5_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_east_garrilev_6;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_6_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_east_garrilev_7;East Garrilev;East Garrilev;East Garrilev;;East Garrilev;;;;;;;;;x
+b_east_garrilev_7_adj;East Garrilevian;;East Garrilever;;;;;;;;;;;x
+b_elbens_bridge;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_elbens_bridge_2;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_2_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_elbens_bridge_3;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_3_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_elbens_bridge_4;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_4_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_elbens_bridge_5;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_5_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_elbens_bridge_6;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_6_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_elbens_bridge_7;Elben’s Bridge;Elben’s Bridge;Elben’s Bridge;;Elben’s Bridge;;;;;;;;;x
+b_elbens_bridge_7_adj;Elben’s Bridgean;;Elben’s Bridger;;;;;;;;;;;x
+b_endost;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_adj;Endostian;;endoster;;;;;;;;;;;x
+b_endost_2;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_2_adj;Endostian;;endoster;;;;;;;;;;;x
+b_endost_3;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_3_adj;Endostian;;endoster;;;;;;;;;;;x
+b_endost_4;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_4_adj;Endostian;;endoster;;;;;;;;;;;x
+b_endost_5;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_5_adj;Endostian;;endoster;;;;;;;;;;;x
+b_endost_6;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_6_adj;Endostian;;endoster;;;;;;;;;;;x
+b_endost_7;Endost;Endost;Endost;;Endost;;;;;;;;;x
+b_endost_7_adj;Endostian;;endoster;;;;;;;;;;;x
+b_estden;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_estden_2;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_2_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_estden_3;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_3_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_estden_4;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_4_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_estden_5;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_5_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_estden_6;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_6_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_estden_7;Estden;Estden;Estden;;Estden;;;;;;;;;x
+b_estden_7_adj;Estdenian;;estdener;;;;;;;;;;;x
+b_fletcherling;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fletcherling_2;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_2_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fletcherling_3;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_3_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fletcherling_4;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_4_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fletcherling_5;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_5_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fletcherling_6;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_6_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fletcherling_7;Fletcherling;Fletcherling;Fletcherling;;Fletcherling;;;;;;;;;x
+b_fletcherling_7_adj;Fletcherlingian;;fletcherlinger;;;;;;;;;;;x
+b_fort_jurim;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_fort_jurim_2;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_2_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_fort_jurim_3;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_3_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_fort_jurim_4;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_4_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_fort_jurim_5;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_5_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_fort_jurim_6;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_6_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_fort_jurim_7;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
+b_fort_jurim_7_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_gervennin;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_gervennin_2;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_2_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_gervennin_3;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_3_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_gervennin_4;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_4_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_gervennin_5;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_5_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_gervennin_6;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_6_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_gervennin_7;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
+b_gervennin_7_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+b_hopper_gorge;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hopper_gorge_2;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_2_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hopper_gorge_3;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_3_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hopper_gorge_4;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_4_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hopper_gorge_5;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_5_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hopper_gorge_6;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_6_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hopper_gorge_7;Hopper Gorge;Hopper Gorge;Hopper Gorge;;Hopper Gorge;;;;;;;;;x
+b_hopper_gorge_7_adj;Hopper Gorgean;;Hopper Gorger;;;;;;;;;;;x
+b_hostar;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hostar_2;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_2_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hostar_3;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_3_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hostar_4;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_4_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hostar_5;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_5_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hostar_6;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_6_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hostar_7;Hostar;Hostar;Hostar;;Hostar;;;;;;;;;x
+b_hostar_7_adj;Hostarian;;hostarer;;;;;;;;;;;x
+b_hustuum;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_hustuum_2;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_2_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_hustuum_3;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_3_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_hustuum_4;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_4_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_hustuum_5;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_5_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_hustuum_6;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_6_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_hustuum_7;Hustuum;Hustuum;Hustuum;;Hustuum;;;;;;;;;x
+b_hustuum_7_adj;Hustuumian;;hustuumer;;;;;;;;;;;x
+b_imerun;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_imerun_2;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_2_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_imerun_3;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_3_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_imerun_4;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_4_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_imerun_5;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_5_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_imerun_6;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_6_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_imerun_7;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
+b_imerun_7_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_jacobaland;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jacobaland_2;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_2_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jacobaland_3;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_3_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jacobaland_4;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_4_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jacobaland_5;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_5_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jacobaland_6;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_6_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jacobaland_7;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
+b_jacobaland_7_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
+b_jalnoral;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jalnoral_2;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_2_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jalnoral_3;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_3_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jalnoral_4;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_4_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jalnoral_5;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_5_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jalnoral_6;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_6_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jalnoral_7;Jalnoral;Jalnoral;Jalnoral;;Jalnoral;;;;;;;;;x
+b_jalnoral_7_adj;Jalnoralian;;jalnoraler;;;;;;;;;;;x
+b_jarados;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_jarados_2;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_2_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_jarados_3;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_3_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_jarados_4;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_4_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_jarados_5;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_5_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_jarados_6;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_6_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_jarados_7;Jarados;Jarados;Jarados;;Jarados;;;;;;;;;x
+b_jarados_7_adj;Jaradosian;;jaradoser;;;;;;;;;;;x
+b_karlarn;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_karlarn_2;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_2_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_karlarn_3;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_3_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_karlarn_4;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_4_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_karlarn_5;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_5_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_karlarn_6;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_6_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_karlarn_7;Karlarn;Karlarn;Karlarn;;Karlarn;;;;;;;;;x
+b_karlarn_7_adj;Karlarnian;;karlarner;;;;;;;;;;;x
+b_kivaas;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_kivaas_2;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_2_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_kivaas_3;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_3_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_kivaas_4;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_4_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_kivaas_5;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_5_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_kivaas_6;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_6_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_kivaas_7;Kivaas;Kivaas;Kivaas;;Kivaas;;;;;;;;;x
+b_kivaas_7_adj;Kivaasian;;kivaaser;;;;;;;;;;;x
+b_lake_raskath;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_lake_raskath_2;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_2_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_lake_raskath_3;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_3_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_lake_raskath_4;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_4_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_lake_raskath_5;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_5_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_lake_raskath_6;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_6_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_lake_raskath_7;Lake Raskath;Lake Raskath;Lake Raskath;;Lake Raskath;;;;;;;;;x
+b_lake_raskath_7_adj;Lake Raskathian;;Lake Raskather;;;;;;;;;;;x
+b_landykon;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_landykon_2;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_2_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_landykon_3;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_3_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_landykon_4;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_4_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_landykon_5;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_5_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_landykon_6;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_6_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_landykon_7;Landykon;Landykon;Landykon;;Landykon;;;;;;;;;x
+b_landykon_7_adj;Landykonian;;landykoner;;;;;;;;;;;x
+b_lastum;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lastum_2;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_2_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lastum_3;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_3_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lastum_4;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_4_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lastum_5;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_5_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lastum_6;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_6_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lastum_7;Lastum;Lastum;Lastum;;Lastum;;;;;;;;;x
+b_lastum_7_adj;Lastumian;;lastumer;;;;;;;;;;;x
+b_lights_home;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_lights_home_2;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_2_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_lights_home_3;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_3_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_lights_home_4;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_4_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_lights_home_5;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_5_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_lights_home_6;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_6_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_lights_home_7;Light’s Home;Light’s Home;Light’s Home;;Light’s Home;;;;;;;;;x
+b_lights_home_7_adj;Light’s Homean;;Light’s Homer;;;;;;;;;;;x
+b_little_draconia;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_little_draconia_2;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_2_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_little_draconia_3;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_3_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_little_draconia_4;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_4_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_little_draconia_5;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_5_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_little_draconia_6;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_6_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_little_draconia_7;Little Draconia;Little Draconia;Little Draconia;;Little Draconia;;;;;;;;;x
+b_little_draconia_7_adj;Little Draconian;;Little Draconer;;;;;;;;;;;x
+b_locklend;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_locklend_2;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_2_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_locklend_3;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_3_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_locklend_4;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_4_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_locklend_5;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_5_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_locklend_6;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_6_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_locklend_7;Locklend;Locklend;Locklend;;Locklend;;;;;;;;;x
+b_locklend_7_adj;Locklendian;;locklender;;;;;;;;;;;x
+b_losum;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_adj;Losumian;;losumer;;;;;;;;;;;x
+b_losum_2;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_2_adj;Losumian;;losumer;;;;;;;;;;;x
+b_losum_3;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_3_adj;Losumian;;losumer;;;;;;;;;;;x
+b_losum_4;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_4_adj;Losumian;;losumer;;;;;;;;;;;x
+b_losum_5;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_5_adj;Losumian;;losumer;;;;;;;;;;;x
+b_losum_6;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_6_adj;Losumian;;losumer;;;;;;;;;;;x
+b_losum_7;Losum;Losum;Losum;;Losum;;;;;;;;;x
+b_losum_7_adj;Losumian;;losumer;;;;;;;;;;;x
+b_lumeron;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lumeron_2;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_2_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lumeron_3;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_3_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lumeron_4;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_4_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lumeron_5;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_5_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lumeron_6;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_6_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lumeron_7;Lumeron;Lumeron;Lumeron;;Lumeron;;;;;;;;;x
+b_lumeron_7_adj;Lumeronian;;lumeroner;;;;;;;;;;;x
+b_lurnor;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_lurnor_2;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_2_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_lurnor_3;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_3_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_lurnor_4;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_4_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_lurnor_5;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_5_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_lurnor_6;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_6_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_lurnor_7;Lurnor;Lurnor;Lurnor;;Lurnor;;;;;;;;;x
+b_lurnor_7_adj;Lurnorian;;lurnorer;;;;;;;;;;;x
+b_maux_andros;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_maux_andros_2;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_2_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_maux_andros_3;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_3_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_maux_andros_4;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_4_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_maux_andros_5;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_5_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_maux_andros_6;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_6_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_maux_andros_7;Maux Andros;Maux Andros;Maux Andros;;Maux Andros;;;;;;;;;x
+b_maux_andros_7_adj;Maux Androsian;;Maux Androser;;;;;;;;;;;x
+b_neuxgate;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_neuxgate_2;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_2_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_neuxgate_3;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_3_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_neuxgate_4;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_4_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_neuxgate_5;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_5_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_neuxgate_6;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_6_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_neuxgate_7;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+b_neuxgate_7_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
+b_noneyr;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_noneyr_2;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_2_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_noneyr_3;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_3_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_noneyr_4;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_4_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_noneyr_5;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_5_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_noneyr_6;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_6_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_noneyr_7;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
+b_noneyr_7_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+b_northiron_valley;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_northiron_valley_2;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_2_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_northiron_valley_3;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_3_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_northiron_valley_4;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_4_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_northiron_valley_5;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_5_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_northiron_valley_6;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_6_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_northiron_valley_7;Northiron Valley;Northiron Valley;Northiron Valley;;Northiron Valley;;;;;;;;;x
+b_northiron_valley_7_adj;Northiron Valleian;;Northiron Valleer;;;;;;;;;;;x
+b_nurom;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_nurom_2;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_2_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_nurom_3;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_3_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_nurom_4;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_4_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_nurom_5;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_5_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_nurom_6;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_6_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_nurom_7;Nurom;Nurom;Nurom;;Nurom;;;;;;;;;x
+b_nurom_7_adj;Nuromian;;nuromer;;;;;;;;;;;x
+b_oldbones;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldbones_2;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_2_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldbones_3;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_3_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldbones_4;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_4_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldbones_5;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_5_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldbones_6;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_6_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldbones_7;Oldbones;Oldbones;Oldbones;;Oldbones;;;;;;;;;x
+b_oldbones_7_adj;Oldbonesian;;oldboneser;;;;;;;;;;;x
+b_oldvisht;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_oldvisht_2;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_2_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_oldvisht_3;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_3_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_oldvisht_4;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_4_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_oldvisht_5;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_5_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_oldvisht_6;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_6_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_oldvisht_7;Oldvisht;Oldvisht;Oldvisht;;Oldvisht;;;;;;;;;x
+b_oldvisht_7_adj;Oldvishtian;;oldvishter;;;;;;;;;;;x
+b_onyx_coast;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_onyx_coast_2;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_2_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_onyx_coast_3;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_3_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_onyx_coast_4;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_4_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_onyx_coast_5;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_5_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_onyx_coast_6;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_6_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_onyx_coast_7;Onyx Coast;Onyx Coast;Onyx Coast;;Onyx Coast;;;;;;;;;x
+b_onyx_coast_7_adj;Onyx Coastian;;Onyx Coaster;;;;;;;;;;;x
+b_orith;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_adj;Orithian;;orither;;;;;;;;;;;x
+b_orith_2;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_2_adj;Orithian;;orither;;;;;;;;;;;x
+b_orith_3;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_3_adj;Orithian;;orither;;;;;;;;;;;x
+b_orith_4;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_4_adj;Orithian;;orither;;;;;;;;;;;x
+b_orith_5;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_5_adj;Orithian;;orither;;;;;;;;;;;x
+b_orith_6;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_6_adj;Orithian;;orither;;;;;;;;;;;x
+b_orith_7;Orith;Orith;Orith;;Orith;;;;;;;;;x
+b_orith_7_adj;Orithian;;orither;;;;;;;;;;;x
+b_orvrost;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_orvrost_2;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_2_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_orvrost_3;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_3_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_orvrost_4;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_4_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_orvrost_5;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_5_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_orvrost_6;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_6_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_orvrost_7;Orvrost;Orvrost;Orvrost;;Orvrost;;;;;;;;;x
+b_orvrost_7_adj;Orvrostian;;orvroster;;;;;;;;;;;x
+b_oryon;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_oryon_2;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_2_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_oryon_3;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_3_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_oryon_4;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_4_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_oryon_5;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_5_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_oryon_6;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_6_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_oryon_7;Oryon;Oryon;Oryon;;Oryon;;;;;;;;;x
+b_oryon_7_adj;Oryonian;;oryoner;;;;;;;;;;;x
+b_ragast_hall;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragast_hall_2;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_2_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragast_hall_3;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_3_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragast_hall_4;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_4_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragast_hall_5;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_5_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragast_hall_6;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_6_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragast_hall_7;Ragast Hall;Ragast Hall;Ragast Hall;;Ragast Hall;;;;;;;;;x
+b_ragast_hall_7_adj;Ragast Hallian;;Ragast Haller;;;;;;;;;;;x
+b_ragtown;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_ragtown_2;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_2_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_ragtown_3;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_3_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_ragtown_4;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_4_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_ragtown_5;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_5_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_ragtown_6;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_6_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_ragtown_7;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
+b_ragtown_7_adj;Ragtownian;;ragtowner;;;;;;;;;;;x
+b_randeren;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_randeren_2;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_2_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_randeren_3;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_3_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_randeren_4;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_4_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_randeren_5;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_5_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_randeren_6;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_6_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_randeren_7;Randeren;Randeren;Randeren;;Randeren;;;;;;;;;x
+b_randeren_7_adj;Randerenian;;randerener;;;;;;;;;;;x
+b_red_bridge;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_red_bridge_2;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_2_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_red_bridge_3;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_3_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_red_bridge_4;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_4_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_red_bridge_5;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_5_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_red_bridge_6;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_6_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_red_bridge_7;Red Bridge;Red Bridge;Red Bridge;;Red Bridge;;;;;;;;;x
+b_red_bridge_7_adj;Red Bridgean;;Red Bridger;;;;;;;;;;;x
+b_relothigh;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_relothigh_2;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_2_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_relothigh_3;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_3_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_relothigh_4;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_4_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_relothigh_5;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_5_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_relothigh_6;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_6_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_relothigh_7;Relothigh;Relothigh;Relothigh;;Relothigh;;;;;;;;;x
+b_relothigh_7_adj;Relothighian;;relothigher;;;;;;;;;;;x
+b_rifheld;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_rifheld_2;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_2_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_rifheld_3;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_3_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_rifheld_4;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_4_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_rifheld_5;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_5_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_rifheld_6;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_6_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_rifheld_7;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
+b_rifheld_7_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+b_sitharghis;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_sitharghis_2;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_2_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_sitharghis_3;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_3_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_sitharghis_4;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_4_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_sitharghis_5;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_5_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_sitharghis_6;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_6_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_sitharghis_7;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
+b_sitharghis_7_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
+b_smoking_forest;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_smoking_forest_2;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_2_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_smoking_forest_3;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_3_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_smoking_forest_4;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_4_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_smoking_forest_5;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_5_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_smoking_forest_6;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_6_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_smoking_forest_7;Smoking Forest;Smoking Forest;Smoking Forest;;Smoking Forest;;;;;;;;;x
+b_smoking_forest_7_adj;Smoking Forestian;;Smoking Forester;;;;;;;;;;;x
+b_solus;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_adj;Solusian;;soluser;;;;;;;;;;;x
+b_solus_2;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_2_adj;Solusian;;soluser;;;;;;;;;;;x
+b_solus_3;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_3_adj;Solusian;;soluser;;;;;;;;;;;x
+b_solus_4;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_4_adj;Solusian;;soluser;;;;;;;;;;;x
+b_solus_5;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_5_adj;Solusian;;soluser;;;;;;;;;;;x
+b_solus_6;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_6_adj;Solusian;;soluser;;;;;;;;;;;x
+b_solus_7;Solus;Solus;Solus;;Solus;;;;;;;;;x
+b_solus_7_adj;Solusian;;soluser;;;;;;;;;;;x
+b_south_ederler;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_south_ederler_2;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_2_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_south_ederler_3;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_3_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_south_ederler_4;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_4_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_south_ederler_5;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_5_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_south_ederler_6;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_6_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_south_ederler_7;South Ederler;South Ederler;South Ederler;;South Ederler;;;;;;;;;x
+b_south_ederler_7_adj;South Ederlerian;;South Ederlerer;;;;;;;;;;;x
+b_stov;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_adj;Stovian;;stover;;;;;;;;;;;x
+b_stov_2;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_2_adj;Stovian;;stover;;;;;;;;;;;x
+b_stov_3;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_3_adj;Stovian;;stover;;;;;;;;;;;x
+b_stov_4;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_4_adj;Stovian;;stover;;;;;;;;;;;x
+b_stov_5;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_5_adj;Stovian;;stover;;;;;;;;;;;x
+b_stov_6;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_6_adj;Stovian;;stover;;;;;;;;;;;x
+b_stov_7;Stov;Stov;Stov;;Stov;;;;;;;;;x
+b_stov_7_adj;Stovian;;stover;;;;;;;;;;;x
+b_sundered_plains;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_sundered_plains_2;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_2_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_sundered_plains_3;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_3_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_sundered_plains_4;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_4_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_sundered_plains_5;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_5_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_sundered_plains_6;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_6_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_sundered_plains_7;Sundered Plains;Sundered Plains;Sundered Plains;;Sundered Plains;;;;;;;;;x
+b_sundered_plains_7_adj;Sundered Plainsian;;Sundered Plainser;;;;;;;;;;;x
+b_survelis;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_survelis_2;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_2_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_survelis_3;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_3_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_survelis_4;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_4_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_survelis_5;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_5_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_survelis_6;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_6_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_survelis_7;Survelis;Survelis;Survelis;;Survelis;;;;;;;;;x
+b_survelis_7_adj;Survelisian;;surveliser;;;;;;;;;;;x
+b_talon_point;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_talon_point_2;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_2_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_talon_point_3;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_3_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_talon_point_4;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_4_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_talon_point_5;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_5_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_talon_point_6;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_6_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_talon_point_7;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
+b_talon_point_7_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
+b_tev;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_adj;Tevian;;tever;;;;;;;;;;;x
+b_tev_2;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_2_adj;Tevian;;tever;;;;;;;;;;;x
+b_tev_3;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_3_adj;Tevian;;tever;;;;;;;;;;;x
+b_tev_4;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_4_adj;Tevian;;tever;;;;;;;;;;;x
+b_tev_5;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_5_adj;Tevian;;tever;;;;;;;;;;;x
+b_tev_6;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_6_adj;Tevian;;tever;;;;;;;;;;;x
+b_tev_7;Tev;Tev;Tev;;Tev;;;;;;;;;x
+b_tev_7_adj;Tevian;;tever;;;;;;;;;;;x
+b_the_iceron_lands;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_iceron_lands_2;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_2_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_iceron_lands_3;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_3_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_iceron_lands_4;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_4_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_iceron_lands_5;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_5_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_iceron_lands_6;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_6_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_iceron_lands_7;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
+b_the_iceron_lands_7_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
+b_the_pearl_gate;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_pearl_gate_2;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_2_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_pearl_gate_3;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_3_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_pearl_gate_4;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_4_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_pearl_gate_5;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_5_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_pearl_gate_6;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_6_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_pearl_gate_7;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
+b_the_pearl_gate_7_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_toskar_virum;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_toskar_virum_2;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_2_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_toskar_virum_3;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_3_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_toskar_virum_4;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_4_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_toskar_virum_5;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_5_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_toskar_virum_6;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_6_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_toskar_virum_7;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
+b_toskar_virum_7_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
+b_treston;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_treston_2;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_2_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_treston_3;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_3_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_treston_4;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_4_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_treston_5;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_5_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_treston_6;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_6_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_treston_7;Treston;Treston;Treston;;Treston;;;;;;;;;x
+b_treston_7_adj;Trestonian;;trestoner;;;;;;;;;;;x
+b_turos;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_adj;Turosian;;turoser;;;;;;;;;;;x
+b_turos_2;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_2_adj;Turosian;;turoser;;;;;;;;;;;x
+b_turos_3;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_3_adj;Turosian;;turoser;;;;;;;;;;;x
+b_turos_4;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_4_adj;Turosian;;turoser;;;;;;;;;;;x
+b_turos_5;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_5_adj;Turosian;;turoser;;;;;;;;;;;x
+b_turos_6;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_6_adj;Turosian;;turoser;;;;;;;;;;;x
+b_turos_7;Turos;Turos;Turos;;Turos;;;;;;;;;x
+b_turos_7_adj;Turosian;;turoser;;;;;;;;;;;x
+b_uvea;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_adj;Uvean;;uver;;;;;;;;;;;x
+b_uvea_2;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_2_adj;Uvean;;uver;;;;;;;;;;;x
+b_uvea_3;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_3_adj;Uvean;;uver;;;;;;;;;;;x
+b_uvea_4;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_4_adj;Uvean;;uver;;;;;;;;;;;x
+b_uvea_5;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_5_adj;Uvean;;uver;;;;;;;;;;;x
+b_uvea_6;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_6_adj;Uvean;;uver;;;;;;;;;;;x
+b_uvea_7;Uvea;Uvea;Uvea;;Uvea;;;;;;;;;x
+b_uvea_7_adj;Uvean;;uver;;;;;;;;;;;x
+b_varenu;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_adj;Varenian;;varener;;;;;;;;;;;x
+b_varenu_2;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_2_adj;Varenian;;varener;;;;;;;;;;;x
+b_varenu_3;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_3_adj;Varenian;;varener;;;;;;;;;;;x
+b_varenu_4;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_4_adj;Varenian;;varener;;;;;;;;;;;x
+b_varenu_5;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_5_adj;Varenian;;varener;;;;;;;;;;;x
+b_varenu_6;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_6_adj;Varenian;;varener;;;;;;;;;;;x
+b_varenu_7;Varenu;Varenu;Varenu;;Varenu;;;;;;;;;x
+b_varenu_7_adj;Varenian;;varener;;;;;;;;;;;x
+b_voyagis;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_voyagis_2;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_2_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_voyagis_3;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_3_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_voyagis_4;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_4_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_voyagis_5;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_5_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_voyagis_6;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_6_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_voyagis_7;Voyagis;Voyagis;Voyagis;;Voyagis;;;;;;;;;x
+b_voyagis_7_adj;Voyagisian;;voyagiser;;;;;;;;;;;x
+b_west_garrilev;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_garrilev_2;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_2_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_garrilev_3;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_3_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_garrilev_4;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_4_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_garrilev_5;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_5_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_garrilev_6;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_6_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_garrilev_7;West Garrilev;West Garrilev;West Garrilev;;West Garrilev;;;;;;;;;x
+b_west_garrilev_7_adj;West Garrilevian;;West Garrilever;;;;;;;;;;;x
+b_west_press;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_west_press_2;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_2_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_west_press_3;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_3_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_west_press_4;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_4_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_west_press_5;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_5_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_west_press_6;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_6_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_west_press_7;West Press;West Press;West Press;;West Press;;;;;;;;;x
+b_west_press_7_adj;West Pressian;;West Presser;;;;;;;;;;;x
+b_yarens_foe;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x
+b_yarens_foe_2;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_2_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x
+b_yarens_foe_3;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_3_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x
+b_yarens_foe_4;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_4_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x
+b_yarens_foe_5;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_5_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x
+b_yarens_foe_6;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_6_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x
+b_yarens_foe_7;Yaren’s Foe;Yaren’s Foe;Yaren’s Foe;;Yaren’s Foe;;;;;;;;;x
+b_yarens_foe_7_adj;Yaren’s Foean;;Yaren’s Fer;;;;;;;;;;;x

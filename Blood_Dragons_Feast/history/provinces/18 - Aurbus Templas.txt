@@ -6,10 +6,10 @@ title = c_aurbus_templas
 # Settlements
 max_settlements = 4
 
-b_18a = castle
-b_18b = city
-b_18c = temple
-#b_18d = castle
+b_aurbus_templas = castle
+b_aurbus_templas_2 = city
+b_aurbus_templas_3 = temple
+#b_aurbus_templas_4 = castle
 
 # Misc
 culture = catholic

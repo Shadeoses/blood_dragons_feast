@@ -6,10 +6,10 @@ title = c_orvrost
 # Settlements
 max_settlements = 4
 
-b_21a = castle
-b_21b = city
-b_21c = temple
-#b_21d = castle
+b_orvrost = castle
+b_orvrost_2 = city
+b_orvrost_3 = temple
+#b_orvrost_4 = castle
 
 # Misc
 culture = catholic

@@ -6,10 +6,10 @@ title = c_orith
 # Settlements
 max_settlements = 4
 
-b_35a = castle
-b_35b = city
-b_35c = temple
-#b_35d = castle
+b_orith = castle
+b_orith_2 = city
+b_orith_3 = temple
+#b_orith_4 = castle
 
 # Misc
 culture = catholic

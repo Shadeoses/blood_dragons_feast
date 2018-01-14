@@ -6,10 +6,10 @@ title = c_karlarn
 # Settlements
 max_settlements = 4
 
-b_36a_2 = castle
-b_36b_2 = city
-b_36c_2 = temple
-#b_36d_2 = castle
+b_karlarn = castle
+b_karlarn_2 = city
+b_karlarn_3 = temple
+#b_karlarn_4 = castle
 
 # Misc
 culture = catholic

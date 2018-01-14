@@ -1,0 +1,18 @@
+# c_yarens_foe
+
+# County Title
+title = c_yarens_foe
+
+# Settlements
+max_settlements = 4
+
+b_yarens_foe = castle
+b_yarens_foe_2 = city
+b_yarens_foe_3 = temple
+#b_yarens_foe_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

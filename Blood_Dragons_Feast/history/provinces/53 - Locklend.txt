@@ -6,10 +6,10 @@ title = c_locklend
 # Settlements
 max_settlements = 4
 
-b_37a = castle
-b_37b = city
-b_37c = temple
-#b_37d = castle
+b_locklend = castle
+b_locklend_2 = city
+b_locklend_3 = temple
+#b_locklend_4 = castle
 
 # Misc
 culture = catholic

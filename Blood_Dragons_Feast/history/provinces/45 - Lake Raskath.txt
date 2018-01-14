@@ -6,10 +6,10 @@ title = c_lake_raskath
 # Settlements
 max_settlements = 4
 
-b_45a = castle
-b_45b = city
-b_45c = temple
-#b_45d = castle
+b_lake_raskath = castle
+b_lake_raskath_2 = city
+b_lake_raskath_3 = temple
+#b_lake_raskath_4 = castle
 
 # Misc
 culture = catholic

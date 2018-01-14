@@ -7,10 +7,20 @@ d_axion;Axion;Axion;Axion;;Axion;;;;;;;;;x
 d_axion_adj;Axionian;;axioner;;;;;;;;;;;x
 d_bleekland;Bleekland;Bleekland;Bleekland;;Bleekland;;;;;;;;;x
 d_bleekland_adj;Bleeklandian;;bleeklander;;;;;;;;;;;x
+d_dairun;Dairun;Dairun;Dairun;;Dairun;;;;;;;;;x
+d_dairun_adj;Dairunian;;dairuner;;;;;;;;;;;x
+d_elerverl;Elerverl;Elerverl;Elerverl;;Elerverl;;;;;;;;;x
+d_elerverl_adj;Elerverlian;;elerverler;;;;;;;;;;;x
+d_garrilev;Garrilev;Garrilev;Garrilev;;Garrilev;;;;;;;;;x
+d_garrilev_adj;Garrilevian;;garrilever;;;;;;;;;;;x
 d_gervennin;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
 d_gervennin_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
+d_neuxgate;Neuxgate;Neuxgate;Neuxgate;;Neuxgate;;;;;;;;;x
+d_neuxgate_adj;Neuxgatean;;neuxgater;;;;;;;;;;;x
 d_noneyr;Noneyr;Noneyr;Noneyr;;Noneyr;;;;;;;;;x
 d_noneyr_adj;Noneyrian;;noneyrer;;;;;;;;;;;x
+d_northridge;Northridge;Northridge;Northridge;;Northridge;;;;;;;;;x
+d_northridge_adj;Northridgean;;northridger;;;;;;;;;;;x
 d_old_volk;Old Volk;Old Volk;Old Volk;;Old Volk;;;;;;;;;x
 d_old_volk_adj;Old Volkian;;Old Volker;;;;;;;;;;;x
 d_ragtown;Ragtown;Ragtown;Ragtown;;Ragtown;;;;;;;;;x
@@ -19,6 +29,8 @@ d_raskath;Raskath;Raskath;Raskath;;Raskath;;;;;;;;;x
 d_raskath_adj;Raskathian;;raskather;;;;;;;;;;;x
 d_rifheld;Rifheld;Rifheld;Rifheld;;Rifheld;;;;;;;;;x
 d_rifheld_adj;Rifheldian;;rifhelder;;;;;;;;;;;x
+d_shining_lands;Shining Lands;Shining Lands;Shining Lands;;Shining Lands;;;;;;;;;x
+d_shining_lands_adj;Shining Landsian;;Shining Landser;;;;;;;;;;;x
 d_south_inlet;South Inlet;South Inlet;South Inlet;;South Inlet;;;;;;;;;x
 d_south_inlet_adj;South Inletian;;South Inleter;;;;;;;;;;;x
 d_the_archeron;The Archeron;The Archeron;The Archeron;;The Archeron;;;;;;;;;x

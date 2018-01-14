@@ -1,0 +1,18 @@
+# c_little_draconia
+
+# County Title
+title = c_little_draconia
+
+# Settlements
+max_settlements = 4
+
+b_little_draconia = castle
+b_little_draconia_2 = city
+b_little_draconia_3 = temple
+#b_little_draconia_4 = castle
+
+# Misc
+culture = catholic
+religion = italian
+
+#History

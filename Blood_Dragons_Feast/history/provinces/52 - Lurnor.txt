@@ -6,10 +6,10 @@ title = c_lurnor
 # Settlements
 max_settlements = 4
 
-b_40a = castle
-b_40b = city
-b_40c = temple
-#b_40d = castle
+b_lurnor = castle
+b_lurnor_2 = city
+b_lurnor_3 = temple
+#b_lurnor_4 = castle
 
 # Misc
 culture = catholic

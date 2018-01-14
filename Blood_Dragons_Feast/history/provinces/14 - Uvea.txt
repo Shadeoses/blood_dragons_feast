@@ -6,10 +6,10 @@ title = c_uvea
 # Settlements
 max_settlements = 4
 
-b_14a = castle
-b_14b = city
-b_14c = temple
-#b_14d = castle
+b_uvea = castle
+b_uvea_2 = city
+b_uvea_3 = temple
+#b_uvea_4 = castle
 
 # Misc
 culture = catholic

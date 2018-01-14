@@ -6,10 +6,10 @@ title = c_demarion_keep
 # Settlements
 max_settlements = 4
 
-b_4a = castle
-b_4b = city
-b_4c = temple
-#b_4d = castle
+b_demarion_keep = castle
+b_demarion_keep_2 = city
+b_demarion_keep_3 = temple
+#b_demarion_keep_4 = castle
 
 # Misc
 culture = catholic

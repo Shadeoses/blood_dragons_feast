@@ -6,10 +6,10 @@ title = c_sitharghis
 # Settlements
 max_settlements = 4
 
-b_32a_2 = castle
-b_32b_2 = city
-b_32c_2 = temple
-#b_32d_2 = castle
+b_sitharghis = castle
+b_sitharghis_2 = city
+b_sitharghis_3 = temple
+#b_sitharghis_4 = castle
 
 # Misc
 culture = catholic

@@ -6,10 +6,10 @@ title = c_survelis
 # Settlements
 max_settlements = 4
 
-b_39a_2 = castle
-b_39b_2 = city
-b_39c_2 = temple
-#b_39d_2 = castle
+b_survelis = castle
+b_survelis_2 = city
+b_survelis_3 = temple
+#b_survelis_4 = castle
 
 # Misc
 culture = catholic

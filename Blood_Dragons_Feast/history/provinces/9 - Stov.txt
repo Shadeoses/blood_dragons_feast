@@ -6,10 +6,10 @@ title = c_stov
 # Settlements
 max_settlements = 4
 
-b_9a = castle
-b_9b = city
-b_9c = temple
-#b_9d = castle
+b_stov = castle
+b_stov_2 = city
+b_stov_3 = temple
+#b_stov_4 = castle
 
 # Misc
 culture = catholic

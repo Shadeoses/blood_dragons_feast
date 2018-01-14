@@ -6,10 +6,10 @@ title = c_landykon
 # Settlements
 max_settlements = 4
 
-b_34a_2 = castle
-b_34b_2 = city
-b_34c_2 = temple
-#b_34d_2 = castle
+b_landykon = castle
+b_landykon_2 = city
+b_landykon_3 = temple
+#b_landykon_4 = castle
 
 # Misc
 culture = catholic

@@ -1,0 +1,21 @@
+#KILZAR
+technology = {
+	titles = {
+		d_dairun
+		d_elerverl
+		d_garrilev
+		d_neuxgate
+		d_northridge
+		d_shining_lands
+	}
+	1150 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	1500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

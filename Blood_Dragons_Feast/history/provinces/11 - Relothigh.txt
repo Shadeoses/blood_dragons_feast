@@ -6,10 +6,10 @@ title = c_relothigh
 # Settlements
 max_settlements = 4
 
-b_11a = castle
-b_11b = city
-b_11c = temple
-#b_11d = castle
+b_relothigh = castle
+b_relothigh_2 = city
+b_relothigh_3 = temple
+#b_relothigh_4 = castle
 
 # Misc
 culture = catholic
