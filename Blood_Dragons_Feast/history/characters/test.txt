@@ -1,0 +1,12 @@
+1 = {
+	name = "Test"
+	dynasty = 1
+	religion = catholic
+	culture = italian
+	1225.1.1 = {
+		birth = yes
+	}
+	1295.1.1 = {
+		death = yes
+	}
+}
