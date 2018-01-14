@@ -9,10 +9,10 @@
 	intrigue=6
 	learning=5
 	trait=skilled_tactician
-	trait=lustful
-	trait=weak
-	trait=kind
-	trait=cynical
+	trait="lustful"
+	trait="weak"
+	trait="kind"
+	trait="cynical"
 	1232.1.1={ birth=yes }
 	1302.1.1={ death=yes }
 }
@@ -27,11 +27,11 @@
 	stewardship=8
 	learning=9
 	trait=fortune_builder
-	trait=stubborn
-	trait=temperate
-	trait=ruthless
-	trait=zealous
-	trait=arbitrary
+	trait="stubborn"
+	trait="temperate"
+	trait="ruthless"
+	trait="zealous"
+	trait="arbitrary"
 	1218.1.1={ birth=yes }
 	1288.1.1={ death=yes }
 }
