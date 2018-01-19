@@ -10,3 +10,15 @@
 	name="Herenovulus"
 	culture="imperian"
 }
+3=
+{
+	used_for_random=no
+	name="Dantonate"
+	culture="imperian"
+}
+4=
+{
+	used_for_random=no
+	name="Carswell"
+	culture="imperian"
+}

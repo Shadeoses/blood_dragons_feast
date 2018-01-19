@@ -1,0 +1,1 @@
+nick_the_knight_of_blue = {}
