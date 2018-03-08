@@ -74,3 +74,50 @@
 	1241.1.1 = { give_nickname=nick_the_knight_of_blue }
 	1291.1.1={ death=yes }
 }
+5={
+	name=Kaeron
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=brilliant_strategist
+	trait=genius
+	trait=stubborn
+	trait=lustful
+	trait=temperate
+	trait=wroth
+	1.1.1={ birth=yes }
+	24.1.1={ death=yes }
+}
+6={
+	name=Regis
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=naive_appeaser
+	trait=lustful
+	trait=slothful
+	trait=lisp
+	trait=strong
+	trait=scarred
+	father=5
+	22.1.1={ birth=yes }
+	65.1.1={ death=yes }
+}
+7={
+	name=Sebastion
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=tough_soldier
+	trait=eunuch
+	trait=blinded
+	trait=maimed
+	trait=genius
+	trait=strong
+	trait=harelip
+	trait=craven
+	trait=scarred
+	father=6
+	33.1.1={ birth=yes }
+	69.1.1={ death=yes }
+}
