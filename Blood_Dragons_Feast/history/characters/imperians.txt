@@ -79,6 +79,11 @@
 	dynasty=5
 	culture=imperian
 	religion=catholic
+	diplomacy = 6
+	martial = 9
+	stewardship = 3
+	intrigue = 5
+	learning = 8
 	trait=brilliant_strategist
 	trait=genius
 	trait=stubborn
@@ -93,6 +98,11 @@
 	dynasty=5
 	culture=imperian
 	religion=catholic
+	diplomacy = 4
+	martial = 7
+	stewardship = 4
+	intrigue = 2
+	learning = 7
 	trait=naive_appeaser
 	trait=lustful
 	trait=slothful
@@ -108,6 +118,11 @@
 	dynasty=5
 	culture=imperian
 	religion=catholic
+	diplomacy = 8
+	martial = 5
+	stewardship = 7
+	intrigue = 10
+	learning = 10
 	trait=tough_soldier
 	trait=eunuch
 	trait=blinded
@@ -119,7 +134,12 @@
 	trait=scarred
 	father=6
 	33.1.1={ birth=yes }
-	69.1.1={ death=yes }
+	69.1.1={ 
+		death = {
+			death_reason = death_murder
+ 			killer = 8
+		} 
+	}
 }
 8={
 	name=Lemark
@@ -140,4 +160,20 @@
 	father=6
 	30.1.1={ birth=yes }
 	76.1.1={ death=yes }
+}
+9={
+	name=Welther
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=brilliant_strategist
+	trait=genius
+	trait=scarred
+	trait=lustful
+	trait=greedy
+	trait=gluttonous
+	trait=kind
+	father=7
+	57.1.1={ birth=yes }
+	101.1.1={ death=yes }
 }
