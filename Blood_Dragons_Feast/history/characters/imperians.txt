@@ -177,3 +177,124 @@
 	57.1.1={ birth=yes }
 	101.1.1={ death=yes }
 }
+10={
+	name=Gaelin
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	martial=7
+	diplomacy=8
+	stewardship=4
+	intrigue=2
+	learning=8
+	trait=brilliant_strategist
+	trait=genius
+	trait=attractive
+	trait=greedy
+	trait=scarred
+	trait=just
+	father=8
+	56.1.1={ birth=yes }
+	126.1.1={ death=yes }
+}
+11={
+	name=Mylenda
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	martial=4
+	diplomacy=7
+	stewardship=6
+	intrigue=9
+	learning=6
+	trait=elusive_shadow
+	trait=attractive
+	trait=quick
+	trait=deceitful
+	trait=greedy
+	trait=craven
+	father=8
+	61.1.1={ birth=yes }
+	131.1.1={ death=yes }
+}
+12={
+	name=Lomas
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	martial=7
+	diplomacy=6
+	stewardship=3
+	intrigue=7
+	learning=5
+	father=8
+	66.1.1={ birth=yes }
+	136.1.1={ death=yes }
+}
+13={
+	name=Merair
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	father=8
+	71.1.1={ birth=yes }
+	141.1.1={ death=yes }
+}
+14={
+	name=Ysilla
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	martial=10
+	trait=brilliant_strategist
+	trait=genius
+	trait=brave
+	trait=zealous
+	father=8
+	68.1.1={ birth=yes }
+	138.1.1={ death=yes }
+}
+15={
+	name=Alon
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=deceitful
+	trait=craven
+	father=8
+	63.1.1={ birth=yes }
+	133.1.1={ death=yes }
+}
+16={
+	name=Jacobin
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=mastermind_theologian
+	father=9
+	83.1.1={ birth=yes }
+	153.1.1={ death=yes }
+}
+17={
+	name=Frygda
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	father=9
+	88.1.1={ birth=yes }
+	158.1.1={ death=yes }
+}
+18={
+	name=Ilyssia
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=skilled_tactician
+	father=9
+	93.1.1={ birth=yes }
+	163.1.1={ death=yes }
+}
