@@ -12,7 +12,7 @@ b_elbens_bridge_3 = temple
 #b_elbens_bridge_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

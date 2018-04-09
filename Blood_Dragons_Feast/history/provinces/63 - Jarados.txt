@@ -12,7 +12,7 @@ b_jarados_3 = temple
 #b_jarados_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

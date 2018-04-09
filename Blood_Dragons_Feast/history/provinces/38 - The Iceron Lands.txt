@@ -12,7 +12,7 @@ b_the_iceron_lands_3 = temple
 #b_the_iceron_lands_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

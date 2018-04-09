@@ -12,7 +12,7 @@ b_west_garrilev_3 = temple
 #b_west_garrilev_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

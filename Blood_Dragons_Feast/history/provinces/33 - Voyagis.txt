@@ -12,7 +12,7 @@ b_voyagis_3 = temple
 #b_voyagis_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

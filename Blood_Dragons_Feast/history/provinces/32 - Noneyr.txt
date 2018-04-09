@@ -12,7 +12,7 @@ b_noneyr_3 = temple
 #b_noneyr_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

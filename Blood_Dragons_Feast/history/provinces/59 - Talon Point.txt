@@ -12,7 +12,7 @@ b_talon_point_3 = temple
 #b_talon_point_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

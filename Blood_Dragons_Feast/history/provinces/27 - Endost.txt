@@ -12,7 +12,7 @@ b_endost_3 = temple
 #b_endost_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

@@ -12,7 +12,7 @@ b_kivaas_3 = temple
 #b_kivaas_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

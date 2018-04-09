@@ -12,7 +12,7 @@ b_little_draconia_3 = temple
 #b_little_draconia_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

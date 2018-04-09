@@ -12,7 +12,7 @@ b_aurbus_templas_3 = temple
 #b_aurbus_templas_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

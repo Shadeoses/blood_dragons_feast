@@ -12,7 +12,7 @@ b_orvrost_3 = temple
 #b_orvrost_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

@@ -12,7 +12,7 @@ b_fort_jurim_3 = temple
 #b_fort_jurim_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

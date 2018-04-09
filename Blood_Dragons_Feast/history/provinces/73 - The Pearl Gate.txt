@@ -12,7 +12,7 @@ b_the_pearl_gate_3 = temple
 #b_the_pearl_gate_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

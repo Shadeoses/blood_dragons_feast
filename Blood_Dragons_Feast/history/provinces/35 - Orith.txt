@@ -12,7 +12,7 @@ b_orith_3 = temple
 #b_orith_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

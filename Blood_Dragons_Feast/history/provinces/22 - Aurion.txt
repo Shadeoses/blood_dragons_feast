@@ -12,7 +12,7 @@ b_aurion_3 = temple
 #b_aurion_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

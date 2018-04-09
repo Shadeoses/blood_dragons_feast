@@ -12,7 +12,7 @@ b_smoking_forest_3 = temple
 #b_smoking_forest_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

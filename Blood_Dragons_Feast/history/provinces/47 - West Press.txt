@@ -12,7 +12,7 @@ b_west_press_3 = temple
 #b_west_press_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

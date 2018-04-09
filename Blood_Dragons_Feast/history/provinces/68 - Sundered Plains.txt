@@ -12,7 +12,7 @@ b_sundered_plains_3 = temple
 #b_sundered_plains_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

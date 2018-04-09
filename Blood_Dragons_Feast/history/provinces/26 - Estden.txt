@@ -12,7 +12,7 @@ b_estden_3 = temple
 #b_estden_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

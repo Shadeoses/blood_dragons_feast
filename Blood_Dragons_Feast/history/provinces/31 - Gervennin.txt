@@ -12,7 +12,7 @@ b_gervennin_3 = temple
 #b_gervennin_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

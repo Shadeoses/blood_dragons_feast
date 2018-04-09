@@ -12,7 +12,7 @@ b_ragast_hall_3 = temple
 #b_ragast_hall_4 = castle
 
 # Misc
-culture = catholic
-religion = kilzari
+culture = kilzari
+religion = catholic
 
 #History

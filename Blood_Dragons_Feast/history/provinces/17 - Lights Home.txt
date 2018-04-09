@@ -12,7 +12,7 @@ b_lights_home_3 = temple
 #b_lights_home_4 = castle
 
 # Misc
-culture = catholic
-religion = imperian
+culture = imperian
+religion = catholic
 
 #History

@@ -7,14 +7,14 @@ e_imperia = {
 	color2={ 255 255 20 }
 	
 	capital = 2 # c_apulum
-	culture = catholic
+	culture = imperian
 	
 	k_imperia = {
 		color={ 70 139 216 }
 		color2={ 255 255 255 }
 		
 		capital = 2 # c_apulum
-		culture = catholic
+		culture = imperian
 		
 		d_gervennin = {
 			color={ 90 119 226 }
@@ -1326,14 +1326,14 @@ e_kilzar = {
 	color2={ 255 255 20 }
 	
 	capital = 60 # c_neuxgate
-	culture = catholic
+	culture = kilzari
 	
 	k_kilzar = {
 		color={ 148 70 161 }
 		color2={ 255 255 255 }
 		
 		capital = 60 # c_neuxgate
-		culture = catholic
+		culture = kilzari
 		
 		d_neuxgate = {
 			color={ 128 90 151 }
