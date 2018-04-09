@@ -28,3 +28,15 @@
 	name="Oxforson"
 	culture="imperian"
 }
+6=
+{
+	used_for_random=no
+	name="Austulen"
+	culture="ryker"
+}
+7=
+{
+	used_for_random=no
+	name="Demarion"
+	culture="imperian"
+}

@@ -1,1 +1,2 @@
 nick_the_knight_of_blue = {}
+nick_the_raven_king = {}

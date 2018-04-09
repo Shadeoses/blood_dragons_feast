@@ -1,0 +1,18 @@
+35={
+	name=Silus
+	dynasty=6
+	culture=ryker
+	religion=catholic
+	trait=deceitful
+	trait=attractive
+	trait=scarred
+	trait=genius
+	trait=cruel
+	trait=wroth
+	trait=lustful
+	trait=cynical
+	trait=one_legged
+	1198.1.1={ birth=yes }
+	1227.1.1={ give_nickname=nick_the_raven_king }
+	1268.1.1={ death=yes }
+}

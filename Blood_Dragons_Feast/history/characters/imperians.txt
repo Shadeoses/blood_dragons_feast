@@ -233,7 +233,7 @@
 	136.1.1={ death=yes }
 }
 13={
-	name=Merair
+	name=Merair #sacrificed by daughters
 	dynasty=5
 	culture=imperian
 	religion=catholic
@@ -297,4 +297,202 @@
 	father=9
 	93.1.1={ birth=yes }
 	163.1.1={ death=yes }
+}
+19={
+	name=Remark
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=thrifty_clerk
+	father=10
+	81.1.1={ birth=yes }
+	151.1.1={ death=yes }
+}
+20={
+	name=Jules
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=amateurish_plotter
+	father=12
+	91.1.1={ birth=yes }
+	161.1.1={ death=yes }
+}
+21={
+	name=Elyssia #killed by a Lavanian
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=brilliant_strategist
+	father=12
+	96.1.1={ birth=yes }
+	166.1.1={ death=yes }
+}
+22={
+	name=Tillya #killed by a Lavanian
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=martial_cleric
+	father=12
+	101.1.1={ birth=yes }
+	171.1.1={ death=yes }
+}
+23={
+	name=Hargaba #witch cult, burned at stake
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=elusive_shadow
+	father=13
+	96.1.1={ birth=yes }
+	166.1.1={ death=yes }
+}
+23={
+	name=Helnuun #witch cult, burned at stake
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=intricate_webweaver
+	father=13
+	101.1.1={ birth=yes }
+	171.1.1={ death=yes }
+}
+24={
+	name=Line of Alon
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	occluded=yes
+	father=8
+	130.1.1={ birth=yes }
+	1227.1.1={ death=yes }
+}
+25={
+	name=Cosnak #murdered by Raven King
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	diplomacy=2
+	martial=3
+	stewardship=2
+	intrigue=3
+	learning=2
+	trait=indulgent_wastrel
+	trait=stutter
+	trait=imbecile
+	trait=attractive
+	trait=dull
+	father=24
+	1191.1.1={ birth=yes }
+	1227.1.1={ death=yes }
+}
+26={
+	name=Roslan
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=brilliant_strategist
+	trait=brave
+	trait=zealous
+	trait=attractive
+	father=25
+	1211.1.1={ birth=yes }
+	1281.1.1={ death=yes }
+}
+27={
+	name=Mikka #steward for king of Imperia
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=fortune_builder
+	father=26
+	1232.1.1={ birth=yes }
+	1302.1.1={ death=yes }
+}
+28={
+	name=Robert #left to go to Nightstone
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=tough_soldier
+	father=26
+	1237.1.1={ birth=yes }
+	1307.1.1={ death=yes }
+}
+29={
+	name=Arelian #mother Yulana Rostum
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=brilliant_strategist
+	father=28
+	1258.1.1={ birth=yes }
+	1298.1.1={
+		death = {
+			death_reason = death_battle
+ 			killer = 30
+		}
+	}
+}
+30={
+	name=Jakob
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=skilled_tactician
+	father=27
+	1263.1.1={ birth=yes }
+	1333.1.1={ death=yes }
+}
+31={
+	name=Aylis #chancellor of Imperia
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	trait=naive_appeaser
+	father=30
+	1284.1.1={ birth=yes }
+	1354.1.1={ death=yes }
+}
+32={
+	name=Mariett #chief priestess Cairun
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	father=30
+	1289.1.1={ birth=yes }
+	1359.1.1={ death=yes }
+}
+33={
+	name=Marlon #exiled to Gargallow for murder
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	father=30
+	1294.1.1={ birth=yes }
+	1364.1.1={ death=yes }
+}
+34={
+	name=Sarai #warrior general for Cairun
+	female=yes
+	dynasty=5
+	culture=imperian
+	religion=catholic
+	father=30
+	1299.1.1={ birth=yes }
+	1369.1.1={ death=yes }
+}
+36={
+	name=Meilon
+	dynasty=7
+	culture=imperian
+	religion=catholic
+	1.1.1={ birth=yes }
+	69.1.1={ death=yes }
 }

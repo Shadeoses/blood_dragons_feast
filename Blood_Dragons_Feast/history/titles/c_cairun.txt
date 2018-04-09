@@ -7,3 +7,9 @@
 }
 24.1.1={holder=6} #Regis Oxforson
 65.1.1={holder=7} #Sebastion Oxforson (killed by brother)
+69.1.1={holder=8} #Lemark Oxforson
+76.1.1={holder=10} #Gaelin Oxforson
+126.1.1={holder=19} #Remark Oxforson
+151.1.1={holder=24} #Line of Alon Oxforson
+1217.1.1={holder=25} #Cosnak Oxforson #killed by Raven King
+1227.1.1={holder=26} #Roslan Oxforson
