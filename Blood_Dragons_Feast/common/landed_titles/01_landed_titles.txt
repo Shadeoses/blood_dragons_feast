@@ -677,57 +677,6 @@ e_imperia = {
 				}
 			}
 		}
-		d_oros = {
-			color={ 48 152 197 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 80 province_id = 81 } }
-				}
-			}
-			capital = 80 # c_oros
-			
-			c_oros = { # 80
-				color={ 58 142 202 }
-				color2={ 255 255 255 }
-				
-				b_oros = {
-				}
-				b_oros_2 = {
-				}
-				b_oros_3 = {
-				}
-				b_oros_4 = {
-				}
-				b_oros_5 = {
-				}
-				b_oros_6 = {
-				}
-				b_oros_7 = {
-				}
-			}
-			c_rhyos = { # 81
-				color={ 94 88 145 }
-				color2={ 255 255 255 }
-				
-				b_rhyos = {
-				}
-				b_rhyos_2 = {
-				}
-				b_rhyos_3 = {
-				}
-				b_rhyos_4 = {
-				}
-				b_rhyos_5 = {
-				}
-				b_rhyos_6 = {
-				}
-				b_rhyos_7 = {
-				}
-			}
-		}
 		d_ragtown = {
 			color={ 119 109 148 }
 			color2={ 255 255 255 }
