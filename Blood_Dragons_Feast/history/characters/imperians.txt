@@ -370,7 +370,7 @@
 	occluded=yes
 	father=8
 	130.1.1={ birth=yes }
-	1227.1.1={ death=yes }
+	1217.1.1={ death=yes }
 }
 25={
 	name=Cosnak #murdered by Raven King

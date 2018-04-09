@@ -13,6 +13,6 @@ b_the_pearl_gate_3 = temple
 
 # Misc
 culture = catholic
-religion = italian
+religion = kilzari
 
 #History

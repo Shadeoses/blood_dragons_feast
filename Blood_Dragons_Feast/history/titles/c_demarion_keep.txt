@@ -1,8 +1,7 @@
 # e_imperia
-500.1.1={
+1.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
+	liege=d_the_demerons
 }
-800.1.1={
-	liege=k_imperia
-}
+30.1.1={holder=36} #Meilon Demarion

@@ -2,7 +2,7 @@
 1.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
-	liege=e_dragoncrest
+	liege=k_imperia
 }
 30.1.1={holder=36} #Meilon Demarion
 #127.1.1={liege=k_marshall_imperia}

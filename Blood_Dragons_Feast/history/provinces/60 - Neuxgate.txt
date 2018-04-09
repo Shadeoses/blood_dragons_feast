@@ -13,6 +13,6 @@ b_neuxgate_3 = temple
 
 # Misc
 culture = catholic
-religion = italian
+religion = kilzari
 
 #History

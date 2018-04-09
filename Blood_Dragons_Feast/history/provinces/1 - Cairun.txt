@@ -13,6 +13,6 @@ b_cairun_3 = temple
 
 # Misc
 culture = catholic
-religion = italian
+religion = imperian
 
 #History
