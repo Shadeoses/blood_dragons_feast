@@ -495,3 +495,58 @@
 	1.1.1={ birth=yes }
 	69.1.1={ death=yes }
 }
+37={
+	name=Jesarica #agent for her dad
+	female=yes
+	dynasty=7
+	culture=imperian
+	religion=catholic
+	father=36
+	22.1.1={ birth=yes }
+	92.1.1={ death=yes }
+}
+38={
+	name=Locke
+	dynasty=7
+	culture=imperian
+	religion=catholic
+	trait=detached_priest
+	father=36
+	27.1.1={ birth=yes }
+	97.1.1={ 
+		death = {
+			death_reason = death_murder
+ 			killer = 37
+		}
+	}
+}
+39={
+	name=Rebart
+	dynasty=7
+	culture=imperian
+	religion=catholic
+	trait=brilliant_strategist
+	mother=37
+	43.1.1={ birth=yes }
+	113.1.1={ death=yes }
+}
+40={
+	name=Ashayna #steward
+	female=yes
+	dynasty=7
+	culture=imperian
+	religion=catholic
+	mother=37
+	48.1.1={ birth=yes }
+	118.1.1={ death=yes }
+}
+41={
+	name=Ilum #priest
+	female=yes
+	dynasty=7
+	culture=imperian
+	religion=catholic
+	mother=37
+	53.1.1={ birth=yes }
+	123.1.1={ death=yes }
+}

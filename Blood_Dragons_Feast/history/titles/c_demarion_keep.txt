@@ -5,4 +5,5 @@
 	liege=d_the_demerons
 }
 30.1.1={holder=36} #Meilon Demarion
-69.1.1={holder=0}
+69.1.1={holder=37} #Jesarica Demarion
+92.1.1={holder=39} #Rebart Demarion

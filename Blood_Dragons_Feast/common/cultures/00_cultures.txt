@@ -117,7 +117,7 @@ lisaran = {
 	}
 }
 old_draconic = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { easterngfx }
 
 	imperian = {
 		graphical_cultures = { byzantinegfx }
@@ -253,8 +253,8 @@ old_draconic = {
 		modifier = default_culture_modifier
 	}
 }
-wintermen = {
-	graphical_cultures = { westerngfx }
+artanian = {
+	graphical_cultures = { norsegfx }
 
 	ilfizan = {
 		graphical_cultures = { northmangfx }
@@ -289,5 +289,439 @@ wintermen = {
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
+	}
+	talisan = {
+		graphical_cultures = { northmangfx }
+		
+		color = { 0.15 0.4 0.55 }
+		
+		male_names = {
+			Abel Anders_Andrew Ansgar_Oscar Asger Benedikt_Benedict Bjørn_Beorn Bo Christian_Christian Christoffer_Christopher Edvard_Edward Einar Erik_Erik Ernst_Ernest Esben Fredrik_Frederick Frode Glum Gnupa Gorm Gotfred_Godfrey Gregers_Gregory Gunnar
+			Hårik Halfdan Halvor Hans_John Harald_Harold Hardeknut Helge_Helge Hemming Henrik_Henry Hjalmar Holger Inge Ingolf Jørgen Jørn Jakob_Jacob Jens Joakim_Joachim Johann_John Karl_Charles Knud_Knut
+			Kristian_Christian Leif Lennart Ludvig_Louis Malthe Mads_Matthew Mikkel_Michael Mogens Niels_Nils Olav_Olaf Oluf_Olaf Oscar_Oscar Peder_Peter Poul_Paul Pridbjørn Rolf Rune Severin_Severin Sigfred_Siegfried Sigtryg Sivard Steen
+			Svend_Sven Thorvald Torben Torbjørn Torgils_Torkel Ture Ubbe Uffe Ulf_Ulf Valdemar_Vladimir Valentin_Valentin Vilfred Yngvar_Ingvar
+		}
+		female_names = {
+			Agnethe Anna_Anna Asta_Asta Benedikte_Benedicta Birgitta_Brigid Bodil Cecilie_Cecilia Christina_Christina Dagmar Dorothea_Dorothy Elisabeth_Elisabeth Ellinor_Eleanor Emilie_Emily Erika Ester Estrid_Astrid Frederikke_Frederique Freja
+			Grethe Gudrun_Gudrun Gunhild_Gunhild Gyda Helena_Helen Ida_Ida Ingeborg Ingegerd Ingrid_Ingrid Johanne Jutta Karin_Catherine Karoline Katarina_Catherine Katrine_Catherine Kirsten Klara Lise_Elisabeth Luitgard Lykke
+			Magdalene_Magdalena Maren Margrethe_Margaret Maria_Maria Martha_Martha Ragnhild Rikissa Runa Sanna Signe Sigrid_Sigrid Silje Sofie_Sophia Thyra Tora_Thora 
+		}
+		
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sen"
+		female_patronym = "sdatter"
+		prefix = no
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+	}
+	bonemen = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Afanasiy_Athanasius Alexandr_Alexander Alexei_Alexis Andrei_Andrew Arkadiy_Arkadios Boris_Boris Briachislav_Bretislaus Daniil_Daniel Davyd_David
+			Demid Dmitriy_Demetrius Dobroslav_Dobroslav Dobrynia Fedot_Theodat Feodor_Theodore Gavriil_Gabriel Gleb Grigoriy_Gregory Iakov_Jacob
+			Igor Iliya_Elias Ingvar_Ingvar Ivan_John Iziaslav Kirill_Cyril Konstantin_Constantine Koz'ma_Cosma Lev_Leo Matfei_Matthew Mikhail_Michael Mitrofan
+			Mstislav_Mstislav Nikita Oleg_Helge Pavel_Paul Plamen_Plamen Putiata Radoslav_Radoslav Rodislav Rogvolod Roman_Roman Rostislav_Rostislav
+			Rurik Ruslan Simeon_Simon Stanislav_Stanislav Stepan_Stephen Sudislav Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon
+			Vasiliy_Basil Vasilko_Basil Viacheslav_Viacheslav Vladimir_Vladimir Vladislav_Vladislav Voislav_Vojslav Volodar Vseslav_Vseslav Vsevolod Vyshata
+			Vysheslav Yaropolk_Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yemelyan_Emil Yeremey_Jeremy Yevstafiy Yuriy_George
+			Beloslav Berimir Budigost Chernek Drobn Gostomysl Goven Gradimir Ludislav Mestyatka Nazhir Nezhenets Ostromir Peresvet Pozvizd Putimir Radogost
+			Rostih Rozneg Sviatogor Torchin Tverdyata Vadim Velimir Vyacheslav_Viacheslav Zavid Zhdan Zhiznobud Zvonimir
+		}
+		female_names = {
+			Agafya_Agatha Agrafena Alexandra_Alexandra Anastasia_Anastasia Anna_Anna Boleslava Darya Dobrava_Doubravka Dobronega_Dobronega Dobroslava
+			Yefimia_Euphemia Yefrosinia_Euphrosyne Yekaterina_Catherine Yelizaveta_Elisabeth Yevdokia_Eudocia Yevpraxia Feodora_Theodora Feodosia_Theodosia
+			Fevronia Gorislava Gradislava Gremislava Irina_Irene Xenia_Xenia Liubava_Agape Liudmila_Ludmila Malfrida Malusha Maria_Maria Marina
+			Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava Premyslava Pribislava Rogneda Rostislava Sbyslava Sofia_Sophia Sviatoslava_Sviatoslava
+			Tatyana_Tatiana Ulita Ulyana Varvara_Barbara Vasilisa Veleslava Verkhoslava Vseslava Viacheslava Yaroslava Zabava Zvenislava
+			Beloslava Borislava Darina Goluba Gostyata Iskra Lada Lebed' Plamena Radimira Radmila Sbynya Siyana Snezhana_Snezhana Velimira Zhdana
+		}
+		from_dynasty_prefix = "ot "
+		
+		male_patronym = "ovich"
+		female_patronym = "ovna"
+		prefix = no
+		
+		founder_named_dynasties = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 40
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	astoii = {
+		graphical_cultures = { northmangfx }
+		
+		color = { 0.25 0.5 0.75 }
+		
+		male_names = {
+			Albrikt_Albert Alf_Alf Algot Anders_Andrew Anund Arnbjörn Arne Arnfast Asbjörn Astrad Azur Bagge Bengt Bertil Birger Björn_Beorn Bo Borkvard Botulf Bror 
+			Brynjolf Dag Dan Dyre Egil_Egil Emund Erik_Erik Eskild Faste Fredrik_Frederick Filip_Philip Folke_Folke Georg_George Greger_Gregory Gustav_Gustav Håkan_Hakon Halsten 
+			Henrik_Henry Holmger Inge Ingemar Ingvar_Ingvar Jedvard Johan_John Karl_Charles Kettil Kettilmund Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Mark 
+			Mats_Matthew Nils_Nils Niklas_Nicholas Olaf_Olaf Oskar_Oscar Peder_Peter Rörek Ragnvald Sämund Sörkver Sigbjörn Sigtrygg Sigurd Sten_Sten Stenkil Styrbjörn Sune Sven_Sven
+			Sverker Tjudmund Toke Tolir Torbjörn_Torbjörn Torkel_Torkel Toste Totil Tyke Ulf_Ulf Valdemar_Vladimir Åke Öystein_Eysteinn
+		}
+		female_names = {
+			Aleta Alfhild Alfridh Åsa Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Bothild Cecilia_Cecilia Edla Elin Elisabet_Elisabeth Gunhild_Gunhild Gyla Gurli Hafrid Helena_Helen Holmfrid Iliana 
+			Inga_Inge Ingeborg Ingegerd Ingfrid Ingjerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kristina_Christina Linda Maer Malmfrid Margareta_Margaret Ragnfrid Ragnhild Rikissa Saga 
+			Sara_Sarah Sigrid_Sigrid Sofia_Sophia Ulvhilde Ylva
+		}
+		
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sson"
+		female_patronym = "sdotter"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	nightmen = {
+		graphical_cultures = { northmangfx ugricgfx }
+		
+		color = { 0.1 0.6 0.6 }
+
+		male_names = {
+			Aatos Ahma Aimo Armas Arvo Asikko Ensio Haapa Hannu Havu Hintsa Ihanti Into Jalo Jurva Kaleva Kalevi Kettu Kolli Lalli Lauri_Laurence Lemetti
+			Lempi Menikko Mielikko Mielitty Miemo Mikko_Michael Oiva Onni Otso Päiviö Pentti Rauha Reko Sampo Satajalka Satatieto Seppo Susi Taimi Tapani_Stephen
+			Terho Titti Toikka Toivo Tuokki Ukko Uoti Urho Väinö Valta Valto Veli Vesa Villi_William Voitto
+		}
+		female_names = {
+			Aamu Aino Hellä Helmi Ilta Kaarina_Catherine Käpy Kielo Kukka Läpsä Lauha Lempi Mahla Maija_Maja Marja_Maria Mesi Metta Oiva Päivä Päivi Pihla Pilvi Pyry Rauha Sati
+			Sisko Suoma Taimi Terhi Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Vesa 
+		}
+		from_dynasty_prefix = "seka "
+
+		modifier = default_culture_modifier
+	}
+}
+
+caspiarii = {
+	graphical_cultures = { muslimgfx }
+
+	dunic = {
+		graphical_cultures = { east_africangfx }
+		
+		color = { 0.65 0.7 0.35 }
+
+		male_names = {
+			Aahotepre_Aahotepre Addaya_Addaya Ahmes_Ahmes Ahmose_Ahmose Akhenaten_Akhenaten Akhraten_Akhraten Alara Amanibakhi 
+			Amanineteyerike Amenemhat_Amenemhat Amenemipet_Amenemipet Amenemnisu_Amenemnisu Amenemope_Amenemope Amenemopet_Amenemopet Amenhotep_Amenhotep Amenmesse_Amenmesse 
+			Amenmose_Amenmose Ameny_Ameny Amethu_Amethu Amun_Amun Amyrtaeus_Amyrtaeus Analmaye Anedjib_Anedjib Anen_Anen 
+			Anhotep_Anhotep Ankhaf_Ankhaf Ankhefensekhmet_Ankhefensekhmet Ankherfenedjef_Ankherfenedjef Ankhkherednefer_Ankhkherednefer Ankhmakis_Ankhmakis Ankhmare_Ankhmare Ankhmasis_Ankhmasis 
+			Ankhreshet_Ankhreshet Ankhtifi_Ankhtifi Ankhu_Ankhu Anlamani Apepi_Apepi Aperel_Aperel Apries_Apries Aramatle-Qo 
+			Ashakhet_Ashakhet Aspelta Atlanersa Babaef_Babaef Bakenkhonsu_Bakenkhonsu Bakenraef_Bakenraef Baskakeren Baufra_Baufra 
+			Bebi_Bebi Bebiankh_Bebiankh Bek_Bek Buneb_Buneb Dagi_Dagi Dedi_Dedi Dedumose_Dedumose Den_Den 
+			Didia_Didia Djaty_Djaty Djau_Djau Djedefhor_Djedefhor Djedefptah_Djedefptah Djedefre_Djedefre Djedhor_Djedhor Djedi_Djedi 
+			Djediufankh_Djediufankh Djedkare_Djedkare Djedkhonsuefankh_Djedkhonsuefankh Djedptahiufankh_Djedptahiufankh Djehuti_Djehuti Djehuty_Djehuty Djer_Djer Djet_Djet 
+			Djoser_Djoser Duaenhor_Duaenhor Duaenre_Duaenre Hakor_Hakor Hannu_Hannu Hapusenab_Hapusenab Harkhebi_Harkhebi Harkhuf_Harkhuf 
+			Haronnophris Harsiese_Harsiese Harsiotef_Harsiotef Harwa_Harwa Hemaka_Hemaka Hemiunu_Hemiunu Hepu_Hepu Heqanakht_Heqanakht 
+			Herihor_Herihor Hesy-Na_Hesy-Na Hewernef_Hewernef Hor-Aha_Hor-Aha Hor_Hor Horbaef_Horbaef Horemheb_Horemheb Hori_Hori 
+			Hornakht_Hornakht Hotepibre_Hotepibre Hotepsekhemwy_Hotepsekhemwy Hsekiu_Hsekiu Hugronaphor Hunefer_Hunefer Huni_Huni Huy_Huy 
+			Huya_Huya Ibi_Ibi Ibiau_Ibiau Ienheru_Ienheru Imhotep_Imhotep Imyremeshaw_Imyremeshaw Ineni_Ineni Ini_Ini 
+			Inkaef_Inkaef Intef_Intef Intefiqer_Intefiqer Iry-Hor_Iry-Hor Isesi-Ankh_Isesi-Ankh Isu_Isu Itisen_Itisen Itu_Itu 
+			Iufaa_Iufaa Iufni_Iufni Iumin_Iumin Iunre_Iunre Iuput_Iuput Iynefer_Iynefer Ka_Ka Kaemqed_Kaemqed 
+			Kaemsekhem_Kaemsekhem Kagemni_Kagemni Kakhent_Kakhent Kamose_Kamose Kanefer_Kanefer Kashta Kawab_Kawab Khaba_Khaba 
+			Khabash_Khabash Khabekhnet_Khabekhnet Khaemtir_Khaemtir Khaemweset_Khaemweset Khafra_Khafra Khamudi_Khamudi Khasekhemwy_Khasekhemwy Khawy_Khawy 
+			Khay_Khay Khayu_Khayu Khendjer_Khendjer Khentimeresh_Khentimeresh Kheti_Kheti Khnumhotep_Khnumhotep Khufu_Khufu Khufukhaf_Khufukhaf 
+			Khyan_Khyan Mahu_Mahu Maiherpi_Maiherpi Malewiebamani Manetho_Manetho Masaharta_Masaharta Maya_Maya Menes_Menes 
+			Menkare_Menkare Menkaure_Menkaure Menkauthor_Menkauthor Menkheperraseneb_Menkheperraseneb Menkheperre_Menkheperre Menna_Menna Mentuherkhepeshef_Mentuherkhepeshef Mentuhotep_Mentuhotep 
+			Merefnebef_Merefnebef Merenhor_Merenhor Merenptah_Merenptah Merenre_Merenre Mereruka_Mereruka Merhotepre_Merhotepre Merikare_Merikare Merneferre_Merneferre 
+			Meru_Meru Meryatum_Meryatum Merymose_Merymose Meryptah_Meryptah Meryre_Meryre Merysekhmet_Merysekhmet Meryteti_Meryteti Mindjedef_Mindjedef 
+			Minkhaf_Minkhaf Minmontu_Minmontu Minmose_Minmose Minnefer_Minnefer Montuherkhopshef_Montuherkhopshef Nakht_Nakht Nakhthoreb_Nakhthoreb Nakhtmin_Nakhtmin 
+			Nakhtnebef_Nakhtnebef Nakhtpaaten_Nakhtpaaten Narmer_Narmer Nasakhma Nastasen_Nastasen Nebamakhet_Nebamakhet Nebamun_Nebamun Nebiriau_Nebiriau 
+			Nebit_Nebit Nebmaatre_Nebmaatre Nebneteru_Nebneteru Nebnuni_Nebnuni Nebre_Nebre Nebwenenef_Nebwenenef Neby_Neby Necho_Necho 
+			Nectanebo_Nectanebo Nedjem_Nedjem Neferetnebty_Neferetnebty Neferfre_Neferfre Neferhotep_Neferhotep Neferirkare_Neferirkare Neferkahor_Neferkahor Neferkamin_Neferkamin 
+			Neferkare_Neferkare Neferkau_Neferkau Neferkauhor_Neferkauhor Neferkaure_Neferkaure Nefermaat_Nefermaat Neferneferuaten_Neferneferuaten Neferronpet_Neferronpet Nefersheshemre_Nefersheshemre 
+			Nehesy_Nehesy Nehi_Nehi Neitiqerty_Neitiqerty Nekauba_Nekauba Nemtyemsaf_Nemtyemsaf Nepherites_Nepherites Neserkauhor_Neserkauhor Neterkheperre_Neterkheperre 
+			Netjeraperef_Netjeraperef Netjerkare_Netjerkare Nikare_Nikare Nikaure_Nikaure Nimlot_Nimlot Nykara_Nykara Nynetjer_Nynetjer Nyuserre_Nyuserre 
+			Pabasa_Pabasa Pahemnetjer_Pahemnetjer Panehesy_Panehesy Paraemheb_Paraemheb Pareherwenemef_Pareherwenemef Parennefer_Parennefer Paser_Paser Pashedu_Pashedu 
+			Paweraa_Paweraa Pawura_Pawura Pebekkamen_Pebekkamen Pediamenopet_Pediamenopet Pennesuttawy_Pennesuttawy Pensekhmet_Pensekhmet Pentawer_Pentawer Penthu_Penthu 
+			Pepi_Pepi Perneb_Perneb Petubastis_Petubastis Photep_Photep Piankh_Piankh Pihuri_Pihuri Pimay_Pimay Pinedjem_Pinedjem 
+			Pinehesy_Pinehesy Pipi_Pipi Piye Psammuthes_Psammuthes Psamtik_Psamtik Psusennes_Psusennes Ptahhotep_Ptahhotep Ptahmose_Ptahmose 
+			Ptahshepses_Ptahshepses Puimre_Puimre Qa'a_Qa'a Qakare_Qakare Qar_Qar Qen_Qen Qenna_Qenna Raemka_Raemka 
+			Raherka_Raherka Rahotep_Rahotep Ramesses_Ramesses Ramessesnakht_Ramessesnakht Ramose_Ramose Raneb_Raneb Ranefer_Ranefer Rashepses_Rashepses 
+			Rawer_Rawer Rehuerdjersen_Rehuerdjersen Rekhmire_Rekhmire Renseneb_Renseneb Roma-Roi_Roma-Roi Rudamun_Rudamun Sabef_Sabef Sabu_Sabu 
+			Sahure_Sahure Sakir-Har_Sakir-Har Salitis_Salitis Sanakht_Sanakht Sankhenre_Sankhenre Sedjefakare_Sedjefakare Sehetepre_Sehetepre Sekhemib-Perenmaat_Sekhemib-Perenmaat 
+			Sekhemkare_Sekhemkare Sekhemkhet_Sekhemkhet Sekhemre_Sekhemre Semenkare_Semenkare Semenre_Semenre Semerkhet_Semerkhet Senakhtenre_Senakhtenre Seneb_Seneb 
+			Senebhenaf_Senebhenaf Senebi_Senebi Senedj_Senedj Senedjemib_Senedjemib Senenmut_Senenmut Senewosret-Ankh_Senewosret-Ankh Senkamanisken Sennedjem_Sennedjem 
+			Sennefer_Sennefer Senneferi_Senneferi Senusret_Senusret Seqenre_Seqenre Serfka_Serfka Setau_Setau Seth-Peribsen_Seth-Peribsen Seti-Merenptah_Seti-Merenptah 
+			Seti_Seti Setnakhte_Setnakhte Seuserenre_Seuserenre Sewadjkare_Sewadjkare Shabaka Shebitku Shedsu-Nefertum_Shedsu-Nefertum Shepseska_Shepseska 
+			Shepseskaf_Shepseskaf Shepseskare_Shepseskare Shepsesneb_Shepsesneb Shery_Shery Sheshi_Sheshi Sheshonk_Sheshonk Siamun_Siamun Siaspiqa 
+			Siatum_Siatum Siese_Siese Simut_Simut Siptah_Siptah Smendes_Smendes Smenkhkare_Smenkhkare Sneferu_Sneferu Sneferukhaf_Sneferukhaf 
+			Sobekemhat_Sobekemhat Sobekemsaf_Sobekemsaf Sobekhotep_Sobekhotep Sobeknakht_Sobeknakht Taharqa_Taharqa Takelot_Takelot Talakhamani Tantamani 
+			Tao_Tao Tefnakht_Tefnakht Teos_Teos Teta_Teta Teti_Teti Thamphthis_Thamphthis Thutmose_Thutmose Tjanefer_Tjanefer 
+			Tutankhamun_Tutankhamun Tutkheperre_Tutkheperre Tutu_Tutu Unas_Unas Useramen_Useramen Userhet_Userhet Userkaf_Userkaf Userkare_Userkare 
+			Usermontu_Usermontu Wadjmose_Wadjmose Wahibre_Wahibre Wakhare_Wakhare Webensenu_Webensenu Wegaf_Wegaf Wehemka_Wehemka Weneg_Weneg 
+			Weni_Weni Wentawet_Wentawet Wetka_Wetka Yanhamu_Yanhamu Yaqub-Har_Yaqub-Har Yuny_Yuny Yuya_Yuya Zamonth_Zamonth 
+		}
+		female_names = {
+			Aat_Aat Abar_Abar Ahaneith_Ahaneith Ahhotep_Ahhotep Ahmose_Ahmose Amenemopet_Amenemopet Amenia_Amenia Amenirdas_Amenirdas 
+			Ankhesenamen_Ankhesenamen Ankhesenpaaten_Ankhesenpaaten Ankhesenpepi_Ankhesenpepi Ankhnesferibre_Ankhnesferibre Artakama_Artakama Atakhebasken_Atakhebasken Aya_Aya Baketwernel_Baketwernel 
+			Behenu_Behenu Beketamun_Beketamun Beketaten_Beketaten Benerib_Benerib Betrest_Betrest Bintanath_Bintanath Bunefer_Bunefer Dakhamunzu_Dakhamunzu 
+			Djefatnebi_Djefatnebi Djefatsen_Djefatsen Djeseretnebti_Djeseretnebti Duaentopet_Duaentopet Duathathor_Duathathor Gautseshen_Gautseshen Gilukhipa_Gilukhipa Hatshepsut_Hatshepsut 
+			Hedjetnebu_Hedjetnebu Hekenuhedjet_Hekenuhedjet Hemetre_Hemetre Henutmehyt_Henutmehyt Henutmire_Henutmire Henutsen_Henutsen Henuttaneb_Henuttaneb Henuttawy_Henuttawy 
+			Henutwati_Henutwati Herneith_Herneith Hetepheres_Hetepheres Hetephernebti_Hetephernebti Hui_Hui Iaret_Iaret Inenek-Inti_Inenek-Inti Inetkawes_Inetkawes 
+			Ipu_Ipu Iput_Iput Isesu_Isesu Iset_Iset Isetemkheb_Isetemkheb Isetnofret_Isetnofret Itet_Itet Kapes_Kapes 
+			Karomama_Karomama Kekheretnebti_Kekheretnebti Keminub_Keminub Khamerernebty_Khamerernebty Khedebneithirbinet_Khedebneithirbinet Khenemetnferhedjet_Khenemetnferhedjet Khensa_Khensa Khentetka_Khentetka 
+			Khenthap_Khenthap Khentkaus_Khentkaus Khenut_Khenut Khuit_Khuit Kiya_Kiya Maatkare_Maatkare Maia_Maia Mehytenweshkhet_Mehytenweshkhet 
+			Meketaten_Meketaten Menhet_Menhet Menwi_Menwi Mereret_Mereret Meresamun_Meresamun Meresankh_Meresankh Meret-Isesi_Meret-Isesi Meretseger_Meretseger 
+			Merit-Ptah_Merit-Ptah Meritamen_Meritamen Meritites_Meritites Merneith_Merneith Merti_Merti Merytre-Hatshepsut_Merytre-Hatshepsut Mutbenret_Mutbenret Mutemwiya_Mutemwiya 
+			Mutnedjmet_Mutnedjmet Mutnofret_Mutnofret Nakhtneith_Nakhtneith Nakhtubasterau_Nakhtubasterau Naparye_Naparye Nauny_Nauny Nebet_Nebet Nebetah_Nebetah 
+			Nebetia_Nebetia Nebetiunet_Nebetiunet Nebetnehat_Nebetnehat Nebettawy_Nebettawy Nebtu_Nebtu Nebty-Tepites_Nebty-Tepites Nebtyemneferes_Nebtyemneferes Nedjeftet_Nedjeftet 
+			Nedjemib_Nedjemib Neferhetepes_Neferhetepes Neferneferure_Neferneferure Nefertari_Nefertari Neferthenut_Neferthenut Nefertiabet_Nefertiabet Nefertiti_Nefertiti Nefertkau_Nefertkau 
+			Nefertnesu_Nefertnesu Neferu_Neferu Neferuptah_Neferuptah Neferure_Neferure Nefrubity_Nefrubity Neith_Neith Neithhotep_Neithhotep Nesitanebetashru_Nesitanebetashru 
+			Nesitaudjatakhet_Nesitaudjatakhet Neskhons_Neskhons Nimaethap_Nimaethap Nitocris_Nitocris Nofret_Nofret Nubhetepi-Khered_Nubhetepi-Khered Nubkhaes_Nubkhaes Nubkhaesbed_Nubkhaesbed 
+			Nubwenet_Nubwenet Pageti_Pageti Patareshnes_Patareshnes Pebatjma Peksater_Peksater Penebui_Penebui Persenet_Persenet Peseshet_Peseshet 
+			Pyhia_Pyhia Qalhata_Qalhata Rekhetre_Rekhetre Reputnebty_Reputnebty Repytnub_Repytnub Satiah_Satiah Scota_Scota Sekhmakh_Sekhmakh 
+			Semat_Semat Senseneb_Senseneb Serethor_Serethor Seshemetka_Seshemetka Sesheshet_Sesheshet Setepenre_Setepenre Shepenupet_Shepenupet Sitamun_Sitamun 
+			Sitdjehuti_Sitdjehuti Sithathoriunet_Sithathoriunet Sitre_Sitre Sobekneferu_Sobekneferu Tabekenamun_Tabekenamun Tabiry_Tabiry Tadukhipa_Tadukhipa Takahatenamun_Takahatenamun 
+			Takhat_Takhat Takhuit_Takhuit Tashedkhonsu_Tashedkhonsu Tawerettenru_Tawerettenru Tentamun_Tentamun Tentkheta_Tentkheta Teti_Teti Tetisheri_Tetisheri 
+			Tey_Tey Tia_Tia Tiaa_Tiaa Tiy-Merenese_Tiy-Merenese Tiye_Tiye Tjuyu_Tjuyu Twosret_Twosret Tyti_Tyti 
+			Udjebten_Udjebten        
+		}
+  
+		from_dynasty_prefix = "of "
+
+		modifier = default_culture_modifier
+	}
+	shaiii = {
+		graphical_cultures = { arabicgfx }
+		
+		color = { 0.6 0.3 0.6 }
+
+		male_names = {
+			Abraham_Abraham Aaron_Aaron Alexandros_Alexander Alexander Abel Abba Abarron Aristobulus Abimelech Abner Abram Adar Adin Akim Ahab Amiel Alon Amos Ariel Ari Absalom Asher Asabel Abishai
+			Barak Baram Bartholemaios_Bartholemew Binyamin_Benjamin Boaz Chanoch Chaviv Dan Daniel_Daniel David_David Dov
+			Eben Ebenezer Efraim_Ephraim Efron Elam Ely Eliazar_Lazarus Elhanan Elias_Elias Emanuel_Manuel Enoch Esra Eyal Ezechiel Ishbosheth Gabriel_Gabriel Gad Gamaliel
+			Gedeon Gershom Gideon Girhan_Hyrcanus Gurion Harmon Hayym Hershel Herod_Herod Herodes_Herod Hiram Hyrcanus Yakob_Jacob Iov Ioseph_Joseph Isaac_Isaac Isaiah_Isaiah
+			Ishmael_Ishmael Issachar Japhet Jebediah Jannaeus Jeroboam Jepthah Jesse Jeremiah_Jeremy Josiah John Joachim_Joachim Joab Jonadeb_Jonathan Jonathan Judah Lazarus_Lazarus Levi Kileab_Daniel Malachai Manasses_Manasses
+			Mathaios_Matthew Mattathias_Matthew Menachem Mikhael_Michael Mordechai Moshe_Moses Naaman Naphtali Nathaniel Nechemyah Nimrod Noam Obediah Omriyya_Omri Omri
+			Rafael_Raphael Rani Ravid Re'uven_Reuben Ron Solomon_Solomon Shemuel_Samuel Samson_Samson Saul Serafim_Seraphin Shlomo_Solomon Shimon_Simon Simeon_Simon Taavi Thoma_Thomas
+			Tobias Tzadok Tzion Uri Yannai_Jannaeus Yehudah_Judah Yissachar_Issachar Yehoash_Jesus Yeeshai Yehoshua_Jesus Yoel Yonah_Jonas Yohanan_John Zadok Zebediah Zachariah_Zacharias Zebulun
+		}
+		female_names = {
+			Abaigael Adara Ana Bathsheba Bethanya Carmela Chaya Dalilah Daniella Davida Deborah Elia Elisabetha_Elisabeth Emmanuella
+			Gillah Hannah Hosanna Ilana Iohana_Joan Jakoba Jordana Judith_Judith Laila Leah Magdalena_Magdalena Mariam Mathaya Michal
+			Nahash Naava Neorah Norah Ophrah Paula Rabah Rachael Raphaela Rebekkah Rosana Shelomtzion_Salome Samara Sarah_Sarah Talia Tamitha Tamarah_Tamara
+			Yael Yana Yessica Zemira
+		}
+
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ben "
+		female_patronym = "bat "
+		prefix = yes
+
+		modifier = default_culture_modifier
+	}
+	blistorii = {
+		graphical_cultures = { arabicgfx muslimgfx }
+		
+		color = { 0.0 0.25 0.05 }
+
+		male_names = {
+			Aarif al-Abd Abd-al-Manaf Abu-Sa'ad Abdul-Gafur Abd-al-Dar Abdul-Muttalib Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abd-al-Uzza Abdullah Abu-Bakr_Abu-Bakr Aghlab Akin Ali Muhammad Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hashim Hasan Husam Hussayn Ibrahim_Abraham Ilyas_Elias Idris Is'mail Isa Jabir Jalil Jibril_Gabriel Khaireddin
+			Kilab Khalid Khalil Ma'ad Mahmud Mansur Mirza Mubarak Mahdi Mudhar Mukhtar Murad Murrah Musa Muzaffaraddin Najib Sami Muslihiddin Nasr Nizam Qusai Qawurd Ramadan Rabee_Rabbel
+			Sa'daddin Sadiq Samir Sufyan Shaiban Shamir Shujah Sulayman_Solomon Talib Ubayd Uways Tarafah Uthman_Othman Ya'qub_Jacob Yusuf_Joseph Zeyd
+		}
+		female_names = {
+			Adila Aminah Asiya Aisha_Ayeshah Amsha Atikah Barrah Faghira Ghazala Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Qamara Rafiqa Sabba Sajida Semeah Taliba Yasmin Zaynab
+			Nyawela Parand Parween Paymaneh Paywand Rasa Rashida Reshawna Saaman Saghar Sahba Samira Setara Shahrbano Shahzadah Shameem Shararah
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan Tanaz Taneen Yagana Yakta "Umm Kulthum"
+		}
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+	rezzahain = {
+		graphical_cultures = { persiangfx }
+		
+		color = { 0.8 0.8 0.4 }
+
+		male_names = {
+			Abbas Abadan Abadard Abtum Abolhassan Achaemenes Adar Adarbad Adarbahram Adarburzin Adarburzinmeher Adarfiroz Adarfra Adargushnasp Adarhormazd Adarhoshang Adarkhordad Adarkhurshid Adarmah Adarmard
+			Adarpadyavand Adarvan Adel Afiveh Afshar Aspacures Ahmad Ahun Akbar Alah-Verdi Ali Allahyar Amardad Amazaspus Amavand Anaoshak Antalcid_Antalcidas Anosh Aorang Aoshnar Arash Arasti Arawaostra Amin Anushirvan Aram Ardavasdes_Ardavasd Ardavan Ardaxcashca Ardeshir_Ardashir
+			Ardumanish Ardvan Ariaramnes Ariyamna Astyages Arsaces Arsames Arshavir Arshis Aryaburzin Artavardiya Artaxshasa_Ardashir Artostes Asfandiar Ashraf Ashtad Aspandyar Aspantaman Asrat Assad Aspacanah Athiyabaushna Aurand_Orontes
+			Aurashaspa Aurvatasp Ayanghat Ayeshah Azad Azadafroz Azadmard Azman Babak Bagâbigna Bagabuxsha Bahadur Bahman Bahmanyar Bardiya Bahram Bahramdad Bahramgor Bakhtyar Balash Baraz Behrad Behrouz Bezan Bokhtar_Bagour
+			Bozorg Bundar Burzafrah Burzin Burzinkurush Burzinmeher Cambyses Chakhravat Cyaxares Dadar Dadburzin Dadfiruz Daneshvar Danush Darab Dariush Dastan Davud_David Dâtuvahya Dinshah Dinyar Divband Diako Dravasp
+			Ebrahim_Abraham Ehsan Erach Erezwand Esfandiar Eskander_Alexander Esma'il_Ishmael Faramarz Faraz Fareed Fermeni_Parmenion Farhad Fariborz Farroukh Farrokhormazd Farrukhzad Farsak Farzad Fath Ferdows Fereedun_Philotheos Frahimrawa Framarz
+			Frashavard Fravak Fravarti Gashtaham Gaubaruva Gaumâta Gelshah Ghobad Gholam Godarz Goshtasb Haechataspa Hafez Hassan Haxâmanish Hedayat Homyar Hormazdad Hooshyar Hormazd Hormoz Hossein_Hussayn Hukhshthra Humayun
+			Isatvastra Ishvat Izadyar Jahandar Jahangir Jahanshah Jamshid Javeed Kambiz Kambujiya Kamran Kavoos Keyghobad Keykhosrow Kharmandar Khashayar Kayanyar Kaykaus Kaynashnin Kaypassen Kayzad Kersasp Khordad Khodadad
+			Khosrow Khudayar Khudavand Khurshid Kobad Kurush Lohrasp Mehbud Madya Meherak Manmeher_Menander Mardavaz Manushihr Marduniya Mithradatha_Mithridates Mihran_Mirian Mashad Megabyzus Meherwan Mehersan Mehrab Mehrzad Mohammed Morad Morteza Mozaffar Nard Nariman Narseh_Narses Nashak Naveed
+			Nawid Nazban Nevazar Nezam Noshirvan Noshzad Notriga Nushadar Orodes Paitiraspa Pakor_Pacorus Parviz Pashang Pashin Peroz Perozshah Peshotan Phraortes_Phraotes Pujman Qabad Ramin Ramyar Rangushtar Ranjishn Rashid Ratushtar Reza Rostam Ruhollah
+			Sadri Salman Sarosh Saroshyar Sarvar Sasan Shahak Shahbahram Shahdan Shahfiruz Shahab Shahbaz Shahin Shahmardan Shahram Shahrokh Shahruz Shahryar Shapur Shahren Shahrevar Shahzad Shayan Sheherbaraz Sherfiruz Shergir
+			Shersah Shirvanshah Sina Sogdianus Sohrab Surin Suroyazat Takhmaspada Tahmasb Tamur Taronish Thuxra Tigran Tirdad_Tiridates Vahhab Ushedar Ushedarmah Utana Vahauka Vahid Vahumisa Vahyavishdâpaya Vahyazdâta Vali Varshasb Varun
+			Vaumisa Vardanshah Vâyaspâra Vindafarnah Vindarna Vishtasb Vonones Vivâna Walagash_Vologases Wehsahpur Yazad Yazdegird Yazdiar Yousef_Joseph Xshathrita Xshayârshan_Xerxes Zadhormazd Zahak Zakaria_Zacharias Zal Zand Zaran Zarir Zartosht Zavareh Zia Zubin
+		}
+		female_names = {
+			Aban Afsaneh Ahu Ardvisura Arghavan Arnavaz Arta Asa Ava Azadeh Bahar Banafsheh Banuhufriya Behnaz Bostan Darya Delaram Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva
+			Furuzan Ghamze Ghazal Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht Jamileh Javaneh Leila Mahdokht Mahtab Mariam
+			Navvaba Nazgol Nazilla Noor Parvaneh Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh Shirin Soraya Touran
+			Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh
+		}
+
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		male_patronym = "zade"
+		female_patronym = "dokht"
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+}
+
+karvellis = {
+	graphical_cultures = { westerngfx }
+	
+	siviik = {
+		graphical_cultures = { easternslavicgfx }
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Afanasiy_Athanasius Alexandr_Alexander Alexei_Alexis Andrei_Andrew Arkadiy_Arkadios Boris_Boris Briachislav_Bretislaus Daniil_Daniel Davyd_David
+			Demid Dmitriy_Demetrius Dobroslav_Dobroslav Dobrynia Fedot_Theodat Feodor_Theodore Gavriil_Gabriel Gleb Grigoriy_Gregory Iakov_Jacob
+			Igor Iliya_Elias Ingvar_Ingvar Ivan_John Iziaslav Kirill_Cyril Konstantin_Constantine Koz'ma_Cosma Lev_Leo Matfei_Matthew Mikhail_Michael Mitrofan
+			Mstislav_Mstislav Nikita Oleg_Helge Pavel_Paul Plamen_Plamen Putiata Radoslav_Radoslav Rodislav Rogvolod Roman_Roman Rostislav_Rostislav
+			Rurik Ruslan Simeon_Simon Stanislav_Stanislav Stepan_Stephen Sudislav Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon
+			Vasiliy_Basil Vasilko_Basil Viacheslav_Viacheslav Vladimir_Vladimir Vladislav_Vladislav Voislav_Vojslav Volodar Vseslav_Vseslav Vsevolod Vyshata
+			Vysheslav Yaropolk_Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yemelyan_Emil Yeremey_Jeremy Yevstafiy Yuriy_George
+			Beloslav Berimir Budigost Chernek Drobn Gostomysl Goven Gradimir Ludislav Mestyatka Nazhir Nezhenets Ostromir Peresvet Pozvizd Putimir Radogost
+			Rostih Rozneg Sviatogor Torchin Tverdyata Vadim Velimir Vyacheslav_Viacheslav Zavid Zhdan Zhiznobud Zvonimir
+		}
+		female_names = {
+			Agafya_Agatha Agrafena Alexandra_Alexandra Anastasia_Anastasia Anna_Anna Boleslava Darya Dobrava_Doubravka Dobronega_Dobronega Dobroslava
+			Yefimia_Euphemia Yefrosinia_Euphrosyne Yekaterina_Catherine Yelizaveta_Elisabeth Yevdokia_Eudocia Yevpraxia Feodora_Theodora Feodosia_Theodosia
+			Fevronia Gorislava Gradislava Gremislava Irina_Irene Xenia_Xenia Liubava_Agape Liudmila_Ludmila Malfrida Malusha Maria_Maria Marina
+			Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava Premyslava Pribislava Rogneda Rostislava Sbyslava Sofia_Sophia Sviatoslava_Sviatoslava
+			Tatyana_Tatiana Ulita Ulyana Varvara_Barbara Vasilisa Veleslava Verkhoslava Vseslava Viacheslava Yaroslava Zabava Zvenislava
+			Beloslava Borislava Darina Goluba Gostyata Iskra Lada Lebed' Plamena Radimira Radmila Sbynya Siyana Snezhana_Snezhana Velimira Zhdana
+		}
+		from_dynasty_prefix = "ot "
+		
+		male_patronym = "ovich"
+		female_patronym = "ovna"
+		prefix = no
+		
+		founder_named_dynasties = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 40
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	tyvasian = {
+		graphical_cultures = { celticgfx }
+
+		color = { 0.2 0.5 0.4 }		
+
+		male_names = {
+			Adomnán Alpín Áed Aniel	Bridei Beli Bran Breth Buthut Belatucadr Broichan Cailtram Cennalaph Cano Cinioch Crup Crimthann Conall Caustantin_Constantine Cimoiod Crautreic
+			Drest Domelch Dúngal Dargart Dubhtolargg Drostan Domnall_Donald Deototreic_Theodore Deort Deocilunon Erp Echdach Eógan_Ewan Eugein_Eugene Elfin Fochle Foth Fergus Ferchair Farthac
+			Galan Girom Gigurum Giric Garthnaith Gede Gest Hudrossig_uudrost Lutrin Mogons Murtolic Munait Maelchon Morleo Nechtan Óengus_Angus Ougen Pidarnoin Selbach
+			Talorc Talorgan Taran Tadg_Thaddeus Túathalán Tarain Uerb Uuid Uuredach Uurad Uuthoil Uipoig Usconbuts Uist Uvan
+		}
+		female_names = {
+			Arnemetia Der-Ilei Luthredattr "Máel Muire" Nimugon Nicaledonus Nicrrosc Nicmaqq Nipretani Niverturion Nictath Olfinecta
+		}
+		from_dynasty_prefix = "as "
+		male_patronym = "Maqq"
+		female_patronym = "Nic "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+	}
+	reyesh = {
+		graphical_cultures = { berbergfx }
+		
+		color = { 0.7 0.9 0.0 }
+
+		male_names = {
+			Abakada Abazza Abidin Adal Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid 
+			Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel_Caecilius Aksil_Caecilius Akutla 
+			Akzer Alyamas Amawal Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amma Ammuc Amray Amri Amud Anaba Annaber Antalas Anwa Aras 
+			Asaru Asirem Aszellay Atissi Awdia Awgustin_Augustine Awinagh Awlagh Awzal Aylal Ayt'ere Az'ar Az'regh Azenkwed Azrur Badda Badis Bagay Beddis 
+			Berkan Bezz'i Br'ir'uc Bukkus Buxtuc Capussa Cucung Dali Fella Firhun Firmus Frawsen Gaia Galussa Gauda Gaya Ghanim Ghaysan Ghumer Gildun 
+			Gulusa H'emmu Hiba Hiempsal Himmi Hotha Ibiza Iccaam Ifni Ifser Ighlaf Igider Igmi Iher Iken Ilyas Immeghar Immel Irgen Isalcas Isli Issam 
+			It'ij Itber Itri Ixfensen Ixzi Izri Kadidu Karidenna Kawsen Kenan Keraja Khanchla Khenchela Kussil Lacumaces Laweye Lewnis 
+			Luki_Lucius Madidu Magsen Masgaba Masgava Masinissa Masmud Masnsen Massinissa Massiva Massnsen Mastan Mastanabal Matiya_Matthew Maysar Maziba 
+			Mazigh Medjan Mellal Mennad Menzu Meq'wran Mez'yan Mezwar Micipsa Misagenes Misibsen Muh'end Mula N'Guna Niptasan Oesalces Oxynta Oxyntas 
+			Ptolemee Salla Salomon_Solomon Sammer Seghada Sekla Sifaks Sifal Sisso Stembanos Suggut T'ar'iq Tabat Tacfin Taffounnout Takfarinas Tanan Tegama 
+			Thabitah Tiljad Tifan_Theophanus Ugdada Ugwistan Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Watt'as Xamida Yabdas Yaghmurasen Yattuy Yeften Yeh'lem 
+			Yiliyen Yuba Yugerten Yugurthen Yuva Yunes Z'effun Zalelsan Zayar Zer'wal Zigza Ziri
+		}
+		female_names = {
+			Aazzi Adjan Bahac Bakka Bghnat Bibya Canh'a D'r'ifa Dasin Edza Faghissa Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hemu 
+			Herru Iija Iiju Ittû Izza Jdira Jeddjiga Kahina Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa 
+			Meghighda Menna Menza Mernissa Monica Myassa R'uza Randja Rula Sekkura Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult 
+			Taheyyatt Takama Taklit Talalit Taljat Tament Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tariwelt Tasa Tasa'fut Taszellayt 
+			Tatbirt Tati Taweckint Tawenza Tawnat Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi 
+			Tinhinan Tintadefi Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant 
+			Z'ergha Zaghwa Zamba Zibba Zilgum Zunagha Zwina Zwira
+		}
+		
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
 	}
 }
