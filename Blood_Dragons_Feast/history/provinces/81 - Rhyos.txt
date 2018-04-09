@@ -1,0 +1,18 @@
+# c_rhyos
+
+# County Title
+title = c_rhyos
+
+# Settlements
+max_settlements = 4
+
+b_rhyos = castle
+b_rhyos_2 = city
+b_rhyos_3 = temple
+#b_rhyos_4 = castle
+
+# Misc
+culture = imperian
+religion = catholic
+
+#History
