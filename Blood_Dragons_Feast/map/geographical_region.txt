@@ -13,7 +13,6 @@
 
 imperia_region = {
 	duchies = {
-		d_imperia
 	}
 }
 

@@ -3,7 +3,7 @@ e_rebels = {
 	landless = yes
 	primary = yes
 
-	culture = swedish
+	culture = imperian
 	tribe = yes
 
 	color={ 0 0 0 }
@@ -15,7 +15,7 @@ e_pirates = {
 	landless = yes
 	primary = yes
 
-	culture = swedish
+	culture = imperian
 	tribe = yes
 
 	color={ 0 0 0 }

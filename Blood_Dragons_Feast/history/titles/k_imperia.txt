@@ -3,6 +3,6 @@
 	law = agnatic_succession
 	law = succ_feudal_elective
 }
-1227.1.1={
+1255.1.1={
 	holder=1
 }

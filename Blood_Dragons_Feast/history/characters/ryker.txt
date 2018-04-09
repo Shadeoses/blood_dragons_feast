@@ -4,7 +4,7 @@
 	culture=ryker
 	religion=catholic
 	trait=deceitful
-	trait=attractive
+	trait=fair
 	trait=scarred
 	trait=genius
 	trait=cruel

@@ -29,7 +29,6 @@
 	trait=fortune_builder
 	trait="stubborn"
 	trait="temperate"
-	trait="ruthless"
 	trait="zealous"
 	trait="arbitrary"
 	1218.1.1={ birth=yes }
@@ -189,7 +188,7 @@
 	learning=8
 	trait=brilliant_strategist
 	trait=genius
-	trait=attractive
+	trait=fair
 	trait=greedy
 	trait=scarred
 	trait=just
@@ -209,7 +208,7 @@
 	intrigue=9
 	learning=6
 	trait=elusive_shadow
-	trait=attractive
+	trait=fair
 	trait=quick
 	trait=deceitful
 	trait=greedy
@@ -351,7 +350,7 @@
 	96.1.1={ birth=yes }
 	166.1.1={ death=yes }
 }
-23={
+37={
 	name=Helnuun #witch cult, burned at stake
 	female=yes
 	dynasty=5
@@ -363,7 +362,7 @@
 	171.1.1={ death=yes }
 }
 24={
-	name=Line of Alon
+	name="Line of Alon"
 	dynasty=5
 	culture=imperian
 	religion=catholic
@@ -385,7 +384,7 @@
 	trait=indulgent_wastrel
 	trait=stutter
 	trait=imbecile
-	trait=attractive
+	trait=fair
 	trait=dull
 	father=24
 	1191.1.1={ birth=yes }
@@ -399,7 +398,7 @@
 	trait=brilliant_strategist
 	trait=brave
 	trait=zealous
-	trait=attractive
+	trait=fair
 	father=25
 	1211.1.1={ birth=yes }
 	1281.1.1={ death=yes }

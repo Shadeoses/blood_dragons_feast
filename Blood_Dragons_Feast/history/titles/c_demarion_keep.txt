@@ -5,3 +5,4 @@
 	liege=d_the_demerons
 }
 30.1.1={holder=36} #Meilon Demarion
+69.1.1={holder=0}
