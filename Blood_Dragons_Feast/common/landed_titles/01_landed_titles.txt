@@ -1243,7 +1243,7 @@ e_imperia = {
 				}
 			}
 			c_caivus = { # 51
-				color={ 53 137 197 }
+				color={ 58 142 202 }
 				color2={ 255 255 255 }
 				
 				b_caivus = {
@@ -1281,7 +1281,7 @@ e_imperia = {
 				}
 			}
 			c_lurnor = { # 52
-				color={ 89 83 140 }
+				color={ 94 88 145 }
 				color2={ 255 255 255 }
 				
 				b_lurnor = {
