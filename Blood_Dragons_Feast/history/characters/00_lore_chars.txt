@@ -487,6 +487,24 @@
 	1299.1.1={ birth=yes }
 	1369.1.1={ death=yes }
 }
+35={
+	name=Silus
+	dynasty=6
+	culture=ryker
+	religion=catholic
+	trait=deceitful
+	trait=fair
+	trait=scarred
+	trait=genius
+	trait=cruel
+	trait=wroth
+	trait=lustful
+	trait=cynical
+	trait=one_legged
+	1198.1.1={ birth=yes }
+	1227.1.1={ give_nickname=nick_the_raven_king }
+	1268.1.1={ death=yes }
+}
 36={
 	name=Meilon
 	dynasty=7
@@ -536,6 +554,7 @@
 	dynasty=7
 	culture=imperian
 	religion=catholic
+	trait=midas_touched
 	mother=37
 	48.1.1={ birth=yes }
 	118.1.1={ death=yes }
@@ -546,6 +565,7 @@
 	dynasty=7
 	culture=imperian
 	religion=catholic
+	trait=martial_cleric
 	mother=37
 	53.1.1={ birth=yes }
 	123.1.1={ death=yes }
