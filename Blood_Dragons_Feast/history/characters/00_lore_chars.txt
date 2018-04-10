@@ -570,6 +570,3 @@
 	53.1.1={ birth=yes }
 	123.1.1={ death=yes }
 }
-42={
-	name=Alaks
-}
