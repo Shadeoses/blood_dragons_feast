@@ -10,6 +10,9 @@ b_lights_home = castle
 b_lights_home_2 = city
 b_lights_home_3 = temple
 #b_lights_home_4 = castle
+#b_lights_home_5 = city
+#b_lights_home_6 = temple
+#b_lights_home_7 = castle
 
 # Misc
 culture = imperian

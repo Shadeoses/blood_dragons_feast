@@ -10,6 +10,9 @@ b_sundered_plains = castle
 b_sundered_plains_2 = city
 b_sundered_plains_3 = temple
 #b_sundered_plains_4 = castle
+#b_sundered_plains_5 = city
+#b_sundered_plains_6 = temple
+#b_sundered_plains_7 = castle
 
 # Misc
 culture = kilzari

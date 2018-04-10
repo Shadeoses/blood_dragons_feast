@@ -10,6 +10,9 @@ b_fletcherling = castle
 b_fletcherling_2 = city
 b_fletcherling_3 = temple
 #b_fletcherling_4 = castle
+#b_fletcherling_5 = city
+#b_fletcherling_6 = temple
+#b_fletcherling_7 = castle
 
 # Misc
 culture = kilzari

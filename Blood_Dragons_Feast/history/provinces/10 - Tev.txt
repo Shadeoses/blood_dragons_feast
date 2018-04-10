@@ -10,6 +10,9 @@ b_tev = castle
 b_tev_2 = city
 b_tev_3 = temple
 #b_tev_4 = castle
+#b_tev_5 = city
+#b_tev_6 = temple
+#b_tev_7 = castle
 
 # Misc
 culture = imperian

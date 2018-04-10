@@ -10,6 +10,9 @@ b_landykon = castle
 b_landykon_2 = city
 b_landykon_3 = temple
 #b_landykon_4 = castle
+#b_landykon_5 = city
+#b_landykon_6 = temple
+#b_landykon_7 = castle
 
 # Misc
 culture = imperian

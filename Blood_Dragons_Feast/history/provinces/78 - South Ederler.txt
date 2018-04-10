@@ -10,6 +10,9 @@ b_south_ederler = castle
 b_south_ederler_2 = city
 b_south_ederler_3 = temple
 #b_south_ederler_4 = castle
+#b_south_ederler_5 = city
+#b_south_ederler_6 = temple
+#b_south_ederler_7 = castle
 
 # Misc
 culture = kilzari

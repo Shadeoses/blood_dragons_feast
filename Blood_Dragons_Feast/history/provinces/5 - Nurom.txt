@@ -10,6 +10,9 @@ b_nurom = castle
 b_nurom_2 = city
 b_nurom_3 = temple
 #b_nurom_4 = castle
+#b_nurom_5 = city
+#b_nurom_6 = temple
+#b_nurom_7 = castle
 
 # Misc
 culture = imperian

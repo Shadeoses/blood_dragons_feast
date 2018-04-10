@@ -10,6 +10,9 @@ b_orvrost = castle
 b_orvrost_2 = city
 b_orvrost_3 = temple
 #b_orvrost_4 = castle
+#b_orvrost_5 = city
+#b_orvrost_6 = temple
+#b_orvrost_7 = castle
 
 # Misc
 culture = imperian

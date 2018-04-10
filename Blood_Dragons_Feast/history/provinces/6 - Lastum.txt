@@ -10,6 +10,9 @@ b_lastum = castle
 b_lastum_2 = city
 b_lastum_3 = temple
 #b_lastum_4 = castle
+#b_lastum_5 = city
+#b_lastum_6 = temple
+#b_lastum_7 = castle
 
 # Misc
 culture = imperian

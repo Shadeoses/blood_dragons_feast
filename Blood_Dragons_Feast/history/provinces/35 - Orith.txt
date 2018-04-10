@@ -10,6 +10,9 @@ b_orith = castle
 b_orith_2 = city
 b_orith_3 = temple
 #b_orith_4 = castle
+#b_orith_5 = city
+#b_orith_6 = temple
+#b_orith_7 = castle
 
 # Misc
 culture = imperian

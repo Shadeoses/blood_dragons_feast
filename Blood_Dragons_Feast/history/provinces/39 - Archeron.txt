@@ -10,6 +10,9 @@ b_archeron = castle
 b_archeron_2 = city
 b_archeron_3 = temple
 #b_archeron_4 = castle
+#b_archeron_5 = city
+#b_archeron_6 = temple
+#b_archeron_7 = castle
 
 # Misc
 culture = imperian

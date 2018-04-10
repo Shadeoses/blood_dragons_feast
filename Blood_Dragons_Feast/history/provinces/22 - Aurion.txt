@@ -10,6 +10,9 @@ b_aurion = castle
 b_aurion_2 = city
 b_aurion_3 = temple
 #b_aurion_4 = castle
+#b_aurion_5 = city
+#b_aurion_6 = temple
+#b_aurion_7 = castle
 
 # Misc
 culture = imperian

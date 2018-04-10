@@ -10,6 +10,9 @@ b_coffiton = castle
 b_coffiton_2 = city
 b_coffiton_3 = temple
 #b_coffiton_4 = castle
+#b_coffiton_5 = city
+#b_coffiton_6 = temple
+#b_coffiton_7 = castle
 
 # Misc
 culture = kilzari

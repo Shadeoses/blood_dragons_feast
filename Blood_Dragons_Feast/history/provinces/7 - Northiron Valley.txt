@@ -10,6 +10,9 @@ b_northiron_valley = castle
 b_northiron_valley_2 = city
 b_northiron_valley_3 = temple
 #b_northiron_valley_4 = castle
+#b_northiron_valley_5 = city
+#b_northiron_valley_6 = temple
+#b_northiron_valley_7 = castle
 
 # Misc
 culture = imperian

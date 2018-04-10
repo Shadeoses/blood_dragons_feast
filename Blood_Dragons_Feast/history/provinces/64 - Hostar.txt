@@ -10,6 +10,9 @@ b_hostar = castle
 b_hostar_2 = city
 b_hostar_3 = temple
 #b_hostar_4 = castle
+#b_hostar_5 = city
+#b_hostar_6 = temple
+#b_hostar_7 = castle
 
 # Misc
 culture = kilzari

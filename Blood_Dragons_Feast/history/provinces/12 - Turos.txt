@@ -10,6 +10,9 @@ b_turos = castle
 b_turos_2 = city
 b_turos_3 = temple
 #b_turos_4 = castle
+#b_turos_5 = city
+#b_turos_6 = temple
+#b_turos_7 = castle
 
 # Misc
 culture = imperian

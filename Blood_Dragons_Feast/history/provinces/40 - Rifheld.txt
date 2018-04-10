@@ -10,6 +10,9 @@ b_rifheld = castle
 b_rifheld_2 = city
 b_rifheld_3 = temple
 #b_rifheld_4 = castle
+#b_rifheld_5 = city
+#b_rifheld_6 = temple
+#b_rifheld_7 = castle
 
 # Misc
 culture = imperian

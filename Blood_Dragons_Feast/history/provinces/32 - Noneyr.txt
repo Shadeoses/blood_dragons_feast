@@ -10,6 +10,9 @@ b_noneyr = castle
 b_noneyr_2 = city
 b_noneyr_3 = temple
 #b_noneyr_4 = castle
+#b_noneyr_5 = city
+#b_noneyr_6 = temple
+#b_noneyr_7 = castle
 
 # Misc
 culture = imperian

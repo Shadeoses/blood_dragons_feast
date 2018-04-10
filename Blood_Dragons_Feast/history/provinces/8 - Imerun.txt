@@ -10,6 +10,9 @@ b_imerun = castle
 b_imerun_2 = city
 b_imerun_3 = temple
 #b_imerun_4 = castle
+#b_imerun_5 = city
+#b_imerun_6 = temple
+#b_imerun_7 = castle
 
 # Misc
 culture = imperian

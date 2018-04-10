@@ -10,6 +10,9 @@ b_gervennin = castle
 b_gervennin_2 = city
 b_gervennin_3 = temple
 #b_gervennin_4 = castle
+#b_gervennin_5 = city
+#b_gervennin_6 = temple
+#b_gervennin_7 = castle
 
 # Misc
 culture = imperian

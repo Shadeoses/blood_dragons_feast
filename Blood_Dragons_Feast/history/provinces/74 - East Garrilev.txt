@@ -10,6 +10,9 @@ b_east_garrilev = castle
 b_east_garrilev_2 = city
 b_east_garrilev_3 = temple
 #b_east_garrilev_4 = castle
+#b_east_garrilev_5 = city
+#b_east_garrilev_6 = temple
+#b_east_garrilev_7 = castle
 
 # Misc
 culture = kilzari

@@ -10,6 +10,9 @@ b_lurnor = castle
 b_lurnor_2 = city
 b_lurnor_3 = temple
 #b_lurnor_4 = castle
+#b_lurnor_5 = city
+#b_lurnor_6 = temple
+#b_lurnor_7 = castle
 
 # Misc
 culture = imperian

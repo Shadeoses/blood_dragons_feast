@@ -10,6 +10,9 @@ b_relothigh = castle
 b_relothigh_2 = city
 b_relothigh_3 = temple
 #b_relothigh_4 = castle
+#b_relothigh_5 = city
+#b_relothigh_6 = temple
+#b_relothigh_7 = castle
 
 # Misc
 culture = imperian

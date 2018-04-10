@@ -10,6 +10,9 @@ b_oldvisht = castle
 b_oldvisht_2 = city
 b_oldvisht_3 = temple
 #b_oldvisht_4 = castle
+#b_oldvisht_5 = city
+#b_oldvisht_6 = temple
+#b_oldvisht_7 = castle
 
 # Misc
 culture = kilzari

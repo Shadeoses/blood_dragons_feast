@@ -10,6 +10,9 @@ b_dairun = castle
 b_dairun_2 = city
 b_dairun_3 = temple
 #b_dairun_4 = castle
+#b_dairun_5 = city
+#b_dairun_6 = temple
+#b_dairun_7 = castle
 
 # Misc
 culture = kilzari

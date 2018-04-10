@@ -10,6 +10,9 @@ b_little_draconia = castle
 b_little_draconia_2 = city
 b_little_draconia_3 = temple
 #b_little_draconia_4 = castle
+#b_little_draconia_5 = city
+#b_little_draconia_6 = temple
+#b_little_draconia_7 = castle
 
 # Misc
 culture = kilzari

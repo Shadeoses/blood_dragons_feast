@@ -10,6 +10,9 @@ b_uvea = castle
 b_uvea_2 = city
 b_uvea_3 = temple
 #b_uvea_4 = castle
+#b_uvea_5 = city
+#b_uvea_6 = temple
+#b_uvea_7 = castle
 
 # Misc
 culture = imperian

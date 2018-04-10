@@ -10,6 +10,9 @@ b_neuxgate = castle
 b_neuxgate_2 = city
 b_neuxgate_3 = temple
 #b_neuxgate_4 = castle
+#b_neuxgate_5 = city
+#b_neuxgate_6 = temple
+#b_neuxgate_7 = castle
 
 # Misc
 culture = kilzari

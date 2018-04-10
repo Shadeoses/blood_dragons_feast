@@ -14,3 +14,11 @@ k_imperia = {
     color={ 232 34 79 }
     color2={ 255 255 255 }
 }
+
+d_volksvelgaya = {
+    color={ 65 11 196 }
+    color2={ 255 255 255 }
+
+    title = "VOLK_RULER"
+    title_female = "VOLK_RULER_F"
+}

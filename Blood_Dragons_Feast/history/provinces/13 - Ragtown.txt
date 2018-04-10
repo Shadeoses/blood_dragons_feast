@@ -10,6 +10,9 @@ b_ragtown = castle
 b_ragtown_2 = city
 b_ragtown_3 = temple
 #b_ragtown_4 = castle
+#b_ragtown_5 = city
+#b_ragtown_6 = temple
+#b_ragtown_7 = castle
 
 # Misc
 culture = imperian

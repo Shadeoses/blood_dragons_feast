@@ -10,6 +10,9 @@ b_toskar_virum = castle
 b_toskar_virum_2 = city
 b_toskar_virum_3 = temple
 #b_toskar_virum_4 = castle
+#b_toskar_virum_5 = city
+#b_toskar_virum_6 = temple
+#b_toskar_virum_7 = castle
 
 # Misc
 culture = imperian

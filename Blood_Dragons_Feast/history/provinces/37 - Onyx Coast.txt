@@ -10,6 +10,9 @@ b_onyx_coast = castle
 b_onyx_coast_2 = city
 b_onyx_coast_3 = temple
 #b_onyx_coast_4 = castle
+#b_onyx_coast_5 = city
+#b_onyx_coast_6 = temple
+#b_onyx_coast_7 = castle
 
 # Misc
 culture = imperian

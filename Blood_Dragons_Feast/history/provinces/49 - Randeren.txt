@@ -10,6 +10,9 @@ b_randeren = castle
 b_randeren_2 = city
 b_randeren_3 = temple
 #b_randeren_4 = castle
+#b_randeren_5 = city
+#b_randeren_6 = temple
+#b_randeren_7 = castle
 
 # Misc
 culture = imperian

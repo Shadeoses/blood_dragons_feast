@@ -10,6 +10,9 @@ b_cold_heartlands = castle
 b_cold_heartlands_2 = city
 b_cold_heartlands_3 = temple
 #b_cold_heartlands_4 = castle
+#b_cold_heartlands_5 = city
+#b_cold_heartlands_6 = temple
+#b_cold_heartlands_7 = castle
 
 # Misc
 culture = kilzari

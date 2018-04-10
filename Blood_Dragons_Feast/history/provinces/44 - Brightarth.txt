@@ -10,6 +10,9 @@ b_brightarth = castle
 b_brightarth_2 = city
 b_brightarth_3 = temple
 #b_brightarth_4 = castle
+#b_brightarth_5 = city
+#b_brightarth_6 = temple
+#b_brightarth_7 = castle
 
 # Misc
 culture = imperian

@@ -10,6 +10,9 @@ b_cubere = castle
 b_cubere_2 = city
 b_cubere_3 = temple
 #b_cubere_4 = castle
+#b_cubere_5 = city
+#b_cubere_6 = temple
+#b_cubere_7 = castle
 
 # Misc
 culture = imperian

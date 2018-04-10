@@ -10,6 +10,9 @@ b_the_pearl_gate = castle
 b_the_pearl_gate_2 = city
 b_the_pearl_gate_3 = temple
 #b_the_pearl_gate_4 = castle
+#b_the_pearl_gate_5 = city
+#b_the_pearl_gate_6 = temple
+#b_the_pearl_gate_7 = castle
 
 # Misc
 culture = kilzari

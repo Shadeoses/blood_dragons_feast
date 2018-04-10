@@ -10,6 +10,9 @@ b_jalnoral = castle
 b_jalnoral_2 = city
 b_jalnoral_3 = temple
 #b_jalnoral_4 = castle
+#b_jalnoral_5 = city
+#b_jalnoral_6 = temple
+#b_jalnoral_7 = castle
 
 # Misc
 culture = kilzari

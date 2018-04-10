@@ -1795,3 +1795,51 @@ e_kilzar = {
 		}
 	}
 }
+e_lisvar = {
+	color={ 95 237 211 }
+	color2={ 255 255 20 }
+	
+	capital = 80 # c_sevalstry
+	culture = impiers
+	
+	k_castivion = {
+		color={ 85 247 206 }
+		color2={ 255 255 255 }
+		
+		capital = 80 # c_sevalstry
+		culture = impiers
+		
+		d_volksvelgaya = {
+			color={ 65 11 196 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 80 } }
+				}
+			}
+			capital = 80 # c_sevalstry
+			
+			c_sevalstry = { # 80
+				color={ 55 21 191 }
+				color2={ 255 255 255 }
+				
+				b_sevalstry = {
+				}
+				b_sevalstry_2 = {
+				}
+				b_sevalstry_3 = {
+				}
+				b_sevalstry_4 = {
+				}
+				b_sevalstry_5 = {
+				}
+				b_sevalstry_6 = {
+				}
+				b_sevalstry_7 = {
+				}
+			}
+		}
+	}
+}

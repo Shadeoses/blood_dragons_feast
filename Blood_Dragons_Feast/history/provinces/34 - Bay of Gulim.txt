@@ -10,6 +10,9 @@ b_bay_of_gulim = castle
 b_bay_of_gulim_2 = city
 b_bay_of_gulim_3 = temple
 #b_bay_of_gulim_4 = castle
+#b_bay_of_gulim_5 = city
+#b_bay_of_gulim_6 = temple
+#b_bay_of_gulim_7 = castle
 
 # Misc
 culture = imperian

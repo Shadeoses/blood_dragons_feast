@@ -10,6 +10,9 @@ b_solus = castle
 b_solus_2 = city
 b_solus_3 = temple
 #b_solus_4 = castle
+#b_solus_5 = city
+#b_solus_6 = temple
+#b_solus_7 = castle
 
 # Misc
 culture = imperian

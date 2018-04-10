@@ -10,6 +10,9 @@ b_damien_hills = castle
 b_damien_hills_2 = city
 b_damien_hills_3 = temple
 #b_damien_hills_4 = castle
+#b_damien_hills_5 = city
+#b_damien_hills_6 = temple
+#b_damien_hills_7 = castle
 
 # Misc
 culture = imperian

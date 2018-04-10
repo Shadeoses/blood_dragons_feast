@@ -10,6 +10,9 @@ b_estden = castle
 b_estden_2 = city
 b_estden_3 = temple
 #b_estden_4 = castle
+#b_estden_5 = city
+#b_estden_6 = temple
+#b_estden_7 = castle
 
 # Misc
 culture = imperian

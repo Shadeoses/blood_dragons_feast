@@ -10,6 +10,9 @@ b_apulum = castle
 b_apulum_2 = city
 b_apulum_3 = temple
 #b_apulum_4 = castle
+#b_apulum_5 = city
+#b_apulum_6 = temple
+#b_apulum_7 = castle
 
 # Misc
 culture = imperian

@@ -10,6 +10,9 @@ b_demarion_keep = castle
 b_demarion_keep_2 = city
 b_demarion_keep_3 = temple
 #b_demarion_keep_4 = castle
+#b_demarion_keep_5 = city
+#b_demarion_keep_6 = temple
+#b_demarion_keep_7 = castle
 
 # Misc
 culture = imperian

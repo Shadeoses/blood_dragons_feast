@@ -10,6 +10,9 @@ b_elbens_bridge = castle
 b_elbens_bridge_2 = city
 b_elbens_bridge_3 = temple
 #b_elbens_bridge_4 = castle
+#b_elbens_bridge_5 = city
+#b_elbens_bridge_6 = temple
+#b_elbens_bridge_7 = castle
 
 # Misc
 culture = imperian

@@ -10,6 +10,9 @@ b_caivus = castle
 b_caivus_2 = city
 b_caivus_3 = temple
 #b_caivus_4 = castle
+#b_caivus_5 = city
+#b_caivus_6 = temple
+#b_caivus_7 = castle
 
 # Misc
 culture = imperian

@@ -10,6 +10,9 @@ b_jarados = castle
 b_jarados_2 = city
 b_jarados_3 = temple
 #b_jarados_4 = castle
+#b_jarados_5 = city
+#b_jarados_6 = temple
+#b_jarados_7 = castle
 
 # Misc
 culture = kilzari

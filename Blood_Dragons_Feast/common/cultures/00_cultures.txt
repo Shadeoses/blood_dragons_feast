@@ -1,4 +1,4 @@
-lisaran = {
+﻿lisaran = {
 	graphical_cultures = { westerngfx }
 
 	eliam = {
@@ -154,7 +154,6 @@ old_draconic = {
 			Zenobia_Zenobia
 		}
 		
-		from_dynasty_suffix = "ensis"
 		from_dynasty_prefix = " "
 
 		male_patronym = " "
@@ -252,7 +251,35 @@ old_draconic = {
 
 		modifier = default_culture_modifier
 	}
+	impiers = {
+		graphical_cultures = { alangfx byzantinegfx }
+		
+		color = { 0.35 0.2 0.45 }
+
+		male_names = {
+			Abas Abul Abuset Aghbugha Aneroghogis Aratan Arches_Arsaces Armayel Asay Aswagen Atrnerseh_Atrnerseh Awag Bab Baguran Bakur Benjamin_Benjamin Bndoy
+			Dawit_David Eghisha_Elisha Enibay Esuaghen Gadvshnasp Germanosan Ghazar Grigor_Gregory Grigoris_Gregory Haykaz Ishxananun
+			Javanshir_Javanshir Juankoy Juanshir_Javanshir Kiwrike_Kiurike Mamkan Mankik Marut Matte_Matthew Merhawan Mihr Mirdazat_Mithridates Mirhavan Mirhorik
+			Movses_Moses Mutsik Nerseh_Narses Patrik_Patrick Peroz_Peroz Pillipe_Phillip Rahat Rostom_Rustam Sahak Sanatruk Sargis_Sergius Satoy
+			Shahnshah_Shahanshah Shama Shat Shergir Sheroy Shuphaghishoy Smbat_Smbat Spandarat Sparakos Stepannos_Stephen Tiran Tirazd Trdat_Tiridates
+			Urnayr Uxtanes Vachagan Vache Vagharshak_Vologases Vahan Vahram Vanakan Varaz-Grigor Varaz-Peroz Varaz-Trdat Varazman Varazoy Vard Vardan_Vartan
+			Vaxtank_Vakhtang Viro Viroy Vrtanes Vstam Xochkorik Xosken Xosrov_Khosrow Xurs_XerxesVa Yakob_Jacob Yawchagan Yeremia Yezut-Xosrov Yovhannes_John
+			Yovnatan_Johnathan Yovxan_John Yusik Zakaria_Zacharias
+		}
+		female_names = {
+			Aghavni Alitz_Alice Almasd Anahid Anna_Anna Anoush Aprsamik Arda Arevig Arin Baydzar Berjanoush Berjouhi Dalita Datevig Eliz_Eloise
+			Gadar Gayane Gorandoukht Goriduxt Hasmig Heghine Houri Hranoush Hripsime Hripsimeh Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin
+			Mara Margarid_Margaret Maria_Maria Mariyam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik_Satenik Seta Shoushanig Shushik Siran
+			Sirvart Srpouhi Taguhi_Takouhi Tamar Vardanuhi Vartanoush Vartouhi Vosgi Xnchik Xosrovanush Yeva Zabel_Elizabeth Zmroukhd
+		}
+		
+		from_dynasty_prefix = "ek "
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
 }
+
 artanian = {
 	graphical_cultures = { norsegfx }
 

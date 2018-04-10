@@ -10,6 +10,9 @@ b_west_press = castle
 b_west_press_2 = city
 b_west_press_3 = temple
 #b_west_press_4 = castle
+#b_west_press_5 = city
+#b_west_press_6 = temple
+#b_west_press_7 = castle
 
 # Misc
 culture = imperian

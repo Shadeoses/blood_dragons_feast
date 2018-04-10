@@ -1,0 +1,21 @@
+# c_sevalstry
+
+# County Title
+title = c_sevalstry
+
+# Settlements
+max_settlements = 5
+
+b_sevalstry = castle
+b_sevalstry_2 = city
+b_sevalstry_3 = temple
+#b_sevalstry_4 = castle
+#b_sevalstry_5 = city
+#b_sevalstry_6 = temple
+#b_sevalstry_7 = castle
+
+# Misc
+culture = impiers
+religion = catholic
+
+#History

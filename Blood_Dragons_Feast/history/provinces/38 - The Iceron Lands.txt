@@ -10,6 +10,9 @@ b_the_iceron_lands = castle
 b_the_iceron_lands_2 = city
 b_the_iceron_lands_3 = temple
 #b_the_iceron_lands_4 = castle
+#b_the_iceron_lands_5 = city
+#b_the_iceron_lands_6 = temple
+#b_the_iceron_lands_7 = castle
 
 # Misc
 culture = imperian

@@ -10,6 +10,9 @@ b_yarens_foe = castle
 b_yarens_foe_2 = city
 b_yarens_foe_3 = temple
 #b_yarens_foe_4 = castle
+#b_yarens_foe_5 = city
+#b_yarens_foe_6 = temple
+#b_yarens_foe_7 = castle
 
 # Misc
 culture = kilzari

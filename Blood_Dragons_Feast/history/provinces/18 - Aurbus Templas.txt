@@ -10,6 +10,9 @@ b_aurbus_templas = castle
 b_aurbus_templas_2 = city
 b_aurbus_templas_3 = temple
 #b_aurbus_templas_4 = castle
+#b_aurbus_templas_5 = city
+#b_aurbus_templas_6 = temple
+#b_aurbus_templas_7 = castle
 
 # Misc
 culture = imperian

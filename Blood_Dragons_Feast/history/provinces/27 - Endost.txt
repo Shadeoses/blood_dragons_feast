@@ -10,6 +10,9 @@ b_endost = castle
 b_endost_2 = city
 b_endost_3 = temple
 #b_endost_4 = castle
+#b_endost_5 = city
+#b_endost_6 = temple
+#b_endost_7 = castle
 
 # Misc
 culture = imperian
