@@ -1,42 +1,7 @@
-1=
-{
-	used_for_random=no
-	name="Alsonz"
-	culture="imperian"
-}
-2=
-{
-	used_for_random=no
-	name="Herenovulus"
-	culture="imperian"
-}
-3=
-{
-	used_for_random=no
-	name="Dantonate"
-	culture="imperian"
-}
-4=
-{
-	used_for_random=no
-	name="Carswell"
-	culture="imperian"
-}
-5=
-{
-	used_for_random=no
-	name="Oxforson"
-	culture="imperian"
-}
-6=
-{
-	used_for_random=no
-	name="Austulen"
-	culture="ryker"
-}
-7=
-{
-	used_for_random=no
-	name="Demarion"
-	culture="imperian"
-}
+1 = { name = "Alsonz" culture = "imperian" used_for_random = no }
+2 = { name = "Herenovulus" culture = "imperian" used_for_random = no }
+3 = { name = "Dantonate" culture = "imperian" used_for_random = no }
+4 = { name = "Carswell" culture = "imperian" used_for_random = no }
+5 = { name = "Oxforson" culture = "imperian" used_for_random = no }
+6 = { name = "Austulen" culture = "imperian" used_for_random = no }
+7 = { name = "Demarion" culture = "imperian" used_for_random = no }

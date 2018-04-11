@@ -252,7 +252,7 @@ old_draconic = {
 		modifier = default_culture_modifier
 	}
 	impiers = {
-		graphical_cultures = { alangfx byzantinegfx }
+		graphical_cultures = { easternslavicgfx }
 		
 		color = { 0.35 0.2 0.45 }
 

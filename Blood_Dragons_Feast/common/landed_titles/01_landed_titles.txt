@@ -37,6 +37,7 @@ e_imperia = {
 				b_apulum_2 = {
 				}
 				b_apulum_3 = {
+					holy_site = catholic
 				}
 				b_apulum_4 = {
 				}
@@ -876,6 +877,7 @@ e_imperia = {
 				b_rifheld_2 = {
 				}
 				b_rifheld_3 = {
+					holy_site = catholic
 				}
 				b_rifheld_4 = {
 				}
@@ -1604,6 +1606,7 @@ e_kilzar = {
 				b_west_garrilev_2 = {
 				}
 				b_west_garrilev_3 = {
+					holy_site = catholic
 				}
 				b_west_garrilev_4 = {
 				}
@@ -1674,6 +1677,7 @@ e_kilzar = {
 				b_jalnoral_2 = {
 				}
 				b_jalnoral_3 = {
+					holy_site = catholic
 				}
 				b_jalnoral_4 = {
 				}
@@ -1744,6 +1748,7 @@ e_kilzar = {
 				b_the_pearl_gate_2 = {
 				}
 				b_the_pearl_gate_3 = {
+					holy_site = catholic
 				}
 				b_the_pearl_gate_4 = {
 				}
