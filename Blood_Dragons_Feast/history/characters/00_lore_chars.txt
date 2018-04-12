@@ -582,6 +582,7 @@
 	trait=temperate
 	trait=scarred
 	trait=ruthless
+	father=46
 	1208.1.1={ birth=yes }
 	1229.1.1={ add_spouse=43 }
 	1278.1.1={ death=yes }
@@ -600,4 +601,108 @@
 	trait=one_legged
 	1221.1.1={ birth=yes }
 	1291.1.1={ death=yes }
+}
+44={
+	name=Norman
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	trait=amateurish_plotter
+	trait=greedy
+	trait=kind
+	trait=patient
+	trait=ruthless
+	trait=strong
+	trait=tall
+	father=42
+	mother=43
+	1239.1.1={ birth=yes }
+	1309.1.1={ death=yes }
+}
+45={
+	name=Ilara
+	female=yes
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	trait=fortune_builder
+	trait=greedy
+	trait=genius
+	trait=cruel
+	trait=temperate
+	father=42
+	mother=43
+	1244.1.1={ birth=yes }
+	1314.1.1={ death=yes }
+}
+46={
+	name=Edvar
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	1187.1.1={ birth=yes }
+	1247.1.1={ death=yes }
+}
+47={
+	name=Jafid
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	trait=detached_priest
+	trait=zealous
+	trait=kind
+	trait=temperate
+	trait=patient
+	trait=lustful
+	trait=dynastic_kinslayer
+	father=46
+	1213.1.1={ birth=yes }
+	1283.1.1={ death=yes }
+}
+48={
+	name=Alexia
+	female=yes
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	trait=brilliant_strategist
+	trait=kind
+	trait=quick
+	trait=strategist
+	trait=duelist
+	trait=shrewd
+	father=46
+	1218.1.1={ birth=yes }
+	1238.1.1={ 
+		death = {
+			death_reason = death_battle
+ 			killer = 47
+		} 
+	}
+}
+49={
+	name=Erdrosech
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	trait=blinded
+	trait=imbecile
+	father=47
+	1234.1.1={ birth=yes }
+	1304.1.1={ death=yes }
+}
+50={
+	name=Theodora
+	dynasty=8
+	culture=impiers
+	religion=catholic
+	trait=skilled_tactician
+	trait=cruel
+	trait=quick
+	trait=patient
+	trait=shrewd
+	trait=deceitful
+	trait=lustful
+	1216.1.1={ birth=yes }
+	1286.1.1={ death=yes }
 }

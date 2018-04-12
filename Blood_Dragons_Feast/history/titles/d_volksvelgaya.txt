@@ -6,4 +6,6 @@
 800.1.1={
 	liege=k_castivion
 }
-1250.1.1={holder=42}
+1200.1.1={holder=46} #Edvar
+1250.1.1={holder=42} #Alaks
+1278.1.1={holder=44} #Norman

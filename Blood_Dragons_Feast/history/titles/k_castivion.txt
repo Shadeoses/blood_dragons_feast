@@ -3,3 +3,5 @@
 	law = agnatic_succession
 	law = succ_gavelkind
 }
+1200.1.1={holder=46} #Edvar
+1247.1.1={holder=0} #kingdom fractured

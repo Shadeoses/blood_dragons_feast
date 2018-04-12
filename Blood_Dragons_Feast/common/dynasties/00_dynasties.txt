@@ -7,3 +7,5 @@
 7 = { name = "Demarion" culture = "imperian" used_for_random = no }
 8 = { name = "Sverlo" culture = "impiers" used_for_random = no }
 9 = { name = "Ravotsk" culture = "impiers" used_for_random = no }
+10 = { name = "Kazaria" culture = "impiers" used_for_random = no }
+11 = { name = "Von Slauf" culture = "cancarian" used_for_random = no }
