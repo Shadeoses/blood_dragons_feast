@@ -1821,7 +1821,7 @@ e_lisvar = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 80 } }
+					any_demesne_province = { OR = { province_id = 80 province_id = 81 province_id = 82 } }
 				}
 			}
 			capital = 80 # c_sevalstry
@@ -1830,19 +1830,57 @@ e_lisvar = {
 				color={ 55 21 191 }
 				color2={ 255 255 255 }
 				
+				b_the_winterbranch_palace = {
+				}
+				b_alonton = {
+				}
+				b_frost_river = {
+				}
+				b_the_sister_mountains = {
+				}
+				b_inliaed = {
+				}
 				b_sevalstry = {
 				}
 				b_sevalstry_2 = {
 				}
-				b_sevalstry_3 = {
+			}
+			c_ardumfell = { # 81
+				color={ 12 56 138 }
+				color2={ 255 255 255 }
+				
+				b_ardumfell = {
 				}
-				b_sevalstry_4 = {
+				b_ardumfell_2 = {
 				}
-				b_sevalstry_5 = {
+				b_ardumfell_3 = {
 				}
-				b_sevalstry_6 = {
+				b_ardumfell_4 = {
 				}
-				b_sevalstry_7 = {
+				b_ardumfell_5 = {
+				}
+				b_ardumfell_6 = {
+				}
+				b_ardumfell_7 = {
+				}
+			}
+			c_the_fringe = { # 82
+				color={ 111 117 34 }
+				color2={ 255 255 255 }
+				
+				b_the_fringe = {
+				}
+				b_the_fringe_2 = {
+				}
+				b_the_fringe_3 = {
+				}
+				b_the_fringe_4 = {
+				}
+				b_the_fringe_5 = {
+				}
+				b_the_fringe_6 = {
+				}
+				b_the_fringe_7 = {
 				}
 			}
 		}

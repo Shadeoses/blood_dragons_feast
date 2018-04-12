@@ -3,6 +3,8 @@ c_apulum;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
 c_apulum_adj;Apulumian;;apulumer;;;;;;;;;;;x
 c_archeron;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
 c_archeron_adj;Archeronian;;archeroner;;;;;;;;;;;x
+c_ardumfell;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+c_ardumfell_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
 c_aurbus_templas;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
 c_aurbus_templas_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
 c_aurion;Aurion;Aurion;Aurion;;Aurion;;;;;;;;;x
@@ -137,6 +139,8 @@ c_talon_point;Talon Point;Talon Point;Talon Point;;Talon Point;;;;;;;;;x
 c_talon_point_adj;Talon Pointian;;Talon Pointer;;;;;;;;;;;x
 c_tev;Tev;Tev;Tev;;Tev;;;;;;;;;x
 c_tev_adj;Tevian;;tever;;;;;;;;;;;x
+c_the_fringe;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+c_the_fringe_adj;The Fringean;;The Fringer;;;;;;;;;;;x
 c_the_iceron_lands;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
 c_the_iceron_lands_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
 c_the_pearl_gate;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x

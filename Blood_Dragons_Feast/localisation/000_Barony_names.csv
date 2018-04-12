@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+b_alonton;Alonton;Alonton;Alonton;;Alonton;;;;;;;;;x
+b_alonton_adj;Alontonian;;alontoner;;;;;;;;;;;x
 b_apulum;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
 b_apulum_adj;Apulumian;;apulumer;;;;;;;;;;;x
 b_apulum_2;Apulum;Apulum;Apulum;;Apulum;;;;;;;;;x
@@ -27,6 +29,20 @@ b_archeron_6;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
 b_archeron_6_adj;Archeronian;;archeroner;;;;;;;;;;;x
 b_archeron_7;Archeron;Archeron;Archeron;;Archeron;;;;;;;;;x
 b_archeron_7_adj;Archeronian;;archeroner;;;;;;;;;;;x
+b_ardumfell;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
+b_ardumfell_2;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_2_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
+b_ardumfell_3;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_3_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
+b_ardumfell_4;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_4_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
+b_ardumfell_5;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_5_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
+b_ardumfell_6;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_6_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
+b_ardumfell_7;Ardumfell;Ardumfell;Ardumfell;;Ardumfell;;;;;;;;;x
+b_ardumfell_7_adj;Ardumfellian;;ardumfeller;;;;;;;;;;;x
 b_aurbus_templas;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
 b_aurbus_templas_adj;Aurbus Templasian;;Aurbus Templaser;;;;;;;;;;;x
 b_aurbus_templas_2;Aurbus Templas;Aurbus Templas;Aurbus Templas;;Aurbus Templas;;;;;;;;;x
@@ -321,6 +337,8 @@ b_fort_jurim_6;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
 b_fort_jurim_6_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
 b_fort_jurim_7;Fort Jurim;Fort Jurim;Fort Jurim;;Fort Jurim;;;;;;;;;x
 b_fort_jurim_7_adj;Fort Jurimian;;Fort Jurimer;;;;;;;;;;;x
+b_frost_river;Frost River;Frost River;Frost River;;Frost River;;;;;;;;;x
+b_frost_river_adj;Frost Riverian;;Frost Riverer;;;;;;;;;;;x
 b_gervennin;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
 b_gervennin_adj;Gervenninian;;gervenniner;;;;;;;;;;;x
 b_gervennin_2;Gervennin;Gervennin;Gervennin;;Gervennin;;;;;;;;;x
@@ -391,6 +409,8 @@ b_imerun_6;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
 b_imerun_6_adj;Imerunian;;imeruner;;;;;;;;;;;x
 b_imerun_7;Imerun;Imerun;Imerun;;Imerun;;;;;;;;;x
 b_imerun_7_adj;Imerunian;;imeruner;;;;;;;;;;;x
+b_inliaed;Inliaed;Inliaed;Inliaed;;Inliaed;;;;;;;;;x
+b_inliaed_adj;Inliaedian;;inliaeder;;;;;;;;;;;x
 b_jacobaland;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
 b_jacobaland_adj;Jacobalandian;;jacobalander;;;;;;;;;;;x
 b_jacobaland_2;Jacobaland;Jacobaland;Jacobaland;;Jacobaland;;;;;;;;;x
@@ -829,16 +849,6 @@ b_sevalstry;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
 b_sevalstry_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
 b_sevalstry_2;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
 b_sevalstry_2_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
-b_sevalstry_3;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
-b_sevalstry_3_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
-b_sevalstry_4;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
-b_sevalstry_4_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
-b_sevalstry_5;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
-b_sevalstry_5_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
-b_sevalstry_6;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
-b_sevalstry_6_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
-b_sevalstry_7;Sevalstry;Sevalstry;Sevalstry;;Sevalstry;;;;;;;;;x
-b_sevalstry_7_adj;Sevalstrian;;sevalstrer;;;;;;;;;;;x
 b_sitharghis;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
 b_sitharghis_adj;Sitharghisian;;sitharghiser;;;;;;;;;;;x
 b_sitharghis_2;Sitharghis;Sitharghis;Sitharghis;;Sitharghis;;;;;;;;;x
@@ -965,6 +975,20 @@ b_tev_6;Tev;Tev;Tev;;Tev;;;;;;;;;x
 b_tev_6_adj;Tevian;;tever;;;;;;;;;;;x
 b_tev_7;Tev;Tev;Tev;;Tev;;;;;;;;;x
 b_tev_7_adj;Tevian;;tever;;;;;;;;;;;x
+b_the_fringe;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_adj;The Fringean;;The Fringer;;;;;;;;;;;x
+b_the_fringe_2;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_2_adj;The Fringean;;The Fringer;;;;;;;;;;;x
+b_the_fringe_3;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_3_adj;The Fringean;;The Fringer;;;;;;;;;;;x
+b_the_fringe_4;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_4_adj;The Fringean;;The Fringer;;;;;;;;;;;x
+b_the_fringe_5;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_5_adj;The Fringean;;The Fringer;;;;;;;;;;;x
+b_the_fringe_6;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_6_adj;The Fringean;;The Fringer;;;;;;;;;;;x
+b_the_fringe_7;The Fringe;The Fringe;The Fringe;;The Fringe;;;;;;;;;x
+b_the_fringe_7_adj;The Fringean;;The Fringer;;;;;;;;;;;x
 b_the_iceron_lands;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
 b_the_iceron_lands_adj;The Iceron Landsian;;The Iceron Landser;;;;;;;;;;;x
 b_the_iceron_lands_2;The Iceron Lands;The Iceron Lands;The Iceron Lands;;The Iceron Lands;;;;;;;;;x
@@ -993,6 +1017,10 @@ b_the_pearl_gate_6;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;
 b_the_pearl_gate_6_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
 b_the_pearl_gate_7;The Pearl Gate;The Pearl Gate;The Pearl Gate;;The Pearl Gate;;;;;;;;;x
 b_the_pearl_gate_7_adj;The Pearl Gatean;;The Pearl Gater;;;;;;;;;;;x
+b_the_sister_mountains;The Sister Mountains;The Sister Mountains;The Sister Mountains;;The Sister Mountains;;;;;;;;;x
+b_the_sister_mountains_adj;The Sister Mountainsian;;The Sister Mountainser;;;;;;;;;;;x
+b_the_winterbranch_palace;The Winterbranch Palace;The Winterbranch Palace;The Winterbranch Palace;;The Winterbranch Palace;;;;;;;;;x
+b_the_winterbranch_palace_adj;The Winterbranch Palacean;;The Winterbranch Palacer;;;;;;;;;;;x
 b_toskar_virum;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x
 b_toskar_virum_adj;Toskar-Virumian;;toskar-virumer;;;;;;;;;;;x
 b_toskar_virum_2;Toskar-Virum;Toskar-Virum;Toskar-Virum;;Toskar-Virum;;;;;;;;;x

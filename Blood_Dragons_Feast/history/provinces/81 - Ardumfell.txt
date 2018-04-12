@@ -1,0 +1,21 @@
+# c_ardumfell
+
+# County Title
+title = c_ardumfell
+
+# Settlements
+max_settlements = 4
+
+b_ardumfell = temple
+b_ardumfell_2 = city
+b_ardumfell_3 = temple
+#b_ardumfell_4 = castle
+#b_ardumfell_5 = city
+#b_ardumfell_6 = temple
+#b_ardumfell_7 = castle
+
+# Misc
+culture = impiers
+religion = catholic
+
+#History

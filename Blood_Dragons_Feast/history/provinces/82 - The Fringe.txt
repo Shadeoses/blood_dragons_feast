@@ -1,0 +1,21 @@
+# c_the_fringe
+
+# County Title
+title = c_the_fringe
+
+# Settlements
+max_settlements = 4
+
+b_the_fringe = castle
+b_the_fringe_2 = city
+b_the_fringe_3 = temple
+#b_the_fringe_4 = castle
+#b_the_fringe_5 = city
+#b_the_fringe_6 = temple
+#b_the_fringe_7 = castle
+
+# Misc
+culture = impiers
+religion = catholic
+
+#History

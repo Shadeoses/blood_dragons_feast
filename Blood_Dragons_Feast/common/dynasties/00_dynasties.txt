@@ -5,3 +5,5 @@
 5 = { name = "Oxforson" culture = "imperian" used_for_random = no }
 6 = { name = "Austulen" culture = "imperian" used_for_random = no }
 7 = { name = "Demarion" culture = "imperian" used_for_random = no }
+8 = { name = "Sverlo" culture = "impiers" used_for_random = no }
+9 = { name = "Ravotsk" culture = "impiers" used_for_random = no }
