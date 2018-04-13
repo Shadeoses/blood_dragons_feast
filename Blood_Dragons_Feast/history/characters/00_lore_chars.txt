@@ -693,7 +693,8 @@
 }
 50={
 	name=Theodora
-	dynasty=8
+	female=yes
+	dynasty=10
 	culture=impiers
 	religion=catholic
 	trait=skilled_tactician
@@ -705,4 +706,18 @@
 	trait=lustful
 	1216.1.1={ birth=yes }
 	1286.1.1={ death=yes }
+}
+51={
+	name=Otto
+	dynasty=11
+	culture=cancarian
+	religion=catholic
+	trait=skilled_tactician
+	trait=imbecile
+	trait=strong
+	trait=kind
+	trait=one_eyed
+	trait=patient
+	1201.1.1={ birth=yes }
+	1271.1.1={ death=yes }
 }
